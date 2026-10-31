@@ -14,6 +14,21 @@ Ce projet démontre l'ensemble de la chaîne de valeur d'un **Data Analyst** : *
 
 ---
 
+## 🌐 Démo Interactive en Ligne (Dashboard & Shotmap FotMob)
+
+Vous pouvez ouvrir et tester l'application interactive directement dans votre navigateur (sans rien installer) en cliquant sur le bouton ci-dessous :
+
+👉 **[🚀 CLIQUEZ ICI POUR OUVRIR LE DASHBOARD INTERACTIF EN LIGNE (6 ONGLETS : DIAGNOSTIC 24 ÉQUIPES, SHOTMAP 1 026 TIRS & MATCH CENTER FOTMOB)](https://htmlpreview.github.io/?https://github.com/aminetalal1993-sudo/can2025-data-analysis/blob/main/index.html)**
+
+* **Lien direct vers le code de la page Web autonome :** [`index.html`](index.html)
+* **Lien vers l'application Python Streamlit (`http://localhost:8501`) :** [`app/streamlit_app.py`](app/streamlit_app.py)
+* **Documentation PDF complète :** 📄 [`Guide_Complet_Projet_CAN2025.pdf`](Guide_Complet_Projet_CAN2025.pdf)
+
+### Aperçu de l'Application Interactive (`http://localhost:8501` / `index.html`)
+![Aperçu Dashboard Interactif CAN 2025](visuals/00_dashboard_app_preview.png)
+
+---
+
 ## 🏗️ 1. Architecture Technique & Pipeline de Données
 
 ```mermaid
