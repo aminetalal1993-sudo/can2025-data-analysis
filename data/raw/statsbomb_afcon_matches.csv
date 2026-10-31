@@ -1,0 +1,53 @@
+statsbomb_match_id,match_date,stage,home_team,away_team,home_score,away_score,stadium,referee
+3920384,2024-01-13,Group Stage,Côte d'Ivoire,Guinea-Bissau,2,0,Stade Olympique Alassane Ouattara,Amin Mohamed Omar
+3920386,2024-01-14,Group Stage,Nigeria,Equatorial Guinea,1,1,Stade Olympique Alassane Ouattara,Abongile Tom
+3920385,2024-01-14,Group Stage,Egypt,Mozambique,2,2,Stade Félix Houphouët-Boigny      ,Dahane Beida
+3920387,2024-01-14,Group Stage,Ghana,Cape Verde Islands,1,2,Stade Félix Houphouët-Boigny      ,Jean Jacques Ndala Ngambo
+3920390,2024-01-15,Group Stage,Algeria,Angola,1,1,Stade de Bouaké,Issa Sy
+3920388,2024-01-15,Group Stage,Senegal,Gambia,3,0,Stade Charles Konan Banny de Yamoussoukro,Redouane Jiyed
+3920389,2024-01-15,Group Stage,Cameroon,Guinea,1,1,Stade Charles Konan Banny de Yamoussoukro,Ibrahim Mutaz
+3920393,2024-01-16,Group Stage,Tunisia,Namibia,0,1,Stade Amadou Gon Coulibaly,Abdulkadir Artan
+3920391,2024-01-16,Group Stage,Mali,South Africa,2,0,Stade Amadou Gon Coulibaly,Mohamed Adel Hussein
+3920392,2024-01-16,Group Stage,Burkina Faso,Mauritania,1,0,Stade de Bouaké,Jalal Jayed
+3920395,2024-01-17,Group Stage,Congo DR,Zambia,1,1,Stade Laurent Pokou,Bamlak Tessema Weyesa
+3920394,2024-01-17,Group Stage,Morocco,Tanzania,3,0,Stade Laurent Pokou,Alhadi Allaou Mahamat
+3920396,2024-01-18,Group Stage,Egypt,Ghana,2,2,Stade Félix Houphouët-Boigny      ,Pierre Ghislain Atcho
+3920397,2024-01-18,Group Stage,Equatorial Guinea,Guinea-Bissau,4,2,Stade Olympique Alassane Ouattara,Samuel Uwikunda
+3920398,2024-01-18,Group Stage,Côte d'Ivoire,Nigeria,0,1,Stade Olympique Alassane Ouattara,Mustapha Ghorbal
+3920399,2024-01-19,Group Stage,Cape Verde Islands,Mozambique,3,0,Stade Félix Houphouët-Boigny      ,Samir Guezzaz
+3920400,2024-01-19,Group Stage,Senegal,Cameroon,3,1,Stade Charles Konan Banny de Yamoussoukro,Mahmood Ali Mahmood Ismail
+3920401,2024-01-19,Group Stage,Guinea,Gambia,1,0,Stade Charles Konan Banny de Yamoussoukro,Abdel Aziz Mohamed Bouh
+3920404,2024-01-20,Group Stage,Tunisia,Mali,1,1,Stade Amadou Gon Coulibaly,Daniel Nii Ayi Laryea
+3920403,2024-01-20,Group Stage,Mauritania,Angola,2,3,Stade de Bouaké,Mohamed Maarouf Eid Mansour
+3920402,2024-01-20,Group Stage,Algeria,Burkina Faso,2,2,Stade de Bouaké,Abongile Tom
+3920406,2024-01-21,Group Stage,Zambia,Tanzania,1,1,Stade Laurent Pokou,Djindo Louis Houngnandande
+3920405,2024-01-21,Group Stage,Morocco,Congo DR,1,1,Stade Laurent Pokou,Peter Waweru Kamaku
+3920407,2024-01-21,Group Stage,South Africa,Namibia,4,0,Stade Amadou Gon Coulibaly,Youcef Gamouh
+3920410,2024-01-22,Group Stage,Mozambique,Ghana,2,2,Stade Olympique Alassane Ouattara,Ibrahim Mutaz
+3920411,2024-01-22,Group Stage,Cape Verde Islands,Egypt,2,2,Stade Félix Houphouët-Boigny      ,Alhadi Allaou Mahamat
+3920408,2024-01-22,Group Stage,Equatorial Guinea,Côte d'Ivoire,4,0,Stade Olympique Alassane Ouattara,Mahmood Ali Mahmood Ismail
+3920409,2024-01-22,Group Stage,Guinea-Bissau,Nigeria,0,1,Stade Félix Houphouët-Boigny      ,Bouchra Karboubi
+3920414,2024-01-23,Group Stage,Angola,Burkina Faso,2,0,Stade Charles Konan Banny de Yamoussoukro,Jean Jacques Ndala Ngambo
+3920415,2024-01-23,Group Stage,Mauritania,Algeria,1,0,Stade de Bouaké,Omar Abdulkadir Artan
+3920412,2024-01-23,Group Stage,Guinea,Senegal,0,2,Stade Charles Konan Banny de Yamoussoukro,Pacifique Ndabihawenimana
+3920413,2024-01-23,Group Stage,Gambia,Cameroon,2,3,Stade de Bouaké,Bamlak Tessema Weyesa
+3920416,2024-01-24,Group Stage,South Africa,Tunisia,0,0,Stade Amadou Gon Coulibaly,Issa Sy
+3920418,2024-01-24,Group Stage,Tanzania,Congo DR,0,0,Stade Amadou Gon Coulibaly,Amin Mohamed Omar
+3920417,2024-01-24,Group Stage,Namibia,Mali,0,0,Stade Laurent Pokou,Samuel Uwikunda
+3920419,2024-01-24,Group Stage,Zambia,Morocco,0,1,Stade Laurent Pokou,Patrice Tanguy Mebiame
+3922237,2024-01-27,Round of 16,Angola,Namibia,3,0,Stade de Bouaké,Dahane Beida
+3922238,2024-01-27,Round of 16,Nigeria,Cameroon,2,0,Stade Félix Houphouët-Boigny      ,Redouane Jiyed
+3922240,2024-01-28,Round of 16,Egypt,Congo DR,1,1,Stade Laurent Pokou,Abongile Tom
+3922239,2024-01-28,Round of 16,Equatorial Guinea,Guinea,0,1,Stade Olympique Alassane Ouattara,Omar Abdulkadir Artan
+3922242,2024-01-29,Round of 16,Senegal,Côte d'Ivoire,1,1,Stade Charles Konan Banny de Yamoussoukro,Pierre Ghislain Atcho
+3922241,2024-01-29,Round of 16,Cape Verde Islands,Mauritania,1,0,Stade Félix Houphouët-Boigny      ,Mohamed Adel Elsaid
+3922243,2024-01-30,Round of 16,Morocco,South Africa,0,2,Stade Laurent Pokou,Mahmood Ali Mahmood Ismail
+3922244,2024-01-30,Round of 16,Mali,Burkina Faso,2,1,Stade Amadou Gon Coulibaly,Ibrahim Mutaz
+3922321,2024-02-02,Quarter-finals,Nigeria,Angola,1,0,Stade Félix Houphouët-Boigny      ,Issa Sy
+3922356,2024-02-02,Quarter-finals,Congo DR,Guinea,3,1,Stade Olympique Alassane Ouattara,Mustapha Ghorbal
+3922659,2024-02-03,Quarter-finals,Mali,Côte d'Ivoire,1,2,Stade de Bouaké,Mohamed Adel Elsaid
+3922658,2024-02-03,Quarter-finals,Cape Verde Islands,South Africa,0,0,Stade Charles Konan Banny de Yamoussoukro,Jean Jacques Ndala Ngambo
+3922837,2024-02-07,Semi-finals,Nigeria,South Africa,1,1,Stade de Bouaké,Amin Mohamed Omar
+3922838,2024-02-07,Semi-finals,Côte d'Ivoire,Congo DR,1,0,Stade Olympique Alassane Ouattara,Ibrahim Mutaz
+3923880,2024-02-10,3rd Place Final,South Africa,Congo DR,0,0,Stade Félix Houphouët-Boigny      ,Bamlak Tessema Weyesa
+3923881,2024-02-11,Final,Nigeria,Côte d'Ivoire,1,2,Stade Olympique Alassane Ouattara,Dahane Beida

@@ -1,0 +1,25 @@
+team_id,team_name,group_name,fifa_rank,market_value_m_eur,coach_style,confederation_region,previous_titles,final_stage_2025
+MAR,Maroc,Groupe A,12,415.0,Possession & Pressing Haut,Afrique du Nord,1,Vainqueur
+MLI,Mali,Groupe A,47,148.0,Transition & Impact Physique,Afrique de l'Ouest,0,Quart de finale
+COM,Comores,Groupe A,105,18.2,Bloc Compact & Technique,Afrique de l'Est,0,Phase de groupes
+ZAM,Zambie,Groupe A,88,34.5,Contre-attaque Rapide,Afrique Australe,1,Phase de groupes
+EGY,Égypte,Groupe B,31,135.0,Équilibre & Transition,Afrique du Nord,7,Demi-finale (4e place)
+RSA,Afrique du Sud,Groupe B,58,42.0,Jeu Collectif & Possession,Afrique Australe,1,Huitième de finale
+ANG,Angola,Groupe B,82,52.0,Attaque Directe,Afrique Centrale,0,Phase de groupes
+ZIM,Zimbabwe,Groupe B,118,16.5,Bloc Bas,Afrique Australe,0,Phase de groupes
+NGA,Nigeria,Groupe C,29,340.0,Puissance Offensive & Ailes,Afrique de l'Ouest,3,Demi-finale (3e place)
+TUN,Tunisie,Groupe C,45,68.0,Rigueur Défensive,Afrique du Nord,1,Huitième de finale
+TAN,Tanzanie,Groupe C,108,11.5,Défense Regroupée,Afrique de l'Est,0,Huitième de finale
+UGA,Ouganda,Groupe C,90,14.0,Jeu Direct,Afrique de l'Est,0,Phase de groupes
+SEN,Sénégal,Groupe D,18,295.0,Équilibre Complet & Pressing,Afrique de l'Ouest,1,Finaliste
+COD,RD Congo,Groupe D,60,112.0,Transitions Explosives,Afrique Centrale,2,Huitième de finale
+BEN,Bénin,Groupe D,91,25.0,Organisation Défensive,Afrique de l'Ouest,0,Huitième de finale
+BOT,Botswana,Groupe D,140,6.5,Bloc Bas & Contre,Afrique Australe,0,Phase de groupes
+ALG,Algérie,Groupe E,36,195.0,Possession Technique & Ailiers,Afrique du Nord,2,Quart de finale
+BFA,Burkina Faso,Groupe E,62,92.0,Athlétique & Projection,Afrique de l'Ouest,0,Huitième de finale
+SDN,Soudan,Groupe E,115,9.0,Défense Héroïque,Afrique de l'Est,1,Huitième de finale
+EQG,Guinée Équatoriale,Groupe E,85,22.0,Collectif Solidaire,Afrique Centrale,0,Phase de groupes
+CIV,Côte d'Ivoire,Groupe F,33,310.0,Maîtrise du Milieu & Intensité,Afrique de l'Ouest,3,Quart de finale
+CMR,Cameroun,Groupe F,49,165.0,Impact Offensif & Verticalité,Afrique Centrale,5,Quart de finale
+MOZ,Mozambique,Groupe F,98,24.0,Jeu Ouvert & Transitions,Afrique Australe,0,Huitième de finale
+GAB,Gabon,Groupe F,79,55.0,Contre-attaque Ciblée,Afrique Centrale,0,Phase de groupes

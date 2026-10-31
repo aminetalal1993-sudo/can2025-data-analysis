@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environnement & secrets
+.env
+.venv/
+venv/
+
+# Fichiers temporaires OS / Excel
+~$*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,53 @@
+fotmob_match_id,match_date,round,home_team,away_team,score_str,stadium_name,city,attendance,referee,player_of_the_match
+4721995,2025-12-23,1,Nigeria,Tanzania,2 - 1,Godswill Akpabio International Stadium,Uyo,,,
+4721989,2025-12-22,1,Egypt,Zimbabwe,2 - 1,Stade d'Agadir,Agadir,28199.0,Issa Sy,Mohamed Salah
+4722001,2025-12-23,1,Senegal,Botswana,3 - 0,Grand Stade de Tanger,Tanger,18591.0,Abdel Aziz Bouh,Nicolas Jackson
+4721984,2025-12-22,1,Mali,Zambia,1 - 1,Stade Mohamed V,Casablanca,10124.0,Omar Abdulkadir Artan,Mamadou Sangare
+4721990,2025-12-22,1,South Africa,Angola,2 - 1,Stade de Marrakech,Marrakech,4013.0,Mahmood Ali Mahmood Ismail,Lyle Foster
+4721996,2025-12-23,1,Tunisia,Uganda,3 - 1,Stade olympique Hammadi-Agrebi,Radès,,Abdelaziz Bouh,Adem Arous
+4722002,2025-12-23,1,DR Congo,Benin,1 - 0,Al Medina Stadium,Rabat,13073.0,Abongile Tom,Théo Bongonda
+4722008,2025-12-24,1,Burkina Faso,Equatorial Guinea,2 - 1,Stade Mohamed V,Casablanca,10267.0,Pierre Atcho,Dango Ouattara
+4721983,2025-12-21,1,Morocco,Comoros,2 - 0,Stade Prince Moulay Abdallah,Rabat,60180.0,Jean-Jacques Ndala Ngambo,Brahim Diaz
+4722007,2025-12-24,1,Algeria,Sudan,3 - 0,Stade Prince Moulay El Hassan,Rabat,16115.0,Pierre Atcho,Riyad Mahrez
+4722013,2025-12-24,1,Ivory Coast,Mozambique,1 - 0,Stade de Marrakech,Marrakech,13041.0,Samuel Uwikunda,Amad
+4721986,2025-12-26,2,Zambia,Comoros,0 - 0,Stade Mohammed V,Casablanca,7829.0,Ahmad Heeralall,Zaydou Youssouf
+4722004,2025-12-27,2,Benin,Botswana,1 - 0,Stade Olympique de Rabat,Rabat,7462.0,Shamirah Nabadda,Yohan Roche
+4722014,2025-12-24,1,Cameroon,Gabon,1 - 0,Stade d'Agadir,Agadir,35200.0,Amin Omar,Bryan Mbeumo
+4721998,2025-12-27,2,Uganda,Tanzania,1 - 1,Al Medina Stadium,Rabat,10540.0,Jalal Jayed,Simon Msuva
+4721997,2025-12-27,2,Nigeria,Tunisia,3 - 2,Complexe Sportif de Fès,Fès,25544.0,Boubou Traoré,Ademola Lookman
+4721992,2025-12-26,2,Angola,Zimbabwe,1 - 1,Stade de Marrakech,Marrakech,5110.0,Peter Waweru,To Carneiro
+4722016,2025-12-28,2,Gabon,Mozambique,2 - 3,Stade d'Agadir,Agadir,9796.0,Mehrez Melki,Geny Catamo
+4722010,2025-12-28,2,Equatorial Guinea,Sudan,0 - 1,Stade Mohammed V,Casablanca,8671.0,Messie Nkounkou,Monged El Neel
+4722009,2025-12-28,2,Algeria,Burkina Faso,1 - 0,Stade Prince Moulay El Hassan,Rabat,18522.0,Dan Laryea,Luca Zidane
+4722015,2025-12-28,2,Ivory Coast,Cameroon,1 - 1,,,,,
+4721993,2025-12-29,3,Angola,Egypt,0 - 0,Cairo International Stadium,al-Qāhirah (Cairo),,Peter Waweru,Mohanad Lasheen
+4721988,2025-12-29,3,Comoros,Mali,0 - 0,Stade Mohammed V,Casablanca,8842.0,Alhadji Allaou Mahamat,Mamadou Sangare
+4721987,2025-12-29,3,Zambia,Morocco,0 - 3,Stade Prince Moulay Abdallah,Rabat,62532.0,Issa Sy,Ayoub El Kaabi
+4722000,2025-12-30,3,Tanzania,Tunisia,1 - 1,Stade Olympique de Rabat,Rabat,15205.0,Jean-Jacques Ndala,Ismaël Gharbi
+4721999,2025-12-30,3,Uganda,Nigeria,1 - 3,Complexe Sportif de Fès,Fès,11545.0,Djindo Louis Houngnandande,Raphael Onyedika
+4722003,2025-12-27,2,Senegal,DR Congo,1 - 1,Grand Stade de Tanger,Tanger,41672.0,Lahlou Benbraham,Sadio Mané
+4722005,2025-12-30,3,Benin,Senegal,0 - 3,Grand Stade de Tanger,Tanger,26707.0,Samuel Uwikunda,Edouard Mendy
+4722006,2025-12-30,3,Botswana,DR Congo,0 - 3,Al Medina Stadium,Rabat,12569.0,Ahmad Heeralall,Gaël Kakuta
+4722011,2025-12-31,3,Equatorial Guinea,Algeria,1 - 3,Stade Prince Moulay El Hassan,Rabat,15187.0,Pacifique Ndabihawenimana,Ibrahim Maza
+4722018,2025-12-31,3,Mozambique,Cameroon,1 - 2,Stade d'Agadir,Agadir,13093.0,Jalal Jayed,Christian Kofane
+4722012,2025-12-31,3,Sudan,Burkina Faso,0 - 2,Stade Mohammed V,Casablanca,10084.0,Amin Omar,Arsene Kouassi
+4721994,2025-12-29,3,Zimbabwe,South Africa,2 - 3,Stade de Marrakech,Marrakech,9235.0,Mustapha Kech Chaf,Lyle Foster
+5073456,2026-01-03,Round of 16,Senegal,Sudan,3 - 1,Stade Léopold Sédar Senghor,Dakar,,,
+5073457,2026-01-03,Round of 16,Mali,Tunisia,1 - 1,Stade olympique Hammadi-Agrebi,Radès,,,
+5073458,2026-01-04,Round of 16,Morocco,Tanzania,1 - 0,Stade Prince Moulay Abdallah,Rabat,63894.0,Boubou Traoré,Achraf Hakimi
+5073459,2026-01-04,Round of 16,South Africa,Cameroon,1 - 2,Al Medina Stadium,Rabat,14127.0,Peter Waweru Kamaku,Carlos Baleba
+4721991,2025-12-26,2,Egypt,South Africa,1 - 0,Cairo International Stadium,al-Qāhirah (Cairo),4700.0,Nabil Boukhalfa,Mohanad Lasheen
+4722017,2025-12-31,3,Gabon,Ivory Coast,2 - 3,Stade de Marrakech,Marrakech,20833.0,Omar Abdulkadir Artan,Christopher Operi
+5073460,2026-01-05,Round of 16,Egypt,Benin,3 - 1,Stade d'Agadir,Agadir,20191.0,Pierre Ghislain Atcho,Marwan Ateya
+5073462,2026-01-06,Round of 16,Algeria,DR Congo,1 - 0,Stade Prince Moulay El Hassan,Rabat,18837.0,Mahmoud Mansour,Luca Zidane
+5073461,2026-01-05,Round of 16,Nigeria,Mozambique,4 - 0,Complexe Sportif de Fès,Fès,14593.0,Abdou Abdel Mefire,Ademola Lookman
+5073472,2026-01-09,Quarter-Finals,Cameroon,Morocco,0 - 2,Stade Prince Moulay Abdallah,Rabat,64178.0,Dahane Beida,Nayef Aguerd
+5073474,2026-01-10,Quarter-Finals,Egypt,Ivory Coast,3 - 2,Stade d'Agadir,Agadir,31213.0,Mustapha Ghorbal,Emam Ashour
+5073473,2026-01-10,Quarter-Finals,Algeria,Nigeria,0 - 2,Stade de Marrakech,Marrakech,32452.0,Issa Sy,Victor Osimhen
+5073475,2026-01-14,Semi-Finals,Senegal,Egypt,1 - 0,Grand Stade de Tanger,Tanger,52079.0,Pierre Atcho,Sadio Mané
+5073463,2026-01-06,Round of 16,Ivory Coast,Burkina Faso,3 - 0,Stade de Marrakech,Marrakech,24019.0,Mahmood Ali Mahmood Ismail,Yan Diomande
+5073477,2026-01-17,Bronze Final,Egypt,Nigeria,0 - 0,Stade Mohammed V,Casablanca,38113.0,Jalal Jayed,Mostafa Ahmed Shobeir
+5073478,2026-01-18,Final,Senegal,Morocco,0 - 3,Stade Prince Moulay Abdallah,Rabat,66526.0,Jean-Jacques Ndala Ngambo,Édouard Mendy
+5073476,2026-01-14,Semi-Finals,Nigeria,Morocco,0 - 0,Stade Prince Moulay Abdallah,Rabat,65458.0,Daniel Nii Ayi Laryea,Stanley Nwabili
+5073471,2026-01-09,Quarter-Finals,Mali,Senegal,0 - 1,Grand Stade de Tanger,Tanger,32385.0,Abongile Tom,Krepin Diatta
+4721985,2025-12-26,2,Morocco,Mali,1 - 1,Grand Stade de Tanger,Tanger,65079.0,Abdelaziz Bouh,Abdessamad Ezzalzouli

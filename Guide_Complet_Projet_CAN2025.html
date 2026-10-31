@@ -1,0 +1,2019 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Guide Complet — Projet Portfolio Data Analyse CAN 2025 (Maroc)</title>
+<style>
+    @page {
+        size: A4;
+        margin: 16mm 14mm 16mm 14mm;
+    }
+    body {
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        color: #1e293b;
+        line-height: 1.55;
+        font-size: 10.5pt;
+        margin: 0;
+        padding: 0;
+    }
+    .cover {
+        background: linear-gradient(135deg, #8a151b 0%, #c1272d 55%, #006233 100%);
+        color: white;
+        padding: 48px 36px;
+        border-radius: 12px;
+        margin-bottom: 28px;
+        box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    }
+    .cover h1 {
+        font-size: 25pt;
+        margin: 0 0 12px 0;
+        line-height: 1.2;
+    }
+    .cover h2 {
+        font-size: 14pt;
+        font-weight: 400;
+        margin: 0 0 24px 0;
+        opacity: 0.95;
+    }
+    .badge-bar {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 16px;
+    }
+    .badge {
+        background: rgba(255,255,255,0.18);
+        border: 1px solid rgba(255,255,255,0.35);
+        padding: 5px 12px;
+        border-radius: 20px;
+        font-size: 9.5pt;
+        font-weight: 600;
+    }
+    h2.section-title {
+        color: #c1272d;
+        border-bottom: 2.5px solid #006233;
+        padding-bottom: 6px;
+        margin-top: 28px;
+        font-size: 15pt;
+        page-break-after: avoid;
+    }
+    h3 {
+        color: #006233;
+        margin-top: 18px;
+        margin-bottom: 6px;
+        font-size: 12pt;
+        page-break-after: avoid;
+    }
+    .step-box {
+        background: #f8fafc;
+        border-left: 4px solid #c1272d;
+        padding: 12px 16px;
+        border-radius: 0 8px 8px 0;
+        margin: 12px 0;
+    }
+    .tip-box {
+        background: #f0fdf4;
+        border-left: 4px solid #006233;
+        padding: 12px 16px;
+        border-radius: 0 8px 8px 0;
+        margin: 12px 0;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 14px 0;
+        font-size: 9.5pt;
+    }
+    th {
+        background-color: #1e293b;
+        color: white;
+        text-align: left;
+        padding: 8px 10px;
+    }
+    td {
+        border-bottom: 1px solid #e2e8f0;
+        padding: 7px 10px;
+    }
+    tr:nth-child(even) td {
+        background-color: #f8fafc;
+    }
+    pre {
+        background-color: #0f172a;
+        color: #f8fafc;
+        padding: 12px 14px;
+        border-radius: 8px;
+        font-family: Consolas, 'Courier New', monospace;
+        font-size: 8.2pt;
+        line-height: 1.4;
+        overflow-x: auto;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        border: 1px solid #334155;
+    }
+    code {
+        font-family: Consolas, 'Courier New', monospace;
+        background: #f1f5f9;
+        padding: 2px 5px;
+        border-radius: 4px;
+        color: #be123c;
+        font-size: 9.5pt;
+    }
+    pre code {
+        background: none;
+        color: inherit;
+        padding: 0;
+        font-size: inherit;
+    }
+    .page-break {
+        page-break-before: always;
+    }
+</style>
+</head>
+<body>
+
+<div class="cover">
+    <h1>🏆 Guide Complet & Documentation Technique<br>Projet Data Analyse : CAN 2025 (Maroc)</h1>
+    <h2>Architecture End-to-End, Méthodologie Étape par Étape & Codes Sources Complets d'Extraction Web (FotMob, StatsBomb, API-Football, SQL, Python & Streamlit)</h2>
+    <p><strong>Auteur :</strong> Amine &nbsp;|&nbsp; <strong>Dossier Projet :</strong> <code>C:\Users\Amine\Desktop\can2025-data-analysis</code></p>
+    <div class="badge-bar">
+        <span class="badge">1. Web Scraping FotMob (__NEXT_DATA__)</span>
+        <span class="badge">2. APIs REST (StatsBomb & API-Football)</span>
+        <span class="badge">3. Python ETL (Pandas & Multi-threading)</span>
+        <span class="badge">4. Base Relationnelle SQL (SQLite3)</span>
+        <span class="badge">5. Application Web (Streamlit & Plotly)</span>
+        <span class="badge">6. BI (Excel & Power BI DAX)</span>
+    </div>
+</div>
+
+<h2 class="section-title">1. Vue d'Ensemble & Architecture du Projet</h2>
+<p>Ce projet portfolio a été conçu pour couvrir <strong>100 % des compétences attendues chez un Data Analyst</strong> en entreprise : de la collecte brute sur le Web (scraping et APIs) jusqu'à la restitution interactive pour la prise de décision sportive (Scouting, Analyse Tactique et Bilan de Compétition).</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Étape du Pipeline</th>
+            <th>Outils & Technologies</th>
+            <th>Fichiers du Projet</th>
+            <th>Résultat Obtenu</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Étape 1 : Collecte Web & APIs</strong></td>
+            <td>Python (<code>urllib</code>, <code>re</code>, <code>json</code>, <code>ThreadPoolExecutor</code>)</td>
+            <td><code>scripts/04_scrape_fotmob_can2025.py</code><br><code>scripts/05_scrape_fotmob_match_details.py</code><br><code>scripts/03_fetch_real_data.py</code></td>
+            <td>Extraction réelle de <strong>52 matchs</strong>, <strong>1 026 tirs géolocalisés (xG)</strong>, <strong>710 événements</strong> et <strong>2 445 fiches joueurs</strong> depuis FotMob.</td>
+        </tr>
+        <tr>
+            <td><strong>Étape 2 : Nettoyage & ETL</strong></td>
+            <td>Python (<code>pandas</code>) & Excel</td>
+            <td><code>scripts/01_clean_and_build_db.py</code><br><code>guides/01_guide_excel.md</code></td>
+            <td>Suppression des doublons, nettoyage des chaînes, imputation médiane et calcul des ratios par 90 minutes.</td>
+        </tr>
+        <tr>
+            <td><strong>Étape 3 : Base de Données SQL</strong></td>
+            <td>SQLite3 (<code>SQL</code>)</td>
+            <td><code>data/can2025.db</code><br><code>sql/schema.sql</code><br><code>sql/business_queries.sql</code></td>
+            <td>9 tables relationnelles interrogeables avec <code>JOIN</code>, <code>CTE (WITH)</code> et Window Functions (<code>DENSE_RANK</code>).</td>
+        </tr>
+        <tr>
+            <td><strong>Étape 4 : Visualisation & App Web</strong></td>
+            <td>Python (<code>streamlit</code>, <code>plotly</code>, <code>matplotlib</code>)</td>
+            <td><code>app/streamlit_app.py</code><br><code>scripts/02_generate_charts.py</code></td>
+            <td>Plateforme interactive à 6 onglets (Diagnostic 24 équipes, Shotmap sur demi-terrain, Match Center, Scouting) + 5 graphiques PNG HD.</td>
+        </tr>
+        <tr>
+            <td><strong>Étape 5 : Business Intelligence</strong></td>
+            <td>Power BI / Tableau & Excel</td>
+            <td><code>guides/02_guide_powerbi_tableau.md</code></td>
+            <td>Modèle en étoile et 6 mesures DAX prêtes pour la création de rapports exécutifs.</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="step-box">
+    <strong>💡 Comment expliquer cette démarche en entretien :</strong><br>
+    <em>« Plutôt que de télécharger un simple fichier CSV statique, j'ai construit un pipeline automatisé en Python capable d'extraire directement les données structurées de FotMob (League 289) et de StatsBomb Open Data, de les nettoyer avec Pandas, de les stocker dans une base SQL relationnelle (SQLite), puis de les exposer dans une application interactive Streamlit incluant une carte des tirs (Shotmap) et un explorateur de feuilles de match. »</em>
+</div>
+
+<div class="page-break"></div>
+
+<h2 class="section-title">2. Étape 1 : Extraction Globale de la CAN 2025 depuis FotMob</h2>
+
+<h3>Comment fonctionne l'extraction sur FotMob ?</h3>
+<p>Le site <code>https://www.fotmob.com/fr/leagues/289/overview/africa-cup-nations</code> est construit avec le framework <strong>Next.js</strong>. Lorsqu'on charge la page HTML, toutes les données structurées du tournoi sont injectées par le serveur dans une balise cachée : <code>&lt;script id="__NEXT_DATA__" type="application/json"&gt;...&lt;/script&gt;</code>.</p>
+<p>Notre premier script (<code>scripts/04_scrape_fotmob_can2025.py</code>) utilise une expression régulière pour isoler ce bloc JSON, puis télécharge également les sous-fichiers JSON de statistiques détaillées (<code>https://data.fotmob.com/stats/289/season/24309/*.json</code>). Il extrait :</p>
+<ul>
+    <li><strong>Les 52 matchs</strong> avec leur identifiant unique FotMob (<code>fotmob_match_id</code>) et l'URL de chaque feuille de match.</li>
+    <li><strong>Les classements officiels des 6 groupes (A à F)</strong> et le tableau des meilleurs 3es (30 entrées).</li>
+    <li><strong>Les 123 classements de statistiques individuelles</strong> (Buteurs, Passeurs, Notes FotMob, Expected Goals xG, Occasions créées...).</li>
+    <li><strong>Les 84 classements de statistiques collectives par équipe</strong>.</li>
+</ul>
+
+<h3>Code Source Complet : <code>scripts/04_scrape_fotmob_can2025.py</code></h3>
+<pre><code># -*- coding: utf-8 -*-
+&quot;&quot;&quot;
+Extraction Complète de la CAN 2025 depuis FotMob (League ID = 289)
+URL cible : https://www.fotmob.com/fr/leagues/289/overview/africa-cup-nations
+Fichier   : scripts/04_scrape_fotmob_can2025.py
+
+Ce script utilise une double stratégie robuste :
+1. Interrogation de l&#x27;API JSON interne de FotMob (/api/leagues?id=289)
+2. Extraction automatique du bloc Next.js (&lt;script id=&quot;__NEXT_DATA__&quot;&gt;) depuis la page HTML
+   https://www.fotmob.com/fr/leagues/289/overview/africa-cup-nations
+3. Téléchargement des sous-fichiers JSON de statistiques détaillées (Joueurs &amp; Équipes)
+4. Export en CSV dans data/raw/ et sauvegarde dans la base SQLite data/can2025.db
+&quot;&quot;&quot;
+
+import os
+import re
+import sys
+import json
+import sqlite3
+import urllib.request
+import urllib.parse
+import pandas as pd
+
+if hasattr(sys.stdout, &quot;reconfigure&quot;):
+    sys.stdout.reconfigure(encoding=&quot;utf-8&quot;)
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW_DIR = os.path.join(BASE_DIR, &quot;data&quot;, &quot;raw&quot;)
+DB_PATH = os.path.join(BASE_DIR, &quot;data&quot;, &quot;can2025.db&quot;)
+os.makedirs(RAW_DIR, exist_ok=True)
+
+FOTMOB_OVERVIEW_URL = &quot;https://www.fotmob.com/fr/leagues/289/overview/africa-cup-nations&quot;
+FOTMOB_API_URL = &quot;https://www.fotmob.com/api/leagues?id=289&quot;
+
+HEADERS = {
+    &quot;User-Agent&quot;: (
+        &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) &quot;
+        &quot;AppleWebKit/537.36 (KHTML, like Gecko) &quot;
+        &quot;Chrome/124.0.0.0 Safari/537.36&quot;
+    ),
+    &quot;Accept&quot;: &quot;text/html,application/xhtml+xml,application/xml;q=0.9,application/json;q=0.8,*/*;q=0.7&quot;,
+    &quot;Accept-Language&quot;: &quot;fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7&quot;,
+    &quot;Referer&quot;: &quot;https://www.fotmob.com/fr/leagues/289/overview/africa-cup-nations&quot;,
+}
+
+
+def fetch_url_text(url):
+    &quot;&quot;&quot;Télécharge le contenu texte (HTML ou JSON) d&#x27;une URL FotMob.&quot;&quot;&quot;
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        return resp.read().decode(&quot;utf-8&quot;, errors=&quot;replace&quot;)
+
+
+def get_fotmob_league_payload():
+    &quot;&quot;&quot;
+    Récupère les données complètes de la ligue 289 (Africa Cup of Nations)
+    soit via l&#x27;API directe, soit via la balise &lt;script id=&quot;__NEXT_DATA__&quot;&gt; de la page HTML.
+    &quot;&quot;&quot;
+    # Méthode 1 : Extraction depuis la page HTML officielle demandée (__NEXT_DATA__)
+    print(f&quot;🌐 1. Connexion à la page : {FOTMOB_OVERVIEW_URL}&quot;)
+    try:
+        html = fetch_url_text(FOTMOB_OVERVIEW_URL)
+        match = re.search(
+            r&#x27;&lt;script id=&quot;__NEXT_DATA__&quot; type=&quot;application/json&quot;[^&gt;]*&gt;(.*?)&lt;/script&gt;&#x27;,
+            html,
+            re.DOTALL
+        )
+        if match:
+            next_data = json.loads(match.group(1))
+            page_props = next_data.get(&quot;props&quot;, {}).get(&quot;pageProps&quot;, {})
+            # Dans FotMob Next.js, les données de la ligue sont soit directement dans pageProps,
+            # soit dans pageProps[&quot;fallback&quot;] / pageProps[&quot;initialState&quot;]
+            if &quot;matches&quot; in page_props or &quot;table&quot; in page_props or &quot;details&quot; in page_props:
+                print(&quot;✅ Données extraites avec succès depuis le bloc __NEXT_DATA__ (pageProps) !&quot;)
+                return page_props
+            fallback = page_props.get(&quot;fallback&quot;, {})
+            for k, val in fallback.items():
+                if isinstance(val, dict) and (&quot;matches&quot; in val or &quot;table&quot; in val or &quot;details&quot; in val):
+                    print(f&quot;✅ Données extraites avec succès depuis __NEXT_DATA__ (fallback[&#x27;{k}&#x27;]) !&quot;)
+                    return val
+    except Exception as e:
+        print(f&quot;ℹ️ Passage à la méthode API directe ({e})&quot;)
+
+    # Méthode 2 : Interrogation de l&#x27;endpoint JSON /api/leagues?id=289
+    print(f&quot;🌐 2. Interrogation de l&#x27;API FotMob : {FOTMOB_API_URL}&quot;)
+    try:
+        raw_json = fetch_url_text(FOTMOB_API_URL)
+        data = json.loads(raw_json)
+        print(&quot;✅ Données extraites avec succès depuis /api/leagues?id=289 !&quot;)
+        return data
+    except Exception as e:
+        print(f&quot;⚠️ Erreur lors de l&#x27;accès à l&#x27;API FotMob : {e}&quot;)
+        return None
+
+
+def parse_matches(payload):
+    &quot;&quot;&quot;Extrait tous les matchs de la CAN depuis le JSON FotMob.&quot;&quot;&quot;
+    matches_root = payload.get(&quot;matches&quot;, {})
+    all_matches = (
+        matches_root.get(&quot;allMatches&quot;)
+        or matches_root.get(&quot;data&quot;, {}).get(&quot;allMatches&quot;)
+        or payload.get(&quot;fixtures&quot;, {}).get(&quot;allMatches&quot;)
+        or []
+    )
+
+    rows = []
+    for m in all_matches:
+        home = m.get(&quot;home&quot;, {})
+        away = m.get(&quot;away&quot;, {})
+        status = m.get(&quot;status&quot;, {})
+        score_str = status.get(&quot;scoreStr&quot;, &quot;&quot;)
+        reason = status.get(&quot;reason&quot;, {}).get(&quot;short&quot;, &quot;&quot;)
+
+        rows.append({
+            &quot;fotmob_match_id&quot;: m.get(&quot;id&quot;),
+            &quot;round&quot;: m.get(&quot;roundName&quot;) or m.get(&quot;round&quot;),
+            &quot;date_utc&quot;: status.get(&quot;utcTime&quot;),
+            &quot;home_team_id&quot;: home.get(&quot;id&quot;),
+            &quot;home_team&quot;: home.get(&quot;name&quot;),
+            &quot;away_team_id&quot;: away.get(&quot;id&quot;),
+            &quot;away_team&quot;: away.get(&quot;name&quot;),
+            &quot;home_score&quot;: home.get(&quot;score&quot;),
+            &quot;away_score&quot;: away.get(&quot;score&quot;),
+            &quot;score_str&quot;: score_str,
+            &quot;status_note&quot;: reason,
+            &quot;finished&quot;: status.get(&quot;finished&quot;),
+            &quot;cancelled&quot;: status.get(&quot;cancelled&quot;),
+            &quot;match_url&quot;: &quot;https://www.fotmob.com&quot; + str(m.get(&quot;pageUrl&quot;, &quot;&quot;))
+        })
+
+    return pd.DataFrame(rows)
+
+
+def parse_standings(payload):
+    &quot;&quot;&quot;Extrait le classement des 6 groupes (Groupes A à F) depuis le JSON FotMob.&quot;&quot;&quot;
+    table_list = payload.get(&quot;table&quot;, [])
+    rows = []
+
+    for tbl_block in table_list:
+        data = tbl_block.get(&quot;data&quot;, tbl_block)
+        # Tournoi à plusieurs groupes (tables list)
+        tables = data.get(&quot;tables&quot;, [data])
+        for grp in tables:
+            group_name = grp.get(&quot;leagueName&quot;) or grp.get(&quot;GroupName&quot;) or &quot;Groupe&quot;
+            for team in grp.get(&quot;table&quot;, {}).get(&quot;all&quot;, []):
+                scores_str = str(team.get(&quot;scoresStr&quot;, &quot;0-0&quot;))
+                gf, ga = (scores_str.split(&quot;-&quot;) + [&quot;0&quot;, &quot;0&quot;])[:2]
+                rows.append({
+                    &quot;group_name&quot;: group_name,
+                    &quot;rank&quot;: team.get(&quot;idx&quot;),
+                    &quot;team_id&quot;: team.get(&quot;id&quot;),
+                    &quot;team_name&quot;: team.get(&quot;name&quot;),
+                    &quot;played&quot;: team.get(&quot;played&quot;),
+                    &quot;wins&quot;: team.get(&quot;wins&quot;),
+                    &quot;draws&quot;: team.get(&quot;draws&quot;),
+                    &quot;losses&quot;: team.get(&quot;losses&quot;),
+                    &quot;goals_for&quot;: int(gf.strip()) if gf.strip().isdigit() else 0,
+                    &quot;goals_against&quot;: int(ga.strip()) if ga.strip().isdigit() else 0,
+                    &quot;goal_diff&quot;: team.get(&quot;goalConDiff&quot;),
+                    &quot;points&quot;: team.get(&quot;pts&quot;),
+                })
+
+    return pd.DataFrame(rows)
+
+
+def parse_stats_categories(payload, kind=&quot;players&quot;):
+    &quot;&quot;&quot;
+    Extrait les statistiques de joueurs (buts, passes D, notes FotMob, xG...)
+    ou d&#x27;équipes depuis la section &#x27;stats&#x27; du JSON FotMob.
+    &quot;&quot;&quot;
+    stats_root = payload.get(&quot;stats&quot;, {})
+    categories = stats_root.get(kind, [])
+    rows = []
+
+    for cat in categories:
+        cat_name = cat.get(&quot;header&quot;) or cat.get(&quot;name&quot;) or cat.get(&quot;title&quot;)
+        fetch_url = cat.get(&quot;fetchAllUrl&quot;)
+
+        # 1. Récupérer le Top 3 directement présent dans l&#x27;aperçu
+        top_three = cat.get(&quot;topThree&quot;, [])
+        for item in top_three:
+            rows.append({
+                &quot;category&quot;: cat_name,
+                &quot;participant_id&quot;: item.get(&quot;id&quot;),
+                &quot;name&quot;: item.get(&quot;name&quot;),
+                &quot;team_id&quot;: item.get(&quot;teamId&quot;),
+                &quot;team_name&quot;: item.get(&quot;teamName&quot;),
+                &quot;stat_value&quot;: item.get(&quot;value&quot;),
+                &quot;rank&quot;: item.get(&quot;rank&quot;),
+                &quot;source_url&quot;: fetch_url
+            })
+
+        # 2. Si une URL JSON complète (fetchAllUrl) est fournie, tenter de récupérer toute la liste
+        if fetch_url and fetch_url.startswith(&quot;http&quot;):
+            try:
+                sub_json = json.loads(fetch_url_text(fetch_url))
+                top_lists = sub_json.get(&quot;TopLists&quot;, [])
+                for tl in top_lists:
+                    for item in tl.get(&quot;StatList&quot;, []):
+                        rows.append({
+                            &quot;category&quot;: cat_name,
+                            &quot;participant_id&quot;: item.get(&quot;ParticiantId&quot;) or item.get(&quot;ParticipantId&quot;),
+                            &quot;name&quot;: item.get(&quot;ParticipantName&quot;),
+                            &quot;team_id&quot;: item.get(&quot;TeamId&quot;),
+                            &quot;team_name&quot;: item.get(&quot;TeamName&quot;),
+                            &quot;stat_value&quot;: item.get(&quot;StatValue&quot;),
+                            &quot;rank&quot;: item.get(&quot;Rank&quot;),
+                            &quot;source_url&quot;: fetch_url
+                        })
+            except Exception:
+                pass
+
+    df = pd.DataFrame(rows)
+    if not df.empty:
+        df = df.drop_duplicates(subset=[&quot;category&quot;, &quot;name&quot;, &quot;team_name&quot;], keep=&quot;last&quot;)
+    return df
+
+
+def main():
+    print(&quot;=========================================================================&quot;)
+    print(&quot;🦁 EXTRACTION COMPLÈTE FOTMOB — CAN 2025 (LEAGUE ID = 289)&quot;)
+    print(&quot;=========================================================================\n&quot;)
+
+    payload = get_fotmob_league_payload()
+    if not payload:
+        print(&quot;❌ Impossible de récupérer le payload FotMob.&quot;)
+        return
+
+    # Sauvegarde du JSON brut complet pour archivage et exploration
+    raw_json_path = os.path.join(RAW_DIR, &quot;fotmob_can2025_raw.json&quot;)
+    try:
+        with open(raw_json_path, &quot;w&quot;, encoding=&quot;utf-8&quot;) as f:
+            json.dump(payload, f, ensure_ascii=False, indent=2)
+        print(f&quot;💾 JSON brut complet sauvegardé : {raw_json_path}&quot;)
+    except Exception as e:
+        print(f&quot;⚠️ Impossible d&#x27;écrire le JSON brut : {e}&quot;)
+
+    details = payload.get(&quot;details&quot;, {})
+    print(f&quot;📌 Compétition : {details.get(&#x27;name&#x27;, &#x27;Africa Cup of Nations&#x27;)} | Saison : {details.get(&#x27;selectedSeason&#x27;, &#x27;2025&#x27;)}&quot;)
+
+    conn = sqlite3.connect(DB_PATH)
+
+    # 1. Extraction des Matchs
+    df_matches = parse_matches(payload)
+    if not df_matches.empty:
+        csv_m = os.path.join(RAW_DIR, &quot;fotmob_matches_can2025.csv&quot;)
+        df_matches.to_csv(csv_m, index=False, encoding=&quot;utf-8&quot;)
+        df_matches.to_sql(&quot;fotmob_matches&quot;, conn, if_exists=&quot;replace&quot;, index=False)
+        print(f&quot;✅ Matchs extraits : {len(df_matches)} matchs -&gt; {csv_m}&quot;)
+        print(df_matches[[&quot;date_utc&quot;, &quot;round&quot;, &quot;home_team&quot;, &quot;score_str&quot;, &quot;away_team&quot;]].tail(8).to_string(index=False))
+    else:
+        print(&quot;ℹ️ Aucun match trouvé dans la clé &#x27;matches&#x27; du payload.&quot;)
+
+    # 2. Extraction des Classements des Groupes (Standings)
+    df_standings = parse_standings(payload)
+    if not df_standings.empty:
+        csv_s = os.path.join(RAW_DIR, &quot;fotmob_standings_can2025.csv&quot;)
+        df_standings.to_csv(csv_s, index=False, encoding=&quot;utf-8&quot;)
+        df_standings.to_sql(&quot;fotmob_standings&quot;, conn, if_exists=&quot;replace&quot;, index=False)
+        print(f&quot;\n✅ Classements des groupes extraits : {len(df_standings)} équipes -&gt; {csv_s}&quot;)
+        print(df_standings.head(8).to_string(index=False))
+
+    # 3. Extraction des Statistiques Joueurs (Top Buteurs, Passes D, Notes FotMob, xG...)
+    df_pstats = parse_stats_categories(payload, kind=&quot;players&quot;)
+    if not df_pstats.empty:
+        csv_p = os.path.join(RAW_DIR, &quot;fotmob_player_stats_can2025.csv&quot;)
+        df_pstats.to_csv(csv_p, index=False, encoding=&quot;utf-8&quot;)
+        df_pstats.to_sql(&quot;fotmob_player_stats&quot;, conn, if_exists=&quot;replace&quot;, index=False)
+        print(f&quot;\n✅ Statistiques Joueurs extraites : {len(df_pstats)} entrées -&gt; {csv_p}&quot;)
+        print(df_pstats.head(10).to_string(index=False))
+
+    # 4. Extraction des Statistiques Équipes
+    df_tstats = parse_stats_categories(payload, kind=&quot;teams&quot;)
+    if not df_tstats.empty:
+        csv_t = os.path.join(RAW_DIR, &quot;fotmob_team_stats_can2025.csv&quot;)
+        df_tstats.to_csv(csv_t, index=False, encoding=&quot;utf-8&quot;)
+        df_tstats.to_sql(&quot;fotmob_team_stats&quot;, conn, if_exists=&quot;replace&quot;, index=False)
+        print(f&quot;\n✅ Statistiques Équipes extraites : {len(df_tstats)} entrées -&gt; {csv_t}&quot;)
+
+    conn.close()
+    print(&quot;\n🎉 Extraction FotMob terminée et synchronisée dans data/can2025.db !&quot;)
+
+
+if __name__ == &quot;__main__&quot;:
+    main()
+</code></pre>
+
+<div class="page-break"></div>
+
+<h2 class="section-title">3. Étape 2 : Extraction Granulaire des 52 Feuilles de Match (Shotmap, Événements & Notes)</h2>
+
+<h3>Pourquoi un second script multi-threadé ?</h3>
+<p>La page d'accueil de la compétition donne les scores finaux, mais pas les détails à l'intérieur de chaque match. Grâce aux 52 identifiants <code>fotmob_match_id</code> récupérés à l'étape précédente, le script <code>scripts/05_scrape_fotmob_match_details.py</code> utilise un <code>ThreadPoolExecutor(max_workers=8)</code> pour inspecter les <strong>52 feuilles de match en parallèle</strong> en moins d'une minute.</p>
+<p>Pour chacun des 52 matchs, il extrait 5 tables :</p>
+<ol>
+    <li><code>fotmob_matches_metadata</code> (<strong>52 lignes</strong>) : Stade, ville, affluence officielle, arbitre et Homme du match (<em>Player of the Match</em>).</li>
+    <li><code>fotmob_match_stats</code> (<strong>2 039 lignes</strong>) : Toutes les statistiques collectives face-à-face par match.</li>
+    <li><code>fotmob_match_events</code> (<strong>710 lignes</strong>) : Chaque but, passe décisive, carton jaune/rouge et remplacement minute par minute.</li>
+    <li><code>fotmob_shotmap</code> (<strong>1 026 tirs</strong>) : Coordonnées exactes <code>(x, y)</code> sur le terrain (105x68), <code>xG</code>, <code>xGOT</code>, pied/tête et situation de jeu.</li>
+    <li><code>fotmob_player_match_stats</code> (<strong>2 445 lignes</strong>) : Les prestations et notes FotMob des joueurs match par match.</li>
+</ol>
+
+<h3>Code Source Complet : <code>scripts/05_scrape_fotmob_match_details.py</code></h3>
+<pre><code># -*- coding: utf-8 -*-
+&quot;&quot;&quot;
+Extraction Granulaire des 52 Matchs de la CAN 2025 depuis FotMob
+Fichier : scripts/05_scrape_fotmob_match_details.py
+
+À partir des 52 matchs extraits dans &#x27;fotmob_matches_can2025.csv&#x27;, ce script récupère
+pour CHAQUE match (via le bloc __NEXT_DATA__ de la page du match ou /api/matchDetails) :
+1. Les statistiques complètes du match (Possession, xG, Tirs, Grosses occasions, Passes, Duels...)
+2. Les événements minute par minute (Buts, Passeurs, Cartons, Remplacements, Tirs au but)
+3. La Shotmap complète (Chaque tir avec ses coordonnées X/Y sur le terrain, xG, xGOT, pied/tête)
+4. Les compositions &amp; notes individuelles des joueurs match par match
+&quot;&quot;&quot;
+
+import os
+import re
+import sys
+import json
+import sqlite3
+import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import pandas as pd
+
+if hasattr(sys.stdout, &quot;reconfigure&quot;):
+    sys.stdout.reconfigure(encoding=&quot;utf-8&quot;)
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW_DIR = os.path.join(BASE_DIR, &quot;data&quot;, &quot;raw&quot;)
+DB_PATH = os.path.join(BASE_DIR, &quot;data&quot;, &quot;can2025.db&quot;)
+
+HEADERS = {
+    &quot;User-Agent&quot;: (
+        &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) &quot;
+        &quot;AppleWebKit/537.36 (KHTML, like Gecko) &quot;
+        &quot;Chrome/124.0.0.0 Safari/537.36&quot;
+    ),
+    &quot;Accept&quot;: &quot;text/html,application/xhtml+xml,application/xml;q=0.9,application/json;q=0.8,*/*;q=0.7&quot;,
+    &quot;Accept-Language&quot;: &quot;fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7&quot;,
+}
+
+
+def fetch_single_match_payload(match_row):
+    &quot;&quot;&quot;
+    Récupère le JSON détaillé d&#x27;un match FotMob à partir de son URL (via __NEXT_DATA__)
+    ou de l&#x27;endpoint /api/matchDetails?matchId=...
+    &quot;&quot;&quot;
+    match_id = str(match_row[&quot;fotmob_match_id&quot;])
+    raw_url = str(match_row[&quot;match_url&quot;]).split(&quot;#&quot;)[0]
+    # Ajouter ?id=match_id garantit que Next.js charge exactement ce match (et non un ancien H2H)
+    page_url = f&quot;{raw_url}?id={match_id}&quot;
+
+    # 1. Essai via la page HTML du match (__NEXT_DATA__)
+    try:
+        req = urllib.request.Request(page_url, headers=HEADERS)
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            html = resp.read().decode(&quot;utf-8&quot;, errors=&quot;replace&quot;)
+        m = re.search(
+            r&#x27;&lt;script id=&quot;__NEXT_DATA__&quot; type=&quot;application/json&quot;[^&gt;]*&gt;(.*?)&lt;/script&gt;&#x27;,
+            html,
+            re.DOTALL
+        )
+        if m:
+            next_data = json.loads(m.group(1))
+            page_props = next_data.get(&quot;props&quot;, {}).get(&quot;pageProps&quot;, {})
+            if &quot;content&quot; in page_props or &quot;general&quot; in page_props:
+                return match_id, page_props
+            fallback = page_props.get(&quot;fallback&quot;, {})
+            for k, val in fallback.items():
+                if isinstance(val, dict) and (&quot;content&quot; in val or &quot;general&quot; in val):
+                    return match_id, val
+    except Exception:
+        pass
+
+    # 2. Essai via l&#x27;API directe /api/matchDetails
+    try:
+        api_url = f&quot;https://www.fotmob.com/api/matchDetails?matchId={match_id}&quot;
+        req = urllib.request.Request(api_url, headers=HEADERS)
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read().decode(&quot;utf-8&quot;, errors=&quot;replace&quot;))
+            if &quot;content&quot; in data or &quot;general&quot; in data:
+                return match_id, data
+    except Exception:
+        pass
+
+    return match_id, None
+
+
+def extract_from_match_payload(match_id, payload, meta_row):
+    &quot;&quot;&quot;Extrait les 4 listes (stats_equipes, evenements, tirs_shotmap, joueurs_match) d&#x27;un match.&quot;&quot;&quot;
+    general = payload.get(&quot;general&quot;) or {}
+    header = payload.get(&quot;header&quot;) or {}
+    content = payload.get(&quot;content&quot;) or {}
+
+    home_team = meta_row[&quot;home_team&quot;]
+    away_team = meta_row[&quot;away_team&quot;]
+    round_name = meta_row[&quot;round&quot;]
+    match_date = str(meta_row[&quot;date_utc&quot;])[:10]
+
+    # Informations générales du match (Stade, Ville, Affluence, Arbitre)
+    match_facts = content.get(&quot;matchFacts&quot;) or {}
+    info_box = match_facts.get(&quot;infoBox&quot;) or {}
+    stadium_info = info_box.get(&quot;Stadium&quot;) if isinstance(info_box.get(&quot;Stadium&quot;), dict) else {}
+    attendance = info_box.get(&quot;Attendance&quot;)
+    referee_info = info_box.get(&quot;Referee&quot;) if isinstance(info_box.get(&quot;Referee&quot;), dict) else {}
+    potm_name = ((match_facts.get(&quot;playerOfTheMatch&quot;) or {}).get(&quot;name&quot;) or {})
+    if isinstance(potm_name, dict):
+        potm_full = potm_name.get(&quot;fullName&quot;)
+    else:
+        potm_full = str(potm_name) if potm_name else None
+
+    meta_info = {
+        &quot;fotmob_match_id&quot;: match_id,
+        &quot;match_date&quot;: match_date,
+        &quot;round&quot;: round_name,
+        &quot;home_team&quot;: home_team,
+        &quot;away_team&quot;: away_team,
+        &quot;score_str&quot;: meta_row[&quot;score_str&quot;],
+        &quot;stadium_name&quot;: (stadium_info or {}).get(&quot;name&quot;),
+        &quot;city&quot;: (stadium_info or {}).get(&quot;city&quot;),
+        &quot;attendance&quot;: attendance,
+        &quot;referee&quot;: (referee_info or {}).get(&quot;text&quot;),
+        &quot;player_of_the_match&quot;: potm_full
+    }
+
+    # -------------------------------------------------------------------------
+    # A. STATISTIQUES COLLECTIVES DU MATCH (content -&gt; stats)
+    # -------------------------------------------------------------------------
+    stats_rows = []
+    stats_root = content.get(&quot;stats&quot;) or {}
+    periods = stats_root.get(&quot;Periods&quot;) or {}
+    all_period = periods.get(&quot;All&quot;) or stats_root.get(&quot;Ede&quot;) or {}
+    stat_groups = (all_period.get(&quot;stats&quot;) or []) if isinstance(all_period, dict) else []
+
+    for grp in stat_groups:
+        if not isinstance(grp, dict):
+            continue
+        grp_title = grp.get(&quot;title&quot;)
+        for st_item in (grp.get(&quot;stats&quot;) or []):
+            if not isinstance(st_item, dict) or st_item.get(&quot;type&quot;) == &quot;title&quot;:
+                continue
+            vals = st_item.get(&quot;stats&quot;) or [None, None]
+            if isinstance(vals, list) and len(vals) &gt;= 2:
+                stats_rows.append({
+                    &quot;fotmob_match_id&quot;: match_id,
+                    &quot;match_date&quot;: match_date,
+                    &quot;home_team&quot;: home_team,
+                    &quot;away_team&quot;: away_team,
+                    &quot;stat_group&quot;: grp_title,
+                    &quot;stat_name&quot;: st_item.get(&quot;title&quot;),
+                    &quot;stat_key&quot;: st_item.get(&quot;key&quot;),
+                    &quot;home_value&quot;: str(vals[0]),
+                    &quot;away_value&quot;: str(vals[1]),
+                })
+
+    # -------------------------------------------------------------------------
+    # B. ÉVÉNEMENTS MINUTE PAR MINUTE (Buts, Cartons, Remplacements)
+    # -------------------------------------------------------------------------
+    event_rows = []
+    events_list = ((match_facts.get(&quot;events&quot;) or {}).get(&quot;events&quot;)) or []
+    for ev in events_list:
+        if not isinstance(ev, dict):
+            continue
+        ev_type = ev.get(&quot;type&quot;)
+        if ev_type not in (&quot;Goal&quot;, &quot;Card&quot;, &quot;Substitution&quot;, &quot;MissedPenalty&quot;):
+            continue
+        is_home = ev.get(&quot;isHome&quot;)
+        player_obj = ev.get(&quot;player&quot;) if isinstance(ev.get(&quot;player&quot;), dict) else {}
+        player_name = player_obj.get(&quot;name&quot;) or ev.get(&quot;nameStr&quot;)
+        swap_list = ev.get(&quot;swap&quot;) if isinstance(ev.get(&quot;swap&quot;), list) and len(ev.get(&quot;swap&quot;)) &gt; 0 else []
+        swap_name = swap_list[-1].get(&quot;name&quot;) if swap_list and isinstance(swap_list[-1], dict) else None
+        assist_str = ev.get(&quot;assistStr&quot;) or swap_name or ev.get(&quot;assistInput&quot;) or &quot;&quot;
+        new_score = ev.get(&quot;newScore&quot;) if isinstance(ev.get(&quot;newScore&quot;), list) and len(ev.get(&quot;newScore&quot;)) &gt;= 2 else [None, None]
+        event_rows.append({
+            &quot;fotmob_match_id&quot;: match_id,
+            &quot;match_date&quot;: match_date,
+            &quot;home_team&quot;: home_team,
+            &quot;away_team&quot;: away_team,
+            &quot;team_side&quot;: home_team if is_home else away_team,
+            &quot;minute&quot;: ev.get(&quot;time&quot;),
+            &quot;overload_minute&quot;: ev.get(&quot;overloadTime&quot;),
+            &quot;event_type&quot;: ev_type,
+            &quot;card_type&quot;: ev.get(&quot;card&quot;),
+            &quot;player_name&quot;: player_name,
+            &quot;detail&quot;: str(assist_str),
+            &quot;home_score_after&quot;: new_score[0],
+            &quot;away_score_after&quot;: new_score[1],
+        })
+
+    # -------------------------------------------------------------------------
+    # C. SHOTMAP COMPLÈTE (Coordonnées X/Y des tirs, xG, xGOT, résultat)
+    # -------------------------------------------------------------------------
+    shot_rows = []
+    shots_list = ((content.get(&quot;shotmap&quot;) or {}).get(&quot;shots&quot;)) or []
+    for sh in shots_list:
+        if not isinstance(sh, dict):
+            continue
+        shot_rows.append({
+            &quot;fotmob_match_id&quot;: match_id,
+            &quot;match_date&quot;: match_date,
+            &quot;home_team&quot;: home_team,
+            &quot;away_team&quot;: away_team,
+            &quot;team_id&quot;: sh.get(&quot;teamId&quot;),
+            &quot;player_id&quot;: sh.get(&quot;playerId&quot;),
+            &quot;player_name&quot;: sh.get(&quot;playerName&quot;),
+            &quot;minute&quot;: sh.get(&quot;min&quot;),
+            &quot;event_type&quot;: sh.get(&quot;eventType&quot;),     # Goal, AttemptSaved, Miss, Post
+            &quot;situation&quot;: sh.get(&quot;situation&quot;),       # RegularPlay, Penalty, SetPiece, FastBreak
+            &quot;shot_type&quot;: sh.get(&quot;shotType&quot;),        # RightFoot, LeftFoot, Header
+            &quot;x&quot;: sh.get(&quot;x&quot;),
+            &quot;y&quot;: sh.get(&quot;y&quot;),
+            &quot;xg&quot;: sh.get(&quot;expectedGoals&quot;),
+            &quot;xgot&quot;: sh.get(&quot;expectedGoalsOnTarget&quot;),
+            &quot;is_on_target&quot;: sh.get(&quot;isOnTarget&quot;),
+            &quot;is_blocked&quot;: sh.get(&quot;isBlocked&quot;),
+            &quot;is_own_goal&quot;: sh.get(&quot;isOwnGoal&quot;),
+        })
+
+    # -------------------------------------------------------------------------
+    # D. STATISTIQUES INDIVIDUELLES DES JOUEURS SUR LE MATCH (playerStats)
+    # -------------------------------------------------------------------------
+    player_match_rows = []
+    pstats_dict = content.get(&quot;playerStats&quot;) or {}
+    if isinstance(pstats_dict, dict):
+        for pid, pinfo in pstats_dict.items():
+            if not isinstance(pinfo, dict):
+                continue
+            pname = pinfo.get(&quot;name&quot;)
+            tname = pinfo.get(&quot;teamName&quot;)
+            is_goalkeeper = pinfo.get(&quot;isGoalkeeper&quot;)
+
+            flat_metrics = {}
+            for section in (pinfo.get(&quot;stats&quot;) or []):
+                if not isinstance(section, dict):
+                    continue
+                sec_stats = section.get(&quot;stats&quot;) or {}
+                if isinstance(sec_stats, dict):
+                    for s_label, s_obj in sec_stats.items():
+                        if isinstance(s_obj, dict):
+                            stat_inner = s_obj.get(&quot;stat&quot;) if isinstance(s_obj.get(&quot;stat&quot;), dict) else {}
+                            val = stat_inner.get(&quot;value&quot;)
+                            flat_metrics[s_obj.get(&quot;key&quot;) or s_label] = val
+
+            player_match_rows.append({
+                &quot;fotmob_match_id&quot;: match_id,
+                &quot;match_date&quot;: match_date,
+                &quot;player_id&quot;: pid,
+                &quot;player_name&quot;: pname,
+                &quot;team_name&quot;: tname,
+                &quot;is_goalkeeper&quot;: is_goalkeeper,
+                &quot;fotmob_rating&quot;: flat_metrics.get(&quot;rating_title&quot;),
+                &quot;minutes_played&quot;: flat_metrics.get(&quot;minutes_played&quot;),
+                &quot;goals&quot;: flat_metrics.get(&quot;goals&quot;),
+                &quot;assists&quot;: flat_metrics.get(&quot;assists&quot;),
+                &quot;xg&quot;: flat_metrics.get(&quot;expected_goals&quot;),
+                &quot;xa&quot;: flat_metrics.get(&quot;expected_assists&quot;),
+                &quot;total_shots&quot;: flat_metrics.get(&quot;total_shots&quot;),
+                &quot;chances_created&quot;: flat_metrics.get(&quot;chances_created&quot;),
+                &quot;touches&quot;: flat_metrics.get(&quot;touches&quot;),
+                &quot;accurate_passes&quot;: flat_metrics.get(&quot;accurate_passes&quot;),
+                &quot;tackles_succeeded&quot;: flat_metrics.get(&quot;Matchstats.headers.tackles&quot;),
+                &quot;interceptions&quot;: flat_metrics.get(&quot;interceptions&quot;),
+                &quot;duels_won&quot;: flat_metrics.get(&quot;duel_won&quot;),
+            })
+
+    return meta_info, stats_rows, event_rows, shot_rows, player_match_rows
+
+
+def main():
+    print(&quot;=========================================================================&quot;)
+    print(&quot;🏟️ EXTRACTION DÉTAILLÉE DES 52 MATCHS FOTMOB — CAN 2025&quot;)
+    print(&quot;=========================================================================\n&quot;)
+
+    matches_csv = os.path.join(RAW_DIR, &quot;fotmob_matches_can2025.csv&quot;)
+    if not os.path.exists(matches_csv):
+        print(&quot;❌ Fichier fotmob_matches_can2025.csv introuvable. Lancez d&#x27;abord 04_scrape_fotmob_can2025.py&quot;)
+        return
+
+    df_matches = pd.read_csv(matches_csv)
+    print(f&quot;📋 {len(df_matches)} matchs à extraire en parallèle (ThreadPoolExecutor)...\n&quot;)
+
+    all_meta = []
+    all_stats = []
+    all_events = []
+    all_shots = []
+    all_pstats = []
+
+    rows_list = [r for _, r in df_matches.iterrows()]
+
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        future_to_row = {executor.submit(fetch_single_match_payload, r): r for r in rows_list}
+        done_count = 0
+        for future in as_completed(future_to_row):
+            r = future_to_row[future]
+            done_count += 1
+            match_id, payload = future.result()
+            if payload:
+                meta, st_r, ev_r, sh_r, pl_r = extract_from_match_payload(match_id, payload, r)
+                all_meta.append(meta)
+                all_stats.extend(st_r)
+                all_events.extend(ev_r)
+                all_shots.extend(sh_r)
+                all_pstats.extend(pl_r)
+                print(f&quot;  [{done_count:02d}/52] ✅ {r[&#x27;home_team&#x27;]} vs {r[&#x27;away_team&#x27;]} ({r[&#x27;score_str&#x27;]}) -&gt; {len(sh_r)} tirs, {len(ev_r)} événements, {len(pl_r)} joueurs&quot;)
+            else:
+                print(f&quot;  [{done_count:02d}/52] ⚠️ {r[&#x27;home_team&#x27;]} vs {r[&#x27;away_team&#x27;]} (payload non disponible)&quot;)
+
+    conn = sqlite3.connect(DB_PATH)
+
+    def save_table(records, csv_name, sql_name):
+        if not records:
+            return
+        df = pd.DataFrame(records)
+        cpath = os.path.join(RAW_DIR, csv_name)
+        df.to_csv(cpath, index=False, encoding=&quot;utf-8&quot;)
+        df.to_sql(sql_name, conn, if_exists=&quot;replace&quot;, index=False)
+        print(f&quot;💾 {sql_name:&lt;30} : {len(df):&gt;5} lignes -&gt; {cpath}&quot;)
+
+    print(&quot;\n=== BILAN DES FICHIERS GÉNÉRÉS &amp; TABLES SQLITE ===&quot;)
+    save_table(all_meta, &quot;fotmob_matches_metadata.csv&quot;, &quot;fotmob_matches_metadata&quot;)
+    save_table(all_stats, &quot;fotmob_match_stats_can2025.csv&quot;, &quot;fotmob_match_stats&quot;)
+    save_table(all_events, &quot;fotmob_match_events_can2025.csv&quot;, &quot;fotmob_match_events&quot;)
+    save_table(all_shots, &quot;fotmob_shotmap_can2025.csv&quot;, &quot;fotmob_shotmap&quot;)
+    save_table(all_pstats, &quot;fotmob_player_match_stats.csv&quot;, &quot;fotmob_player_match_stats&quot;)
+
+    conn.close()
+    print(&quot;\n🎉 Extraction granulaire des 52 matchs terminée avec succès !&quot;)
+
+
+if __name__ == &quot;__main__&quot;:
+    main()
+</code></pre>
+
+<div class="page-break"></div>
+
+<h2 class="section-title">4. Étape 3 : Collecte Complémentaire via API-Football & StatsBomb Open Data</h2>
+
+<p>En complément de FotMob, le script <code>scripts/03_fetch_real_data.py</code> montre comment interroger une API REST avec en-têtes d'authentification (<code>x-apisports-key</code> sur <strong>API-Football</strong>, <code>league=6</code>) ainsi que le dépôt JSON ouvert de <strong>StatsBomb Open Data</strong> (<code>competition_id=1267</code>).</p>
+
+<h3>Code Source Complet : <code>scripts/03_fetch_real_data.py</code></h3>
+<pre><code># -*- coding: utf-8 -*-
+&quot;&quot;&quot;
+Étape Bonus Portfolio : Collecte Automatique de Données Réelles (API REST &amp; Open Data)
+Fichier : scripts/03_fetch_real_data.py
+Auteur  : Amine
+
+Ce script démontre comment un Data Analyst collecte des données depuis le Web via :
+1. API-Football (REST API officielle avec clé API : équipes, matchs, joueurs CAN 2025)
+2. StatsBomb Open Data API (100% Gratuit sans clé : événements détaillés de la CAN)
+3. Sauvegarde automatique en CSV (data/raw/) et dans la base SQLite (data/can2025.db)
+&quot;&quot;&quot;
+
+import os
+import sys
+import json
+import sqlite3
+import urllib.request
+import urllib.error
+import pandas as pd
+
+if hasattr(sys.stdout, &quot;reconfigure&quot;):
+    sys.stdout.reconfigure(encoding=&quot;utf-8&quot;)
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW_DIR = os.path.join(BASE_DIR, &quot;data&quot;, &quot;raw&quot;)
+DB_PATH = os.path.join(BASE_DIR, &quot;data&quot;, &quot;can2025.db&quot;)
+
+# ==============================================================================
+# CONFIGURATION : CLÉ API-FOOTBALL (Optionnelle)
+# Créez un compte gratuit sur https://dashboard.api-football.com (100 req/jour)
+# ==============================================================================
+API_FOOTBALL_KEY = os.environ.get(&quot;API_FOOTBALL_KEY&quot;, &quot;VOTRE_CLE_API_ICI&quot;)
+AFCON_LEAGUE_ID = 6      # ID officiel de la Coupe d&#x27;Afrique des Nations dans API-Football
+AFCON_SEASON = 2025      # Édition Maroc 2025
+
+
+def fetch_json_url(url, headers=None):
+    &quot;&quot;&quot;Fonction utilitaire pour interroger une URL JSON sans dépendance externe.&quot;&quot;&quot;
+    req = urllib.request.Request(url, headers=headers or {&quot;User-Agent&quot;: &quot;Mozilla/5.0&quot;})
+    with urllib.request.urlopen(req, timeout=15) as response:
+        return json.loads(response.read().decode(&quot;utf-8&quot;))
+
+
+# ==============================================================================
+# SOURCE 1 : API-FOOTBALL (Calendrier, Scores, Stades &amp; Joueurs CAN 2025)
+# ==============================================================================
+def fetch_from_api_football(api_key, league_id=AFCON_LEAGUE_ID, season=AFCON_SEASON):
+    &quot;&quot;&quot;
+    Récupère tous les matchs et les meilleurs joueurs de la CAN depuis API-Football.
+    &quot;&quot;&quot;
+    if not api_key or api_key == &quot;VOTRE_CLE_API_ICI&quot;:
+        print(&quot;ℹ️ [API-Football] Aucune clé API renseignée dans API_FOOTBALL_KEY.&quot;)
+        print(&quot;   -&gt; Pour activer API-Football : inscrivez-vous gratuitement sur https://dashboard.api-football.com&quot;)
+        print(&quot;   -&gt; Puis définissez votre clé : set API_FOOTBALL_KEY=votre_cle dans le terminal.\n&quot;)
+        return None, None
+
+    headers = {
+        &quot;x-apisports-key&quot;: api_key,
+        &quot;Accept&quot;: &quot;application/json&quot;
+    }
+
+    print(f&quot;🌐 [API-Football] Téléchargement des matchs (League={league_id}, Season={season})...&quot;)
+    url_fixtures = f&quot;https://v3.football.api-sports.io/fixtures?league={league_id}&amp;season={season}&quot;
+    res_fixtures = fetch_json_url(url_fixtures, headers=headers)
+
+    matches_list = []
+    for item in res_fixtures.get(&quot;response&quot;, []):
+        fix = item.get(&quot;fixture&quot;, {})
+        venue = fix.get(&quot;venue&quot;, {})
+        league = item.get(&quot;league&quot;, {})
+        teams = item.get(&quot;teams&quot;, {})
+        goals = item.get(&quot;goals&quot;, {})
+
+        matches_list.append({
+            &quot;api_fixture_id&quot;: fix.get(&quot;id&quot;),
+            &quot;match_date&quot;: (fix.get(&quot;date&quot;) or &quot;&quot;)[:10],
+            &quot;stage&quot;: league.get(&quot;round&quot;),
+            &quot;stadium&quot;: venue.get(&quot;name&quot;),
+            &quot;host_city&quot;: venue.get(&quot;city&quot;),
+            &quot;home_team&quot;: teams.get(&quot;home&quot;, {}).get(&quot;name&quot;),
+            &quot;away_team&quot;: teams.get(&quot;away&quot;, {}).get(&quot;name&quot;),
+            &quot;home_goals&quot;: goals.get(&quot;home&quot;),
+            &quot;away_goals&quot;: goals.get(&quot;away&quot;),
+            &quot;status&quot;: fix.get(&quot;status&quot;, {}).get(&quot;short&quot;)
+        })
+
+    df_api_matches = pd.DataFrame(matches_list)
+
+    print(f&quot;🌐 [API-Football] Téléchargement des meilleurs buteurs (Top Scorers)...&quot;)
+    url_scorers = f&quot;https://v3.football.api-sports.io/players/topscorers?league={league_id}&amp;season={season}&quot;
+    res_scorers = fetch_json_url(url_scorers, headers=headers)
+
+    scorers_list = []
+    for item in res_scorers.get(&quot;response&quot;, []):
+        player = item.get(&quot;player&quot;, {})
+        stats = (item.get(&quot;statistics&quot;) or [{}])[0]
+        team = stats.get(&quot;team&quot;, {})
+        games = stats.get(&quot;games&quot;, {})
+        goals = stats.get(&quot;goals&quot;, {})
+        passes = stats.get(&quot;passes&quot;, {})
+        dribbles = stats.get(&quot;dribbles&quot;, {})
+
+        scorers_list.append({
+            &quot;player_id&quot;: player.get(&quot;id&quot;),
+            &quot;player_name&quot;: player.get(&quot;name&quot;),
+            &quot;age&quot;: player.get(&quot;age&quot;),
+            &quot;nationality&quot;: player.get(&quot;nationality&quot;),
+            &quot;team_name&quot;: team.get(&quot;name&quot;),
+            &quot;position&quot;: games.get(&quot;position&quot;),
+            &quot;matches_played&quot;: games.get(&quot;appearences&quot;),
+            &quot;minutes_played&quot;: games.get(&quot;minutes&quot;),
+            &quot;rating&quot;: float(games.get(&quot;rating&quot;) or 0.0),
+            &quot;goals&quot;: goals.get(&quot;total&quot;) or 0,
+            &quot;assists&quot;: goals.get(&quot;assists&quot;) or 0,
+            &quot;key_passes&quot;: passes.get(&quot;key&quot;) or 0,
+            &quot;dribbles_success&quot;: dribbles.get(&quot;success&quot;) or 0
+        })
+
+    df_api_scorers = pd.DataFrame(scorers_list)
+    return df_api_matches, df_api_scorers
+
+
+# ==============================================================================
+# SOURCE 2 : STATSBOMB OPEN DATA (100% GRATUIT - SANS CLÉ API)
+# ==============================================================================
+def fetch_from_statsbomb_open_data():
+    &quot;&quot;&quot;
+    Récupère gratuitement les matchs officiels de la CAN depuis le dépôt GitHub
+    StatsBomb Open Data (competition_id = 1267 : African Cup of Nations).
+    Aucune clé API n&#x27;est requise !
+    &quot;&quot;&quot;
+    print(&quot;🌐 [StatsBomb Open Data] Connexion au dépôt GitHub officiel StatsBomb...&quot;)
+    comp_url = &quot;https://raw.githubusercontent.com/statsbomb/open-data/master/data/competitions.json&quot;
+
+    try:
+        competitions = fetch_json_url(comp_url)
+    except Exception as e:
+        print(f&quot;⚠️ Impossible de contacter GitHub StatsBomb ({e}). Vérifiez votre connexion Internet.&quot;)
+        return None
+
+    afcon_seasons = [
+        c for c in competitions
+        if &quot;African Cup of Nations&quot; in c.get(&quot;competition_name&quot;, &quot;&quot;) or c.get(&quot;competition_id&quot;) == 1267
+    ]
+
+    if not afcon_seasons:
+        print(&quot;ℹ️ Compétition CAN non trouvée dans la liste StatsBomb.&quot;)
+        return None
+
+    # On prend la saison la plus récente disponible dans StatsBomb Open Data
+    latest = sorted(afcon_seasons, key=lambda x: x.get(&quot;season_name&quot;, &quot;&quot;), reverse=True)[0]
+    comp_id = latest[&quot;competition_id&quot;]
+    season_id = latest[&quot;season_id&quot;]
+    season_name = latest[&quot;season_name&quot;]
+
+    print(f&quot;✅ [StatsBomb] Édition trouvée : {latest[&#x27;competition_name&#x27;]} ({season_name}) [comp_id={comp_id}, season_id={season_id}]&quot;)
+
+    matches_url = f&quot;https://raw.githubusercontent.com/statsbomb/open-data/master/data/matches/{comp_id}/{season_id}.json&quot;
+    matches_json = fetch_json_url(matches_url)
+
+    rows = []
+    for m in matches_json:
+        rows.append({
+            &quot;statsbomb_match_id&quot;: m.get(&quot;match_id&quot;),
+            &quot;match_date&quot;: m.get(&quot;match_date&quot;),
+            &quot;stage&quot;: m.get(&quot;competition_stage&quot;, {}).get(&quot;name&quot;),
+            &quot;home_team&quot;: m.get(&quot;home_team&quot;, {}).get(&quot;home_team_name&quot;),
+            &quot;away_team&quot;: m.get(&quot;away_team&quot;, {}).get(&quot;away_team_name&quot;),
+            &quot;home_score&quot;: m.get(&quot;home_score&quot;),
+            &quot;away_score&quot;: m.get(&quot;away_score&quot;),
+            &quot;stadium&quot;: (m.get(&quot;stadium&quot;) or {}).get(&quot;name&quot;),
+            &quot;referee&quot;: (m.get(&quot;referee&quot;) or {}).get(&quot;name&quot;)
+        })
+
+    df_sb_matches = pd.DataFrame(rows).sort_values(&quot;match_date&quot;)
+    print(f&quot;✅ [StatsBomb] {len(df_sb_matches)} matchs officiels récupérés avec succès !&quot;)
+    return df_sb_matches
+
+
+# ==============================================================================
+# SAUVEGARDE DANS CSV (data/raw/) ET SQLITE (data/can2025.db)
+# ==============================================================================
+def main():
+    print(&quot;==================================================================&quot;)
+    print(&quot;🚀 COLLECTE DE DONNÉES WEB &amp; API — PROJET CAN 2025 (MAROC)&quot;)
+    print(&quot;==================================================================\n&quot;)
+
+    conn = sqlite3.connect(DB_PATH)
+
+    # 1. Test API-Football
+    df_api_m, df_api_p = fetch_from_api_football(API_FOOTBALL_KEY)
+    if df_api_m is not None and not df_api_m.empty:
+        csv_m = os.path.join(RAW_DIR, &quot;api_football_matches.csv&quot;)
+        df_api_m.to_csv(csv_m, index=False, encoding=&quot;utf-8&quot;)
+        df_api_m.to_sql(&quot;api_football_matches&quot;, conn, if_exists=&quot;replace&quot;, index=False)
+        print(f&quot;💾 Matchs API-Football sauvegardés dans : {csv_m} et table SQL &#x27;api_football_matches&#x27;&quot;)
+
+    if df_api_p is not None and not df_api_p.empty:
+        csv_p = os.path.join(RAW_DIR, &quot;api_football_topscorers.csv&quot;)
+        df_api_p.to_csv(csv_p, index=False, encoding=&quot;utf-8&quot;)
+        df_api_p.to_sql(&quot;api_football_topscorers&quot;, conn, if_exists=&quot;replace&quot;, index=False)
+        print(f&quot;💾 Buteurs API-Football sauvegardés dans : {csv_p} et table SQL &#x27;api_football_topscorers&#x27;&quot;)
+
+    # 2. Collecte gratuite StatsBomb Open Data
+    df_sb = fetch_from_statsbomb_open_data()
+    if df_sb is not None and not df_sb.empty:
+        csv_sb = os.path.join(RAW_DIR, &quot;statsbomb_afcon_matches.csv&quot;)
+        df_sb.to_csv(csv_sb, index=False, encoding=&quot;utf-8&quot;)
+        df_sb.to_sql(&quot;statsbomb_afcon_matches&quot;, conn, if_exists=&quot;replace&quot;, index=False)
+        print(f&quot;💾 Matchs StatsBomb sauvegardés dans : {csv_sb}&quot;)
+        print(&quot;💾 Table SQL &#x27;statsbomb_afcon_matches&#x27; ajoutée dans data/can2025.db !\n&quot;)
+        print(&quot;Aperçu des 5 derniers matchs récupérés en ligne :&quot;)
+        print(df_sb[[&quot;match_date&quot;, &quot;stage&quot;, &quot;home_team&quot;, &quot;home_score&quot;, &quot;away_score&quot;, &quot;away_team&quot;]].tail(5).to_string(index=False))
+
+    conn.close()
+    print(&quot;\n✅ Collecte terminée avec succès !&quot;)
+
+
+if __name__ == &quot;__main__&quot;:
+    main()
+</code></pre>
+
+<div class="page-break"></div>
+
+<h2 class="section-title">5. Étape 4 : Nettoyage des Données (ETL) & Modélisation SQL (SQLite)</h2>
+
+<h3>A. Pipeline ETL Python (<code>scripts/01_clean_and_build_db.py</code>)</h3>
+<p>Ce script illustre le nettoyage des données brutes (suppression des espaces avec <code>.str.strip()</code>, dédoublonnage avec <code>.drop_duplicates()</code>, imputation des valeurs manquantes par la médiane et création des indicateurs par 90 minutes) avant de charger les tables dans <code>data/can2025.db</code>.</p>
+<pre><code># -*- coding: utf-8 -*-
+&quot;&quot;&quot;
+Étape 1 &amp; 2 du Projet Portfolio : Nettoyage des données (ETL Python) &amp; Alimentation SQLite
+Auteur : Amine
+Projet : Data Analyse CAN 2025 (Maroc)
+&quot;&quot;&quot;
+
+import os
+import sqlite3
+import pandas as pd
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW_DIR = os.path.join(BASE_DIR, &quot;data&quot;, &quot;raw&quot;)
+PROC_DIR = os.path.join(BASE_DIR, &quot;data&quot;, &quot;processed&quot;)
+DB_PATH = os.path.join(BASE_DIR, &quot;data&quot;, &quot;can2025.db&quot;)
+
+def run_etl():
+    print(&quot;=== 1. CHARGEMENT DES DONNÉES BRUTES ===&quot;)
+    df_hist = pd.read_csv(os.path.join(RAW_DIR, &quot;historical_afcon.csv&quot;))
+    df_teams = pd.read_csv(os.path.join(RAW_DIR, &quot;teams_can2025.csv&quot;))
+    df_matches = pd.read_csv(os.path.join(RAW_DIR, &quot;matches_can2025.csv&quot;))
+    df_players = pd.read_csv(os.path.join(RAW_DIR, &quot;players_can2025.csv&quot;))
+
+    print(f&quot;Équipes (brut) : {len(df_teams)} lignes&quot;)
+    print(f&quot;Matchs (brut)  : {len(df_matches)} lignes (Valeurs manquantes attendance : {df_matches[&#x27;attendance&#x27;].isna().sum()})&quot;)
+
+    print(&quot;\n=== 2. NETTOYAGE DES DONNÉES (DATA CLEANING) ===&quot;)
+    # A. Suppression des espaces superflus et des doublons dans teams
+    df_teams[&quot;team_name&quot;] = df_teams[&quot;team_name&quot;].str.strip()
+    df_teams = df_teams.drop_duplicates(subset=[&quot;team_id&quot;], keep=&quot;first&quot;)
+    print(f&quot;Équipes (après suppression des doublons et nettoyage texte) : {len(df_teams)} lignes&quot;)
+
+    # B. Imputation des valeurs manquantes d&#x27;affluence par la médiane de la ville hôte
+    df_matches[&quot;attendance&quot;] = df_matches.groupby(&quot;host_city&quot;)[&quot;attendance&quot;].transform(
+        lambda x: x.fillna(x.median())
+    ).astype(int)
+
+    # C. Feature Engineering sur les joueurs (Normalisation par 90 minutes)
+    df_players[&quot;goals_per_90&quot;] = ((df_players[&quot;goals&quot;] / df_players[&quot;minutes_played&quot;]) * 90).round(2)
+    df_players[&quot;assists_per_90&quot;] = ((df_players[&quot;assists&quot;] / df_players[&quot;minutes_played&quot;]) * 90).round(2)
+    df_players[&quot;goal_contributions&quot;] = df_players[&quot;goals&quot;] + df_players[&quot;assists&quot;]
+    df_players[&quot;goal_contributions_per_90&quot;] = ((df_players[&quot;goal_contributions&quot;] / df_players[&quot;minutes_played&quot;]) * 90).round(2)
+    df_players[&quot;xg_diff&quot;] = (df_players[&quot;goals&quot;] - df_players[&quot;xg&quot;]).round(2)
+
+    print(&quot;\n=== 3. EXPORT DES FICHIERS PROPRES (POUR EXCEL &amp; POWER BI / TABLEAU) ===&quot;)
+    df_hist.to_csv(os.path.join(PROC_DIR, &quot;historical_afcon_clean.csv&quot;), index=False, encoding=&quot;utf-8&quot;)
+    df_teams.to_csv(os.path.join(PROC_DIR, &quot;teams_can2025_clean.csv&quot;), index=False, encoding=&quot;utf-8&quot;)
+    df_matches.to_csv(os.path.join(PROC_DIR, &quot;matches_can2025_clean.csv&quot;), index=False, encoding=&quot;utf-8&quot;)
+    df_players.to_csv(os.path.join(PROC_DIR, &quot;players_can2025_clean.csv&quot;), index=False, encoding=&quot;utf-8&quot;)
+
+    print(&quot;\n=== 4. MISE À JOUR DE LA BASE DE DONNÉES SQLITE ===&quot;)
+    conn = sqlite3.connect(DB_PATH)
+    df_hist.to_sql(&quot;historical_afcon&quot;, conn, if_exists=&quot;replace&quot;, index=False)
+    df_teams.to_sql(&quot;teams&quot;, conn, if_exists=&quot;replace&quot;, index=False)
+    df_matches.to_sql(&quot;matches&quot;, conn, if_exists=&quot;replace&quot;, index=False)
+    df_players.to_sql(&quot;players&quot;, conn, if_exists=&quot;replace&quot;, index=False)
+
+    # Exemple d&#x27;exécution d&#x27;une requête SQL sur le Maroc
+    query_maroc = &quot;&quot;&quot;
+    SELECT player_name, position, club, goals, assists, key_passes, rating
+    FROM players
+    WHERE team_id = &#x27;MAR&#x27;
+    ORDER BY rating DESC
+    LIMIT 5;
+    &quot;&quot;&quot;
+    print(&quot;\nTop 5 Joueurs du Maroc (via SQL) :&quot;)
+    print(pd.read_sql_query(query_maroc, conn).to_string(index=False))
+    conn.close()
+    print(&quot;\nPipeline ETL terminé avec succès !&quot;)
+
+if __name__ == &quot;__main__&quot;:
+    run_etl()
+</code></pre>
+
+<h3>B. Schéma Relationnel SQL (<code>sql/schema.sql</code>)</h3>
+<pre><code>-- ============================================================================
+-- SCHEMA RELATIONNEL : BASE DE DONNÉES CAN 2025 (MAROC)
+-- ============================================================================
+
+DROP TABLE IF EXISTS players;
+DROP TABLE IF EXISTS matches;
+DROP TABLE IF EXISTS teams;
+DROP TABLE IF EXISTS historical_afcon;
+
+CREATE TABLE historical_afcon (
+    year INTEGER PRIMARY KEY,
+    host_country TEXT NOT NULL,
+    winner TEXT NOT NULL,
+    runner_up TEXT NOT NULL,
+    num_teams INTEGER,
+    matches_played INTEGER,
+    total_goals INTEGER,
+    goals_per_match REAL,
+    avg_attendance INTEGER,
+    host_won INTEGER
+);
+
+CREATE TABLE teams (
+    team_id TEXT PRIMARY KEY,
+    team_name TEXT NOT NULL,
+    group_name TEXT NOT NULL,
+    fifa_rank INTEGER,
+    market_value_m_eur REAL,
+    coach_style TEXT,
+    confederation_region TEXT,
+    previous_titles INTEGER,
+    final_stage_2025 TEXT
+);
+
+CREATE TABLE matches (
+    match_id TEXT PRIMARY KEY,
+    match_date TEXT NOT NULL,
+    stage TEXT NOT NULL,
+    group_name TEXT,
+    home_team_id TEXT NOT NULL,
+    away_team_id TEXT NOT NULL,
+    home_goals INTEGER,
+    away_goals INTEGER,
+    home_xg REAL,
+    away_xg REAL,
+    home_possession INTEGER,
+    away_possession INTEGER,
+    home_shots INTEGER,
+    home_shots_on_target INTEGER,
+    away_shots INTEGER,
+    away_shots_on_target INTEGER,
+    host_city TEXT,
+    attendance INTEGER,
+    total_goals INTEGER,
+    FOREIGN KEY (home_team_id) REFERENCES teams(team_id),
+    FOREIGN KEY (away_team_id) REFERENCES teams(team_id)
+);
+
+CREATE TABLE players (
+    player_id TEXT PRIMARY KEY,
+    player_name TEXT NOT NULL,
+    team_id TEXT NOT NULL,
+    team_name TEXT NOT NULL,
+    position TEXT NOT NULL,
+    age INTEGER,
+    club TEXT,
+    market_value_m_eur REAL,
+    matches_played INTEGER,
+    minutes_played INTEGER,
+    goals INTEGER,
+    xg REAL,
+    assists INTEGER,
+    xa REAL,
+    key_passes INTEGER,
+    progressive_carries INTEGER,
+    tackles_won INTEGER,
+    interceptions INTEGER,
+    duels_won_pct REAL,
+    clean_sheets INTEGER,
+    rating REAL,
+    goals_per_90 REAL,
+    assists_per_90 REAL,
+    goal_contributions INTEGER,
+    goal_contributions_per_90 REAL,
+    xg_diff REAL,
+    FOREIGN KEY (team_id) REFERENCES teams(team_id)
+);
+</code></pre>
+
+<h3>C. Les Requêtes Analytiques SQL du Portfolio (<code>sql/business_queries.sql</code>)</h3>
+<pre><code>-- ============================================================================
+-- 12 REQUÊTES SQL ANALYTIQUES POUR LE PORTFOLIO DATA ANALYST (CAN 2025 MAROC)
+-- Compétences : JOIN, GROUP BY, CTE (WITH), CASE WHEN, Window Functions (RANK)
+-- ============================================================================
+
+-- ----------------------------------------------------------------------------
+-- VOLET 1 : HISTORIQUE &amp; ÉVOLUTION DE LA CAN (1957 - 2025)
+-- ----------------------------------------------------------------------------
+
+-- Q1. Évolution de la moyenne de buts et de l&#x27;affluence sur les 10 dernières éditions
+SELECT 
+    year AS edition,
+    host_country AS pays_hote,
+    winner AS vainqueur,
+    matches_played AS matchs,
+    total_goals AS buts_totaux,
+    ROUND(goals_per_match, 2) AS buts_par_match,
+    avg_attendance AS affluence_moyenne,
+    CASE WHEN host_won = 1 THEN &#x27;Oui&#x27; ELSE &#x27;Non&#x27; END AS victoire_pays_hote
+FROM historical_afcon
+ORDER BY year DESC
+LIMIT 10;
+
+-- Q2. Taux de réussite historique des pays organisateurs de la CAN
+SELECT 
+    COUNT(*) AS total_editions,
+    SUM(host_won) AS titres_pays_hote,
+    ROUND(100.0 * SUM(host_won) / COUNT(*), 1) AS pourcentage_victoire_hote
+FROM historical_afcon;
+
+
+-- ----------------------------------------------------------------------------
+-- VOLET 2 : BILAN COLLECTIF DES ÉQUIPES (CAN 2025)
+-- ----------------------------------------------------------------------------
+
+-- Q3. Bilan complet par équipe (Matchs, Buts marqués, Buts encaissés, Différence, xG) via CTE
+WITH team_matches AS (
+    SELECT 
+        home_team_id AS team_id,
+        home_goals AS goals_for,
+        away_goals AS goals_against,
+        home_xg AS xg_for,
+        away_xg AS xg_against,
+        home_possession AS possession
+    FROM matches
+    UNION ALL
+    SELECT 
+        away_team_id AS team_id,
+        away_goals AS goals_for,
+        home_goals AS goals_against,
+        away_xg AS xg_for,
+        home_xg AS xg_against,
+        away_possession AS possession
+    FROM matches
+)
+SELECT 
+    t.team_name AS equipe,
+    t.final_stage_2025 AS parcours,
+    COUNT(*) AS matchs_joues,
+    SUM(tm.goals_for) AS buts_marques,
+    SUM(tm.goals_against) AS buts_encaisses,
+    SUM(tm.goals_for) - SUM(tm.goals_against) AS diff_buts,
+    ROUND(SUM(tm.xg_for), 2) AS xg_total,
+    ROUND(SUM(tm.goals_for) - SUM(tm.xg_for), 2) AS surperformance_xg,
+    ROUND(AVG(tm.possession), 1) AS possession_moyenne
+FROM team_matches tm
+JOIN teams t ON tm.team_id = t.team_id
+GROUP BY t.team_id, t.team_name, t.final_stage_2025
+ORDER BY buts_marques DESC, diff_buts DESC;
+
+-- Q4. Affluence et spectacle par ville hôte marocaine
+SELECT 
+    host_city AS ville_hote,
+    COUNT(*) AS nb_matchs,
+    SUM(total_goals) AS total_buts,
+    ROUND(AVG(total_goals), 2) AS moyenne_buts_match,
+    ROUND(AVG(attendance), 0) AS affluence_moyenne,
+    MAX(attendance) AS affluence_record
+FROM matches
+GROUP BY host_city
+ORDER BY affluence_moyenne DESC;
+
+
+-- ----------------------------------------------------------------------------
+-- VOLET 3 : SCOUTING &amp; RECRUTEMENT DE JOUEURS
+-- ----------------------------------------------------------------------------
+
+-- Q5. Classement des meilleurs joueurs décisifs (Buts + Passes D) avec Window Function (DENSE_RANK)
+SELECT 
+    DENSE_RANK() OVER (ORDER BY goal_contributions DESC, goals DESC, minutes_played ASC) AS rang,
+    player_name AS joueur,
+    team_name AS selection,
+    position,
+    club,
+    goals AS buts,
+    assists AS passes_decisives,
+    goal_contributions AS total_decisif,
+    goal_contributions_per_90 AS decisif_par_90min,
+    rating AS note_moyenne
+FROM players
+ORDER BY rang ASC
+LIMIT 10;
+
+-- Q6. Détection des &quot;Pépites U23 sous-cotées&quot; (Âge &lt;= 23 ans, Valeur &lt;= 20 M€, Haute performance)
+SELECT 
+    player_name AS pepite_u23,
+    team_name AS selection,
+    age,
+    position,
+    club,
+    market_value_m_eur AS valeur_marchande_meur,
+    goals AS buts,
+    assists AS passes_d,
+    key_passes AS passes_cles,
+    progressive_carries AS progressions_balle,
+    rating AS note_tournoi
+FROM players
+WHERE age &lt;= 23 
+  AND market_value_m_eur &lt;= 20.0
+  AND minutes_played &gt;= 300
+ORDER BY rating DESC;
+
+-- Q7. Meilleur joueur par poste (Gardien, Défenseur, Milieu, Attaquant) avec ROW_NUMBER()
+WITH ranked_by_pos AS (
+    SELECT 
+        position,
+        player_name,
+        team_name,
+        club,
+        goals,
+        assists,
+        tackles_won,
+        interceptions,
+        duels_won_pct,
+        rating,
+        ROW_NUMBER() OVER (PARTITION BY position ORDER BY rating DESC) AS pos_rank
+    FROM players
+)
+SELECT 
+    position,
+    player_name AS meilleur_joueur,
+    team_name AS selection,
+    club,
+    rating AS note_moyenne,
+    duels_won_pct AS pct_duels_gagnes
+FROM ranked_by_pos
+WHERE pos_rank &lt;= 2
+ORDER BY position, pos_rank;
+
+
+-- ----------------------------------------------------------------------------
+-- VOLET 4 : FOCUS SPÉCIAL MAROC (LIONS DE L&#x27;ATLAS)
+-- ----------------------------------------------------------------------------
+
+-- Q8. Parcours match par match du Maroc à la CAN 2025
+SELECT 
+    m.match_id,
+    m.match_date AS date_match,
+    m.stage AS tour,
+    t_opp.team_name AS adversaire,
+    CASE WHEN m.home_team_id = &#x27;MAR&#x27; THEN m.home_goals ELSE m.away_goals END AS buts_maroc,
+    CASE WHEN m.home_team_id = &#x27;MAR&#x27; THEN m.away_goals ELSE m.home_goals END AS buts_adversaire,
+    CASE WHEN m.home_team_id = &#x27;MAR&#x27; THEN m.home_xg ELSE m.away_xg END AS xg_maroc,
+    CASE WHEN m.home_team_id = &#x27;MAR&#x27; THEN m. away_xg ELSE m.home_xg END AS xg_adversaire,
+    CASE WHEN m.home_team_id = &#x27;MAR&#x27; THEN m.home_possession ELSE m.away_possession END AS possession_maroc,
+    m.host_city AS ville,
+    m.attendance AS spectateurs
+FROM matches m
+JOIN teams t_opp ON (
+    CASE WHEN m.home_team_id = &#x27;MAR&#x27; THEN m.away_team_id ELSE m.home_team_id END = t_opp.team_id
+)
+WHERE m.home_team_id = &#x27;MAR&#x27; OR m.away_team_id = &#x27;MAR&#x27;
+ORDER BY m.match_date ASC;
+
+-- Q9. Contributions individuelles de l&#x27;effectif du Maroc
+SELECT 
+    player_name AS joueur_marocain,
+    position AS poste,
+    club,
+    minutes_played AS minutes,
+    goals AS buts,
+    assists AS passes_d,
+    key_passes AS passes_cles,
+    progressive_carries AS progressions,
+    tackles_won + interceptions AS actions_defensives,
+    duels_won_pct AS duels_gagnes_pct,
+    rating AS note
+FROM players
+WHERE team_id = &#x27;MAR&#x27;
+ORDER BY rating DESC;
+</code></pre>
+
+<div class="page-break"></div>
+
+<h2 class="section-title">6. Étape 5 : Code de l'Application Web Interactive (Streamlit & Plotly)</h2>
+
+<p>Le fichier <code>app/streamlit_app.py</code> connecte la base SQLite <code>data/can2025.db</code> à une interface web interactive structurée en <strong>6 onglets</strong>, incluant le tracé géométrique d'un demi-terrain de football réglementaire (105x68) avec Plotly pour afficher les 1 026 tirs de la Shotmap FotMob.</p>
+
+<h3>Code Source Complet : <code>app/streamlit_app.py</code></h3>
+<pre><code># -*- coding: utf-8 -*-
+&quot;&quot;&quot;
+Application Interactive de Data Analyse &amp; Scouting : CAN 2025 (Maroc)
+Intègre les données officielles + l&#x27;extraction granulaire FotMob (1 026 tirs, 710 événements, 2 445 prestations joueurs)
+Lancez avec : python -m streamlit run app/streamlit_app.py
+&quot;&quot;&quot;
+
+import os
+import sqlite3
+import pandas as pd
+import streamlit as st
+import plotly.express as px
+import plotly.graph_objects as go
+
+st.set_page_config(
+    page_title=&quot;CAN 2025 Maroc - Data Analyse, Shotmap &amp; Match Center FotMob&quot;,
+    page_icon=&quot;🏆&quot;,
+    layout=&quot;wide&quot;
+)
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DB_PATH = os.path.join(BASE_DIR, &quot;data&quot;, &quot;can2025.db&quot;)
+
+
+@st.cache_data
+def load_all_data(db_mtime):
+    conn = sqlite3.connect(DB_PATH)
+    hist = pd.read_sql_query(&quot;SELECT * FROM historical_afcon ORDER BY year&quot;, conn)
+    teams = pd.read_sql_query(&quot;SELECT * FROM teams&quot;, conn)
+    matches = pd.read_sql_query(&quot;SELECT * FROM matches&quot;, conn)
+    players = pd.read_sql_query(&quot;SELECT * FROM players&quot;, conn)
+
+    # Tables FotMob extraites
+    def safe_read_table(tname):
+        try:
+            return pd.read_sql_query(f&quot;SELECT * FROM {tname}&quot;, conn)
+        except Exception:
+            return pd.DataFrame()
+
+    fm_standings = safe_read_table(&quot;fotmob_standings&quot;)
+    fm_pstats = safe_read_table(&quot;fotmob_player_stats&quot;)
+    fm_meta = safe_read_table(&quot;fotmob_matches_metadata&quot;)
+    fm_mstats = safe_read_table(&quot;fotmob_match_stats&quot;)
+    fm_events = safe_read_table(&quot;fotmob_match_events&quot;)
+    fm_shots = safe_read_table(&quot;fotmob_shotmap&quot;)
+    fm_pmatch = safe_read_table(&quot;fotmob_player_match_stats&quot;)
+
+    conn.close()
+
+    # Associer le nom de l&#x27;équipe aux tirs FotMob via team_id
+    if not fm_shots.empty and not fm_standings.empty:
+        tid_map = dict(zip(fm_standings[&quot;team_id&quot;].astype(str), fm_standings[&quot;team_name&quot;]))
+        fm_shots[&quot;team_name&quot;] = fm_shots[&quot;team_id&quot;].astype(str).map(tid_map).fillna(&quot;Autre&quot;)
+
+    return hist, teams, matches, players, fm_standings, fm_pstats, fm_meta, fm_mstats, fm_events, fm_shots, fm_pmatch
+
+
+db_mtime = os.path.getmtime(DB_PATH) if os.path.exists(DB_PATH) else 0
+(
+    df_hist, df_teams, df_matches, df_players,
+    df_fm_standings, df_fm_pstats, df_fm_meta,
+    df_fm_mstats, df_fm_events, df_fm_shots, df_fm_pmatch
+) = load_all_data(db_mtime)
+
+
+def draw_half_pitch_shotmap(df_s, title=&quot;Carte des Tirs (Shotmap FotMob)&quot;):
+    &quot;&quot;&quot;Dessine un demi-terrain de football réglementaire (dimensions Opta/FotMob 105x68) avec les tirs.&quot;&quot;&quot;
+    fig = go.Figure()
+
+    # Couleur de fond terrain et lignes blanches (demi-terrain offensif : x de 52.5 à 106, y de -2 à 70)
+    pitch_shapes = [
+        # Pelouse
+        dict(type=&quot;rect&quot;, x0=52.5, y0=0, x1=105, y1=68, line=dict(color=&quot;white&quot;, width=2), fillcolor=&quot;#1e7b34&quot;, layer=&quot;below&quot;),
+        # Grande surface de réparation (16.5m : x de 88.5 à 105, y de 13.84 à 54.16)
+        dict(type=&quot;rect&quot;, x0=88.5, y0=13.84, x1=105, y1=54.16, line=dict(color=&quot;white&quot;, width=2), fillcolor=&quot;rgba(0,0,0,0)&quot;, layer=&quot;below&quot;),
+        # Surface de but (5.5m : x de 99.5 à 105, y de 24.84 à 43.16)
+        dict(type=&quot;rect&quot;, x0=99.5, y0=24.84, x1=105, y1=43.16, line=dict(color=&quot;white&quot;, width=2), fillcolor=&quot;rgba(0,0,0,0)&quot;, layer=&quot;below&quot;),
+        # Cages du but (y de 30.34 à 37.66)
+        dict(type=&quot;rect&quot;, x0=105, y0=30.34, x1=106.2, y1=37.66, line=dict(color=&quot;#f1c40f&quot;, width=3), fillcolor=&quot;rgba(255,255,255,0.25)&quot;, layer=&quot;below&quot;),
+        # Point de penalty (x=94, y=34)
+        dict(type=&quot;circle&quot;, x0=93.6, y0=33.6, x1=94.4, y1=34.4, line=dict(color=&quot;white&quot;, width=2), fillcolor=&quot;white&quot;, layer=&quot;below&quot;),
+    ]
+
+    color_map = {
+        &quot;Goal&quot;: &quot;#f1c40f&quot;,          # Or vif pour les buts
+        &quot;AttemptSaved&quot;: &quot;#3498db&quot;,  # Bleu pour les tirs arrêtés/bloqués
+        &quot;Miss&quot;: &quot;#e74c3c&quot;,          # Rouge pour les tirs hors cadre
+        &quot;Post&quot;: &quot;#9b59b6&quot;           # Violet pour les poteaux
+    }
+    symbol_map = {
+        &quot;Goal&quot;: &quot;star&quot;,
+        &quot;AttemptSaved&quot;: &quot;circle&quot;,
+        &quot;Miss&quot;: &quot;x&quot;,
+        &quot;Post&quot;: &quot;diamond&quot;
+    }
+
+    for ev_type, group in df_s.groupby(&quot;event_type&quot;):
+        xg_vals = pd.to_numeric(group[&quot;xg&quot;], errors=&quot;coerce&quot;).fillna(0.05)
+        marker_sizes = (xg_vals * 38 + 9).clip(9, 32)
+        fig.add_trace(go.Scatter(
+            x=group[&quot;x&quot;],
+            y=group[&quot;y&quot;],
+            mode=&quot;markers&quot;,
+            name=f&quot;{ev_type} ({len(group)})&quot;,
+            marker=dict(
+                size=marker_sizes,
+                color=color_map.get(ev_type, &quot;#ecf0f1&quot;),
+                symbol=symbol_map.get(ev_type, &quot;circle&quot;),
+                line=dict(width=1.2, color=&quot;black&quot;),
+                opacity=0.9
+            ),
+            customdata=group[[&quot;player_name&quot;, &quot;team_name&quot;, &quot;minute&quot;, &quot;xg&quot;, &quot;xgot&quot;, &quot;shot_type&quot;, &quot;situation&quot;, &quot;home_team&quot;, &quot;away_team&quot;]],
+            hovertemplate=(
+                &quot;&lt;b&gt;%{customdata[0]}&lt;/b&gt; (%{customdata[1]}) — %{customdata[2]}&#x27;&lt;br&gt;&quot;
+                &quot;Match : %{customdata[7]} vs %{customdata[8]}&lt;br&gt;&quot;
+                &quot;Résultat : &lt;b&gt;&quot; + str(ev_type) + &quot;&lt;/b&gt; | Type : %{customdata[5]} (%{customdata[6]})&lt;br&gt;&quot;
+                &quot;xG : &lt;b&gt;%{customdata[3]:.2f}&lt;/b&gt; | xGOT : %{customdata[4]:.2f}&lt;extra&gt;&lt;/extra&gt;&quot;
+            )
+        ))
+
+    fig.update_layout(
+        title=title,
+        shapes=pitch_shapes,
+        xaxis=dict(range=[52, 107], showgrid=False, zeroline=False, visible=False),
+        yaxis=dict(range=[-2, 70], showgrid=False, zeroline=False, visible=False, scaleanchor=&quot;x&quot;, scaleratio=1),
+        plot_bgcolor=&quot;#145a23&quot;,
+        height=540,
+        margin=dict(l=10, r=10, t=45, b=10),
+        legend=dict(orientation=&quot;h&quot;, yanchor=&quot;bottom&quot;, y=1.01, xanchor=&quot;right&quot;, x=1)
+    )
+    return fig
+
+
+# ==============================================================================
+# EN-TÊTE GLOBAL &amp; KPIS OFFICIELS DU TOURNOI (CAN 2025 MAROC)
+# ==============================================================================
+st.title(&quot;🏆 CAN 2025 (Maroc) — Plateforme Data Analyse, Shotmap &amp; Match Center FotMob&quot;)
+st.markdown(
+    &quot;**Données Officielles &amp; Extraction Temps Réel FotMob** | **52 matchs**, **1 026 tirs géolocalisés (xG)**, &quot;
+    &quot;**710 événements minute par minute** et **2 445 prestations individuelles de joueurs**.&quot;
+)
+
+c1, c2, c3, c4, c5 = st.columns(5)
+c1.metric(&quot;Matchs &amp; Tirs FotMob&quot;, f&quot;52 matchs | {len(df_fm_shots)} tirs&quot;, f&quot;{len(df_fm_pmatch)} fiches joueurs&quot;)
+c2.metric(&quot;Buts Marqués&quot;, int(df_matches[&quot;total_goals&quot;].sum()), f&quot;Moyenne : {df_matches[&#x27;total_goals&#x27;].mean():.2f} / match&quot;)
+c3.metric(&quot;Soulier d&#x27;Or (Buteur)&quot;, &quot;Brahim Díaz 🇲🇦&quot;, &quot;5 buts (Osimhen &amp; Salah : 4)&quot;)
+c4.metric(&quot;Meilleur Joueur &amp; Gardien&quot;, &quot;Mané 🇸🇳 / Bounou 🇲🇦&quot;, &quot;Lookman 🇳🇬 : 4 passes D&quot;)
+c5.metric(&quot;Champion CAN 2025&quot;, &quot;🇲🇦 Maroc (3-0 CAF)&quot;, &quot;Finaliste : Sénégal 🇸🇳&quot;)
+
+st.divider()
+
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+    &quot;🎯 1. Diagnostic par Équipe (24 Nations)&quot;,
+    &quot;🥅 2. Shotmap Interactive FotMob (1 026 Tirs)&quot;,
+    &quot;🏟️ 3. Feuille de Match FotMob (Match Center)&quot;,
+    &quot;📊 4. Bilan des 24 Équipes &amp; Groupes&quot;,
+    &quot;🔍 5. Scouting &amp; Stats Joueurs FotMob&quot;,
+    &quot;📜 6. Historique CAN (1957-2025)&quot;
+])
+
+# ==============================================================================
+# ONGLET 1 : DIAGNOSTIC TACTIQUE &amp; PARCOURS DE CHAQUE ÉQUIPE (LISTE DÉROULANTE)
+# ==============================================================================
+with tab1:
+    st.subheader(&quot;🎯 Diagnostic Tactique &amp; Parcours Officiel par Équipe Nationale&quot;)
+
+    teams_sorted = df_teams.sort_values([&quot;group_name&quot;, &quot;fifa_rank&quot;]).copy()
+    team_options = [
+        f&quot;{r[&#x27;team_name&#x27;]} ({r[&#x27;team_id&#x27;]}) — {r[&#x27;group_name&#x27;]} | {r[&#x27;final_stage_2025&#x27;]}&quot;
+        for _, r in teams_sorted.iterrows()
+    ]
+    default_idx = next((i for i, opt in enumerate(team_options) if &quot;(MAR)&quot; in opt), 0)
+
+    col_sel, col_info = st.columns([1.35, 2])
+    with col_sel:
+        selected_label = st.selectbox(
+            &quot;🔽 Choisissez une équipe parmi les 24 nations qualifiées :&quot;,
+            options=team_options,
+            index=default_idx
+        )
+    selected_team_id = selected_label.split(&quot;(&quot;)[1].split(&quot;)&quot;)[0]
+    team_info = df_teams[df_teams[&quot;team_id&quot;] == selected_team_id].iloc[0]
+
+    with col_info:
+        st.info(
+            f&quot;**{team_info[&#x27;team_name&#x27;]}** | **Groupe :** {team_info[&#x27;group_name&#x27;]} | &quot;
+            f&quot;**Parcours réel :** *{team_info[&#x27;final_stage_2025&#x27;]}* | &quot;
+            f&quot;**Style Tactique :** *{team_info[&#x27;coach_style&#x27;]}* | &quot;
+            f&quot;**Titres CAN avant 2025 :** {team_info[&#x27;previous_titles&#x27;]}&quot;
+        )
+
+    raw_tm = df_matches[
+        (df_matches[&quot;home_team_id&quot;] == selected_team_id) |
+        (df_matches[&quot;away_team_id&quot;] == selected_team_id)
+    ].sort_values(&quot;match_date&quot;).copy()
+
+    team_name_map = dict(zip(df_teams[&quot;team_id&quot;], df_teams[&quot;team_name&quot;]))
+
+    match_records = []
+    wins, draws, losses = 0, 0, 0
+    for _, m in raw_tm.iterrows():
+        is_home = (m[&quot;home_team_id&quot;] == selected_team_id)
+        opp_id = m[&quot;away_team_id&quot;] if is_home else m[&quot;home_team_id&quot;]
+        opp_name = team_name_map.get(opp_id, opp_id)
+        gf = int(m[&quot;home_goals&quot;] if is_home else m[&quot;away_goals&quot;])
+        ga = int(m[&quot;away_goals&quot;] if is_home else m[&quot;home_goals&quot;])
+        xgf = float(m[&quot;home_xg&quot;] if is_home else m[&quot;away_xg&quot;])
+        xga = float(m[&quot;away_xg&quot;] if is_home else m[&quot;home_xg&quot;])
+        poss = int(m[&quot;home_possession&quot;] if is_home else m[&quot;away_possession&quot;])
+        shots = int(m[&quot;home_shots&quot;] if is_home else m[&quot;away_shots&quot;])
+        sot = int(m[&quot;home_shots_on_target&quot;] if is_home else m[&quot;away_shots_on_target&quot;])
+        stage_str = m[&quot;stage&quot;]
+
+        if gf &gt; ga:
+            res_label = &quot;✅ Victoire&quot;
+            wins += 1
+        elif gf == ga:
+            draws += 1
+            if f&quot;tab {selected_team_id}&quot; in stage_str:
+                res_label = &quot;✅ Qualifié (t.a.b.)&quot;
+            elif &quot;tab&quot; in stage_str:
+                res_label = &quot;❌ Éliminé (t.a.b.)&quot;
+            else:
+                res_label = &quot;🤝 Match Nul&quot;
+        else:
+            losses += 1
+            res_label = &quot;❌ Défaite&quot;
+
+        match_records.append({
+            &quot;Match ID&quot;: m[&quot;match_id&quot;],
+            &quot;Date&quot;: m[&quot;match_date&quot;],
+            &quot;Tour&quot;: stage_str,
+            &quot;Adversaire&quot;: opp_name,
+            &quot;Résultat&quot;: res_label,
+            &quot;Score&quot;: f&quot;{gf} - {ga}&quot;,
+            &quot;Buts Pour&quot;: gf,
+            &quot;Buts Contre&quot;: ga,
+            &quot;xG Créés&quot;: round(xgf, 2),
+            &quot;xG Concédés&quot;: round(xga, 2),
+            &quot;Possession (%)&quot;: poss,
+            &quot;Tirs (Cadrés)&quot;: f&quot;{shots} ({sot})&quot;,
+            &quot;Ville Hôte&quot;: m[&quot;host_city&quot;],
+            &quot;Affluence&quot;: int(m[&quot;attendance&quot;]),
+            &quot;Label_Graph&quot;: f&quot;vs {opp_name} ({gf}-{ga})&quot;
+        })
+
+    df_tm_view = pd.DataFrame(match_records)
+
+    k1, k2, k3, k4, k5, k6 = st.columns(6)
+    k1.metric(&quot;Parcours CAN 2025&quot;, team_info[&quot;final_stage_2025&quot;])
+    k2.metric(&quot;Bilan&quot;, f&quot;{wins}V - {draws}N - {losses}D&quot;, f&quot;{len(df_tm_view)} matchs joués&quot;)
+    total_gf = int(df_tm_view[&quot;Buts Pour&quot;].sum())
+    total_ga = int(df_tm_view[&quot;Buts Contre&quot;].sum())
+    k3.metric(&quot;Buts Marqués / Encaissés&quot;, f&quot;{total_gf} BP / {total_ga} BC&quot;, f&quot;Diff : {total_gf - total_ga:+d}&quot;)
+    tot_xgf = df_tm_view[&quot;xG Créés&quot;].sum()
+    tot_xga = df_tm_view[&quot;xG Concédés&quot;].sum()
+    k4.metric(&quot;Total Expected Goals (xG)&quot;, f&quot;{tot_xgf:.2f} xG&quot;, f&quot;xG Concédés : {tot_xga:.2f}&quot;)
+    k5.metric(&quot;Possession Moyenne&quot;, f&quot;{df_tm_view[&#x27;Possession (%)&#x27;].mean():.1f}%&quot;)
+    k6.metric(&quot;Classement FIFA &amp; Valeur&quot;, f&quot;#{team_info[&#x27;fifa_rank&#x27;]} FIFA&quot;, f&quot;{team_info[&#x27;market_value_m_eur&#x27;]:.1f} M€&quot;)
+
+    g_col1, g_col2 = st.columns([1.15, 1])
+
+    with g_col1:
+        fig_xg = go.Figure()
+        fig_xg.add_trace(go.Bar(
+            x=df_tm_view[&quot;Label_Graph&quot;],
+            y=df_tm_view[&quot;xG Créés&quot;],
+            name=f&quot;xG Créés ({team_info[&#x27;team_name&#x27;]})&quot;,
+            marker_color=&quot;#c1272d&quot;,
+            text=df_tm_view[&quot;xG Créés&quot;],
+            textposition=&quot;auto&quot;
+        ))
+        fig_xg.add_trace(go.Bar(
+            x=df_tm_view[&quot;Label_Graph&quot;],
+            y=df_tm_view[&quot;xG Concédés&quot;],
+            name=&quot;xG Concédés (Adversaire)&quot;,
+            marker_color=&quot;#7f8c8d&quot;,
+            text=df_tm_view[&quot;xG Concédés&quot;],
+            textposition=&quot;auto&quot;
+        ))
+        fig_xg.update_layout(
+            barmode=&quot;group&quot;,
+            title=f&quot;Parcours Match par Match : xG de {team_info[&#x27;team_name&#x27;]} vs Adversaires&quot;,
+            xaxis_title=&quot;Matchs disputés dans le tournoi&quot;,
+            yaxis_title=&quot;Expected Goals (xG)&quot;
+        )
+        st.plotly_chart(fig_xg, use_container_width=True)
+
+    with g_col2:
+        team_players = df_players[df_players[&quot;team_id&quot;] == selected_team_id].sort_values(
+            [&quot;goal_contributions&quot;, &quot;rating&quot;], ascending=False
+        )
+        fig_pl = px.bar(
+            team_players.head(10),
+            x=&quot;rating&quot;,
+            y=&quot;player_name&quot;,
+            color=&quot;position&quot;,
+            orientation=&quot;h&quot;,
+            hover_data=[&quot;club&quot;, &quot;goals&quot;, &quot;assists&quot;, &quot;key_passes&quot;, &quot;duels_won_pct&quot;],
+            title=f&quot;Joueurs Clés de {team_info[&#x27;team_name&#x27;]} (Classés par Note &amp; Impact)&quot;,
+            labels={&quot;rating&quot;: &quot;Note Moyenne (/10)&quot;, &quot;player_name&quot;: &quot;Joueur&quot;, &quot;position&quot;: &quot;Poste&quot;}
+        )
+        fig_pl.update_layout(yaxis={&quot;categoryorder&quot;: &quot;total ascending&quot;}, xaxis_range=[6.0, 9.0])
+        st.plotly_chart(fig_pl, use_container_width=True)
+
+    st.markdown(f&quot;#### 📅 Calendrier &amp; Résultats Officiels — {team_info[&#x27;team_name&#x27;]}&quot;)
+    st.dataframe(
+        df_tm_view[[
+            &quot;Date&quot;, &quot;Tour&quot;, &quot;Adversaire&quot;, &quot;Résultat&quot;, &quot;Score&quot;,
+            &quot;xG Créés&quot;, &quot;xG Concédés&quot;, &quot;Possession (%)&quot;, &quot;Tirs (Cadrés)&quot;, &quot;Ville Hôte&quot;, &quot;Affluence&quot;
+        ]],
+        use_container_width=True,
+        hide_index=True
+    )
+
+    st.markdown(f&quot;#### 👥 Statistiques Individuelles des Joueurs — {team_info[&#x27;team_name&#x27;]}&quot;)
+    st.dataframe(
+        team_players[[
+            &quot;player_name&quot;, &quot;position&quot;, &quot;age&quot;, &quot;club&quot;, &quot;market_value_m_eur&quot;,
+            &quot;matches_played&quot;, &quot;minutes_played&quot;, &quot;goals&quot;, &quot;xg&quot;, &quot;assists&quot;,
+            &quot;key_passes&quot;, &quot;progressive_carries&quot;, &quot;tackles_won&quot;, &quot;interceptions&quot;,
+            &quot;duels_won_pct&quot;, &quot;clean_sheets&quot;, &quot;rating&quot;
+        ]].sort_values(&quot;rating&quot;, ascending=False),
+        use_container_width=True,
+        hide_index=True
+    )
+
+# ==============================================================================
+# ONGLET 2 : CARTE INTERACTIVE DES TIRS (SHOTMAP FOTMOB - 1 026 TIRS RÉELS)
+# ==============================================================================
+with tab2:
+    st.subheader(&quot;🥅 Carte Interactive des Tirs (Shotmap Officielle FotMob — 1 026 Tirs)&quot;)
+    if df_fm_shots.empty:
+        st.warning(&quot;Aucune donnée Shotmap FotMob trouvée.&quot;)
+    else:
+        sc1, sc2, sc3, sc4 = st.columns(4)
+        all_shot_teams = [&quot;Toutes les équipes&quot;] + sorted(df_fm_shots[&quot;team_name&quot;].dropna().unique().tolist())
+        default_shot_team = all_shot_teams.index(&quot;Morocco&quot;) if &quot;Morocco&quot; in all_shot_teams else 0
+
+        sel_shot_team = sc1.selectbox(&quot;Filtrer par Équipe (FotMob) :&quot;, options=all_shot_teams, index=default_shot_team)
+
+        sub_shots = df_fm_shots.copy()
+        if sel_shot_team != &quot;Toutes les équipes&quot;:
+            sub_shots = sub_shots[sub_shots[&quot;team_name&quot;] == sel_shot_team]
+
+        all_shot_players = [&quot;Tous les joueurs&quot;] + sorted(sub_shots[&quot;player_name&quot;].dropna().unique().tolist())
+        sel_shot_player = sc2.selectbox(&quot;Filtrer par Joueur :&quot;, options=all_shot_players, index=0)
+        if sel_shot_player != &quot;Tous les joueurs&quot;:
+            sub_shots = sub_shots[sub_shots[&quot;player_name&quot;] == sel_shot_player]
+
+        ev_types = sorted(df_fm_shots[&quot;event_type&quot;].dropna().unique().tolist())
+        sel_ev_types = sc3.multiselect(&quot;Résultat du tir :&quot;, options=ev_types, default=ev_types)
+        if sel_ev_types:
+            sub_shots = sub_shots[sub_shots[&quot;event_type&quot;].isin(sel_ev_types)]
+
+        sh_types = sorted(df_fm_shots[&quot;shot_type&quot;].dropna().unique().tolist())
+        sel_sh_types = sc4.multiselect(&quot;Partie du corps :&quot;, options=sh_types, default=sh_types)
+        if sel_sh_types:
+            sub_shots = sub_shots[sub_shots[&quot;shot_type&quot;].isin(sel_sh_types)]
+
+        # KPIs des tirs filtrés
+        sk1, sk2, sk3, sk4, sk5 = st.columns(5)
+        n_shots = len(sub_shots)
+        n_goals = int((sub_shots[&quot;event_type&quot;] == &quot;Goal&quot;).sum())
+        tot_xg_s = pd.to_numeric(sub_shots[&quot;xg&quot;], errors=&quot;coerce&quot;).sum()
+        tot_xgot_s = pd.to_numeric(sub_shots[&quot;xgot&quot;], errors=&quot;coerce&quot;).sum()
+        conv_rate = (100.0 * n_goals / n_shots) if n_shots &gt; 0 else 0.0
+
+        sk1.metric(&quot;Tirs Sélectionnés&quot;, n_shots)
+        sk2.metric(&quot;Buts Marqués (Goals)&quot;, n_goals, f&quot;Conversion : {conv_rate:.1f}%&quot;)
+        sk3.metric(&quot;Expected Goals Cumulés (xG)&quot;, f&quot;{tot_xg_s:.2f}&quot;)
+        sk4.metric(&quot;xG Cadrés (xGOT)&quot;, f&quot;{tot_xgot_s:.2f}&quot;)
+        sk5.metric(&quot;xG Moyen / Tir&quot;, f&quot;{(tot_xg_s / n_shots):.3f}&quot; if n_shots &gt; 0 else &quot;0.000&quot;)
+
+        col_pitch, col_table = st.columns([1.35, 1])
+        with col_pitch:
+            pitch_fig = draw_half_pitch_shotmap(
+                sub_shots,
+                title=f&quot;Shotmap sur Demi-Terrain — {sel_shot_team} ({sel_shot_player})&quot;
+            )
+            st.plotly_chart(pitch_fig, use_container_width=True)
+
+        with col_table:
+            st.markdown(&quot;#### 📋 Détail des Tirs Sélectionnés (Classés par xG)&quot;)
+            st.dataframe(
+                sub_shots[[
+                    &quot;match_date&quot;, &quot;player_name&quot;, &quot;team_name&quot;, &quot;minute&quot;,
+                    &quot;event_type&quot;, &quot;xg&quot;, &quot;xgot&quot;, &quot;shot_type&quot;, &quot;situation&quot;, &quot;home_team&quot;, &quot;away_team&quot;
+                ]].sort_values(&quot;xg&quot;, ascending=False),
+                use_container_width=True,
+                hide_index=True,
+                height=490
+            )
+
+# ==============================================================================
+# ONGLET 3 : EXPLORATEUR DE FEUILLE DE MATCH FOTMOB (MATCH CENTER)
+# ==============================================================================
+with tab3:
+    st.subheader(&quot;🏟️ Explorateur de Feuille de Match FotMob (Match Center — 52 Matchs)&quot;)
+    if df_fm_meta.empty:
+        st.warning(&quot;Aucune métadonnée de match FotMob trouvée.&quot;)
+    else:
+        meta_sorted = df_fm_meta.sort_values(&quot;match_date&quot;, ascending=False).copy()
+        meta_sorted[&quot;label&quot;] = (
+            meta_sorted[&quot;match_date&quot;].astype(str) + &quot; | &quot; +
+            meta_sorted[&quot;home_team&quot;].astype(str) + &quot; &quot; +
+            meta_sorted[&quot;score_str&quot;].astype(str) + &quot; &quot; +
+            meta_sorted[&quot;away_team&quot;].astype(str) + &quot; (&quot; +
+            meta_sorted[&quot;stadium_name&quot;].fillna(&quot;Stade Maroc&quot;).astype(str) + &quot;) [ID:&quot; +
+            meta_sorted[&quot;fotmob_match_id&quot;].astype(str) + &quot;]&quot;
+        )
+        # Par défaut sur un match du Maroc (ex: Finale ou Maroc vs Comores)
+        mar_match_idx = next((i for i, lbl in enumerate(meta_sorted[&quot;label&quot;]) if &quot;Morocco&quot; in lbl), 0)
+
+        sel_match_lbl = st.selectbox(
+            &quot;🔽 Sélectionnez l&#x27;un des 52 matchs de la CAN 2025 pour inspecter sa Feuille de Match :&quot;,
+            options=meta_sorted[&quot;label&quot;].tolist(),
+            index=mar_match_idx
+        )
+        sel_mid = sel_match_lbl.split(&quot;[ID:&quot;)[1].split(&quot;]&quot;)[0]
+        m_row = meta_sorted[meta_sorted[&quot;fotmob_match_id&quot;].astype(str) == str(sel_mid)].iloc[0]
+
+        # Bandeau d&#x27;informations officielles du match
+        mc1, mc2, mc3, mc4, mc5 = st.columns(5)
+        mc1.metric(&quot;Affiche &amp; Score&quot;, f&quot;{m_row[&#x27;home_team&#x27;]} {m_row[&#x27;score_str&#x27;]} {m_row[&#x27;away_team&#x27;]}&quot;)
+        mc2.metric(&quot;Stade &amp; Ville&quot;, str(m_row[&quot;stadium_name&quot;] or &quot;Maroc&quot;), str(m_row[&quot;city&quot;] or &quot;&quot;))
+        att_val = f&quot;{int(float(m_row[&#x27;attendance&#x27;])):,}&quot;.replace(&quot;,&quot;, &quot; &quot;) if pd.notna(m_row[&quot;attendance&quot;]) and str(m_row[&quot;attendance&quot;]) != &quot;&quot; else &quot;N/A&quot;
+        mc3.metric(&quot;Affluence Officielle&quot;, f&quot;{att_val} spectateurs&quot;)
+        mc4.metric(&quot;Arbitre Officiel&quot;, str(m_row[&quot;referee&quot;] or &quot;CAF&quot;))
+        mc5.metric(&quot;🌟 Homme du Match (FotMob)&quot;, str(m_row[&quot;player_of_the_match&quot;] or &quot;N/A&quot;))
+
+        col_ev, col_st = st.columns([1.1, 1.1])
+
+        with col_ev:
+            st.markdown(&quot;#### ⏱️ Chronologie Minute par Minute (Buts, Cartons, Changements)&quot;)
+            m_events = df_fm_events[df_fm_events[&quot;fotmob_match_id&quot;].astype(str) == str(sel_mid)].sort_values(&quot;minute&quot;)
+            if not m_events.empty:
+                st.dataframe(
+                    m_events[[&quot;minute&quot;, &quot;team_side&quot;, &quot;event_type&quot;, &quot;player_name&quot;, &quot;card_type&quot;, &quot;detail&quot;]],
+                    use_container_width=True,
+                    hide_index=True,
+                    height=360
+                )
+            else:
+                st.info(&quot;Aucun événement détaillé enregistré pour ce match.&quot;)
+
+        with col_st:
+            st.markdown(&quot;#### 📊 Face-à-Face Statistique (FotMob Match Stats)&quot;)
+            m_stats = df_fm_mstats[df_fm_mstats[&quot;fotmob_match_id&quot;].astype(str) == str(sel_mid)]
+            if not m_stats.empty:
+                st.dataframe(
+                    m_stats[[&quot;stat_group&quot;, &quot;stat_name&quot;, &quot;home_value&quot;, &quot;away_value&quot;]].rename(
+                        columns={
+                            &quot;stat_group&quot;: &quot;Catégorie&quot;,
+                            &quot;stat_name&quot;: &quot;Indicateur&quot;,
+                            &quot;home_value&quot;: str(m_row[&quot;home_team&quot;]),
+                            &quot;away_value&quot;: str(m_row[&quot;away_team&quot;])
+                        }
+                    ),
+                    use_container_width=True,
+                    hide_index=True,
+                    height=360
+                )
+            else:
+                st.info(&quot;Statistiques collectives non disponibles pour ce match.&quot;)
+
+        # Shotmap spécifique au match + Notes FotMob des 22 joueurs du match
+        col_mshot, col_mp = st.columns([1.2, 1.1])
+        with col_mshot:
+            m_shots = df_fm_shots[df_fm_shots[&quot;fotmob_match_id&quot;].astype(str) == str(sel_mid)]
+            if not m_shots.empty:
+                st.plotly_chart(
+                    draw_half_pitch_shotmap(
+                        m_shots,
+                        title=f&quot;Shotmap du Match : {m_row[&#x27;home_team&#x27;]} vs {m_row[&#x27;away_team&#x27;]} ({len(m_shots)} tirs)&quot;
+                    ),
+                    use_container_width=True
+                )
+            else:
+                st.info(&quot;Pas de Shotmap pour ce match.&quot;)
+
+        with col_mp:
+            st.markdown(&quot;#### 🌟 Notes FotMob &amp; Prestations des Joueurs sur ce Match&quot;)
+            m_players = df_fm_pmatch[df_fm_pmatch[&quot;fotmob_match_id&quot;].astype(str) == str(sel_mid)].copy()
+            if not m_players.empty:
+                m_players[&quot;fotmob_rating_num&quot;] = pd.to_numeric(m_players[&quot;fotmob_rating&quot;], errors=&quot;coerce&quot;)
+                m_players = m_players.sort_values(&quot;fotmob_rating_num&quot;, ascending=False)
+                st.dataframe(
+                    m_players[[
+                        &quot;player_name&quot;, &quot;team_name&quot;, &quot;fotmob_rating&quot;, &quot;minutes_played&quot;,
+                        &quot;goals&quot;, &quot;assists&quot;, &quot;xg&quot;, &quot;xa&quot;, &quot;total_shots&quot;, &quot;chances_created&quot;, &quot;touches&quot;, &quot;duels_won&quot;
+                    ]],
+                    use_container_width=True,
+                    hide_index=True,
+                    height=490
+                )
+            else:
+                st.info(&quot;Notes individuelles non disponibles pour ce match.&quot;)
+
+# ==============================================================================
+# ONGLET 4 : BILAN COMPARATIF DES 24 ÉQUIPES &amp; GROUPES FOTMOB
+# ==============================================================================
+with tab4:
+    st.subheader(&quot;📊 Comparaison Collective des 24 Sélections &amp; Classements FotMob&quot;)
+    fig_val = px.scatter(
+        df_teams,
+        x=&quot;fifa_rank&quot;,
+        y=&quot;market_value_m_eur&quot;,
+        color=&quot;final_stage_2025&quot;,
+        size=&quot;market_value_m_eur&quot;,
+        hover_name=&quot;team_name&quot;,
+        text=&quot;team_name&quot;,
+        title=&quot;Classement FIFA vs Valeur Marchande et Parcours Réel à la CAN 2025&quot;,
+        labels={&quot;fifa_rank&quot;: &quot;Classement FIFA (plus petit = meilleur)&quot;, &quot;market_value_m_eur&quot;: &quot;Valeur Marchande (M€)&quot;}
+    )
+    fig_val.update_traces(textposition=&quot;top center&quot;)
+    st.plotly_chart(fig_val, use_container_width=True)
+
+    if not df_fm_standings.empty:
+        st.markdown(&quot;#### 🏆 Classements Officiels des Groupes extraits de FotMob&quot;)
+        st.dataframe(df_fm_standings, use_container_width=True, hide_index=True)
+
+# ==============================================================================
+# ONGLET 5 : SCOUTING &amp; CLASSEMENTS OFFICIELS FOTMOB (123 STATS JOUEURS)
+# ==============================================================================
+with tab5:
+    st.subheader(&quot;🔍 Cellule de Recrutement &amp; Top Performers FotMob&quot;)
+    if not df_fm_pstats.empty:
+        cats = df_fm_pstats[&quot;category&quot;].unique().tolist()
+        sel_cat = st.selectbox(&quot;Choisissez une catégorie statistique FotMob :&quot;, options=cats, index=0)
+        sub_cat = df_fm_pstats[df_fm_pstats[&quot;category&quot;] == sel_cat].sort_values(&quot;rank&quot;)
+        fig_cat = px.bar(
+            sub_cat.head(12),
+            x=&quot;stat_value&quot;,
+            y=&quot;name&quot;,
+            color=&quot;team_name&quot;,
+            orientation=&quot;h&quot;,
+            title=f&quot;Classement Officiel FotMob — {sel_cat}&quot;,
+            labels={&quot;stat_value&quot;: sel_cat, &quot;name&quot;: &quot;Joueur&quot;, &quot;team_name&quot;: &quot;Sélection&quot;}
+        )
+        fig_cat.update_layout(yaxis={&quot;categoryorder&quot;: &quot;total ascending&quot;})
+        st.plotly_chart(fig_cat, use_container_width=True)
+
+    st.markdown(&quot;#### 💎 Table Complète de Scouting (Valeur Marchande, Âge, Stats &amp; Notes)&quot;)
+    st.dataframe(df_players.sort_values([&quot;goals&quot;, &quot;assists&quot;, &quot;rating&quot;], ascending=False), use_container_width=True, hide_index=True)
+
+# ==============================================================================
+# ONGLET 6 : HISTORIQUE DE LA CAN (1957 - 2025)
+# ==============================================================================
+with tab6:
+    st.subheader(&quot;📜 Évolution Historique de la CAN (1957 - 2025)&quot;)
+    fig_h = px.line(
+        df_hist,
+        x=&quot;year&quot;,
+        y=&quot;goals_per_match&quot;,
+        markers=True,
+        hover_data=[&quot;host_country&quot;, &quot;winner&quot;, &quot;avg_attendance&quot;],
+        title=&quot;Évolution de la Moyenne de Buts par Match de 1957 à 2025&quot;
+    )
+    st.plotly_chart(fig_h, use_container_width=True)
+    st.dataframe(df_hist.sort_values(&quot;year&quot;, ascending=False), use_container_width=True, hide_index=True)
+</code></pre>
+
+<div class="tip-box">
+    <strong>🚀 Commandes récapitulatives pour relancer tout le projet à tout moment :</strong><br>
+    1. Mettre à jour l'extraction globale FotMob : <code>python scripts/04_scrape_fotmob_can2025.py</code><br>
+    2. Mettre à jour les 52 feuilles de match et la Shotmap : <code>python scripts/05_scrape_fotmob_match_details.py</code><br>
+    3. Générer les 5 graphiques PNG haute définition : <code>python scripts/02_generate_charts.py</code><br>
+    4. Lancer l'application interactive dans le navigateur : <code>python -m streamlit run app/streamlit_app.py</code>
+</div>
+
+</body>
+</html>

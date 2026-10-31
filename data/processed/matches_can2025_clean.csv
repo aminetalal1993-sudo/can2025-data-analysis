@@ -1,0 +1,53 @@
+match_id,match_date,stage,group_name,home_team_id,away_team_id,home_goals,away_goals,home_xg,away_xg,home_possession,away_possession,home_shots,home_shots_on_target,away_shots,away_shots_on_target,host_city,attendance,total_goals
+M01,2025-12-21,Phase de groupes (J1),Groupe A,MAR,COM,2,0,2.35,0.4,65,35,17,7,5,1,Rabat,67500,2
+M02,2025-12-22,Phase de groupes (J1),Groupe A,MLI,ZAM,1,1,1.45,1.1,56,44,13,5,9,3,Casablanca,24500,2
+M03,2025-12-26,Phase de groupes (J2),Groupe A,MAR,MLI,1,1,1.65,1.05,58,42,14,5,8,3,Rabat,68200,2
+M04,2025-12-26,Phase de groupes (J2),Groupe A,ZAM,COM,1,1,1.2,1.15,51,49,11,4,10,4,Casablanca,18400,2
+M05,2025-12-29,Phase de groupes (J3),Groupe A,ZAM,MAR,0,3,0.55,2.6,37,63,6,2,18,8,Rabat,66900,3
+M06,2025-12-29,Phase de groupes (J3),Groupe A,COM,MLI,0,0,0.75,1.25,43,57,8,2,12,4,Casablanca,19200,0
+M07,2025-12-22,Phase de groupes (J1),Groupe B,EGY,ZIM,2,1,2.15,0.85,61,39,16,6,7,3,Agadir,25600,3
+M08,2025-12-22,Phase de groupes (J1),Groupe B,RSA,ANG,2,1,1.65,1.15,55,45,13,5,9,4,Marrakech,21300,3
+M09,2025-12-26,Phase de groupes (J2),Groupe B,EGY,RSA,1,0,1.45,0.95,48,52,11,4,10,3,Agadir,29400,1
+M10,2025-12-26,Phase de groupes (J2),Groupe B,ANG,ZIM,1,1,1.3,1.05,54,46,12,4,9,3,Marrakech,16800,2
+M11,2025-12-29,Phase de groupes (J3),Groupe B,ANG,EGY,0,0,0.85,1.1,49,51,9,2,10,3,Agadir,24100,0
+M12,2025-12-29,Phase de groupes (J3),Groupe B,ZIM,RSA,2,3,1.4,2.25,42,58,10,4,15,7,Marrakech,19500,5
+M13,2025-12-23,Phase de groupes (J1),Groupe C,NGA,TAN,2,1,2.1,0.8,60,40,16,6,7,3,Fès,22400,3
+M14,2025-12-23,Phase de groupes (J1),Groupe C,TUN,UGA,3,1,2.2,0.75,57,43,15,7,7,2,Rabat,24800,4
+M15,2025-12-27,Phase de groupes (J2),Groupe C,NGA,TUN,3,2,2.35,1.65,53,47,15,7,11,5,Fès,28900,5
+M16,2025-12-27,Phase de groupes (J2),Groupe C,UGA,TAN,1,1,1.15,1.1,50,50,10,4,10,4,Rabat,15200,2
+M17,2025-12-30,Phase de groupes (J3),Groupe C,UGA,NGA,1,3,0.9,2.4,42,58,8,3,16,7,Fès,23100,4
+M18,2025-12-30,Phase de groupes (J3),Groupe C,TAN,TUN,1,1,1.05,1.45,44,56,9,3,12,4,Rabat,21600,2
+M19,2025-12-23,Phase de groupes (J1),Groupe D,SEN,BOT,3,0,2.65,0.3,64,36,18,8,4,1,Tanger,34200,3
+M20,2025-12-23,Phase de groupes (J1),Groupe D,COD,BEN,1,0,1.55,0.7,55,45,13,5,7,2,Rabat,19800,1
+M21,2025-12-27,Phase de groupes (J2),Groupe D,SEN,COD,1,1,1.5,1.25,54,46,12,5,10,4,Tanger,39500,2
+M22,2025-12-27,Phase de groupes (J2),Groupe D,BEN,BOT,1,0,1.35,0.65,53,47,11,4,7,2,Rabat,14600,1
+M23,2025-12-30,Phase de groupes (J3),Groupe D,BEN,SEN,0,3,0.55,2.45,40,60,6,2,16,7,Tanger,35100,3
+M24,2025-12-30,Phase de groupes (J3),Groupe D,BOT,COD,0,3,0.45,2.35,41,59,6,1,15,7,Rabat,17400,3
+M25,2025-12-24,Phase de groupes (J1),Groupe E,ALG,SDN,3,0,2.5,0.4,64,36,17,8,5,1,Rabat,29800,3
+M26,2025-12-24,Phase de groupes (J1),Groupe E,BFA,EQG,2,1,1.85,1.05,56,44,14,6,9,3,Casablanca,20400,3
+M27,2025-12-28,Phase de groupes (J2),Groupe E,ALG,BFA,1,0,1.6,0.95,55,45,13,5,9,3,Rabat,33500,1
+M28,2025-12-28,Phase de groupes (J2),Groupe E,EQG,SDN,0,1,1.05,1.25,52,48,10,3,9,4,Casablanca,15900,1
+M29,2025-12-31,Phase de groupes (J3),Groupe E,EQG,ALG,1,3,0.9,2.35,41,59,8,3,16,7,Rabat,28700,4
+M30,2025-12-31,Phase de groupes (J3),Groupe E,SDN,BFA,0,2,0.65,1.9,43,57,7,2,14,6,Casablanca,18900,2
+M31,2025-12-24,Phase de groupes (J1),Groupe F,CIV,MOZ,1,0,1.75,0.6,60,40,14,5,6,2,Marrakech,24200,1
+M32,2025-12-24,Phase de groupes (J1),Groupe F,CMR,GAB,1,0,1.5,0.9,53,47,12,4,8,3,Agadir,22800,1
+M33,2025-12-28,Phase de groupes (J2),Groupe F,CIV,CMR,1,1,1.45,1.35,54,46,12,5,11,4,Marrakech,31600,2
+M34,2025-12-28,Phase de groupes (J2),Groupe F,GAB,MOZ,2,3,1.75,2.1,52,48,13,6,14,7,Agadir,17500,5
+M35,2025-12-31,Phase de groupes (J3),Groupe F,GAB,CIV,2,3,1.55,2.3,45,55,11,5,15,7,Marrakech,25400,5
+M36,2025-12-31,Phase de groupes (J3),Groupe F,MOZ,CMR,1,2,1.05,1.85,44,56,9,3,13,6,Agadir,21900,3
+M37,2026-01-03,Huitième de finale,Phase Finale,SEN,SDN,3,1,2.4,0.75,61,39,16,7,7,3,Tanger,38400,4
+M38,2026-01-03,Huitième de finale (3-2 tab MLI),Phase Finale,MLI,TUN,1,1,1.35,1.25,51,49,12,4,11,4,Casablanca,29600,2
+M39,2026-01-04,Huitième de finale,Phase Finale,MAR,TAN,1,0,2.15,0.35,66,34,18,6,4,1,Rabat,68500,1
+M40,2026-01-04,Huitième de finale,Phase Finale,RSA,CMR,1,2,1.3,1.75,52,48,11,4,13,6,Rabat,26400,3
+M41,2026-01-05,Huitième de finale (a.p.),Phase Finale,EGY,BEN,3,1,2.25,0.9,59,41,16,7,8,3,Agadir,27800,4
+M42,2026-01-05,Huitième de finale,Phase Finale,NGA,MOZ,4,0,2.95,0.45,60,40,19,9,5,1,Fès,25900,4
+M43,2026-01-06,Huitième de finale,Phase Finale,ALG,COD,1,0,1.55,0.95,55,45,13,5,9,3,Rabat,34200,1
+M44,2026-01-06,Huitième de finale,Phase Finale,CIV,BFA,2,0,1.9,0.85,56,44,14,6,8,2,Marrakech,28500,2
+M45,2026-01-09,Quart de finale,Phase Finale,SEN,MLI,1,0,1.65,0.9,54,46,13,5,8,2,Tanger,44200,1
+M46,2026-01-09,Quart de finale,Phase Finale,MAR,CMR,2,0,2.1,0.75,57,43,15,6,8,2,Rabat,69200,2
+M47,2026-01-10,Quart de finale,Phase Finale,NGA,ALG,2,0,1.95,1.05,51,49,14,6,10,3,Marrakech,36800,2
+M48,2026-01-10,Quart de finale (a.p.),Phase Finale,EGY,CIV,3,2,2.2,1.85,48,52,14,7,15,6,Agadir,35400,5
+M49,2026-01-14,Demi-finale,Phase Finale,SEN,EGY,1,0,1.6,0.85,55,45,13,5,8,2,Tanger,52600,1
+M50,2026-01-14,Demi-finale (4-2 tab MAR),Phase Finale,MAR,NGA,0,0,1.45,1.15,56,44,13,4,10,3,Rabat,69500,0
+M51,2026-01-17,Match 3e place (4-2 tab NGA),Phase Finale,NGA,EGY,0,0,1.35,1.1,52,48,12,4,10,3,Casablanca,36500,0
+M52,2026-01-18,Finale (Décision CAF),Phase Finale,MAR,SEN,3,0,1.4,1.35,53,47,13,4,11,4,Rabat,69500,3

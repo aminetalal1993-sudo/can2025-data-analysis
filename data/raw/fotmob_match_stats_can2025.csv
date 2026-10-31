@@ -1,0 +1,2040 @@
+fotmob_match_id,match_date,home_team,away_team,stat_group,stat_name,stat_key,home_value,away_value
+4721989,2025-12-22,Egypt,Zimbabwe,Top stats,Ball possession,BallPossesion,78,22
+4721989,2025-12-22,Egypt,Zimbabwe,Top stats,Expected goals (xG),expected_goals,2.93,0.35
+4721989,2025-12-22,Egypt,Zimbabwe,Top stats,Total shots,total_shots,35,8
+4721989,2025-12-22,Egypt,Zimbabwe,Top stats,Shots on target,ShotsOnTarget,11,3
+4721989,2025-12-22,Egypt,Zimbabwe,Top stats,Touches in opposition box,touches_opp_box,50,14
+4721989,2025-12-22,Egypt,Zimbabwe,Top stats,Big chances,big_chance,8,0
+4721989,2025-12-22,Egypt,Zimbabwe,Top stats,Big chances missed,big_chance_missed_title,7,0
+4721989,2025-12-22,Egypt,Zimbabwe,Top stats,Accurate passes,accurate_passes,600 (88%),111 (56%)
+4721989,2025-12-22,Egypt,Zimbabwe,Top stats,Yellow cards,yellow_cards,2,2
+4721989,2025-12-22,Egypt,Zimbabwe,Top stats,Corners,corners,8,3
+4721989,2025-12-22,Egypt,Zimbabwe,Shots,Total shots,total_shots,35,8
+4721989,2025-12-22,Egypt,Zimbabwe,Shots,Shots off target,ShotsOffTarget,14,4
+4721989,2025-12-22,Egypt,Zimbabwe,Shots,Shots on target,ShotsOnTarget,11,3
+4721989,2025-12-22,Egypt,Zimbabwe,Shots,Blocked shots,blocked_shots,10,1
+4721989,2025-12-22,Egypt,Zimbabwe,Shots,Hit woodwork,shots_woodwork,1,0
+4721989,2025-12-22,Egypt,Zimbabwe,Shots,Shots inside box,shots_inside_box,24,4
+4721989,2025-12-22,Egypt,Zimbabwe,Shots,Shots outside box,shots_outside_box,11,4
+4721989,2025-12-22,Egypt,Zimbabwe,Expected goals (xG),Expected goals (xG),expected_goals,2.93,0.35
+4721989,2025-12-22,Egypt,Zimbabwe,Expected goals (xG),xG open play,expected_goals_open_play,2.42,0.35
+4721989,2025-12-22,Egypt,Zimbabwe,Expected goals (xG),xG set play,expected_goals_set_play,0.51,0.00
+4721989,2025-12-22,Egypt,Zimbabwe,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,2.93,0.35
+4721989,2025-12-22,Egypt,Zimbabwe,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,2.38,0.93
+4721989,2025-12-22,Egypt,Zimbabwe,Passes,Passes,passes,682,197
+4721989,2025-12-22,Egypt,Zimbabwe,Passes,Accurate passes,accurate_passes,600 (88%),111 (56%)
+4721989,2025-12-22,Egypt,Zimbabwe,Passes,Own half,own_half_passes,265,63
+4721989,2025-12-22,Egypt,Zimbabwe,Passes,Opposition half,opposition_half_passes,335,48
+4721989,2025-12-22,Egypt,Zimbabwe,Passes,Accurate long balls,long_balls_accurate,33 (66%),18 (31%)
+4721989,2025-12-22,Egypt,Zimbabwe,Passes,Accurate crosses,accurate_crosses,13 (43%),3 (25%)
+4721989,2025-12-22,Egypt,Zimbabwe,Passes,Throws,player_throws,17,15
+4721989,2025-12-22,Egypt,Zimbabwe,Passes,Touches in opposition box,touches_opp_box,50,14
+4721989,2025-12-22,Egypt,Zimbabwe,Passes,Offsides,Offsides,3,1
+4721989,2025-12-22,Egypt,Zimbabwe,Defence,Tackles,matchstats.headers.tackles,7,19
+4721989,2025-12-22,Egypt,Zimbabwe,Defence,Interceptions,interceptions,7,10
+4721989,2025-12-22,Egypt,Zimbabwe,Defence,Blocks,shot_blocks,1,10
+4721989,2025-12-22,Egypt,Zimbabwe,Defence,Clearances,clearances,28,37
+4721989,2025-12-22,Egypt,Zimbabwe,Defence,Keeper saves,keeper_saves,2,9
+4721989,2025-12-22,Egypt,Zimbabwe,Duels,Duels won,duel_won,58,54
+4721989,2025-12-22,Egypt,Zimbabwe,Duels,Ground duels won,ground_duels_won,31 (48%),34 (52%)
+4721989,2025-12-22,Egypt,Zimbabwe,Duels,Aerial duels won,aerials_won,27 (57%),20 (43%)
+4721989,2025-12-22,Egypt,Zimbabwe,Duels,Successful dribbles,dribbles_succeeded,10 (59%),3 (75%)
+4721989,2025-12-22,Egypt,Zimbabwe,Discipline,Yellow cards,yellow_cards,2,2
+4721989,2025-12-22,Egypt,Zimbabwe,Discipline,Red cards,red_cards,0,0
+4721989,2025-12-22,Egypt,Zimbabwe,Discipline,Fouls committed,fouls,13,15
+4722001,2025-12-23,Senegal,Botswana,Top stats,Ball possession,BallPossesion,68,32
+4722001,2025-12-23,Senegal,Botswana,Top stats,Expected goals (xG),expected_goals,3.66,0.17
+4722001,2025-12-23,Senegal,Botswana,Top stats,Total shots,total_shots,28,4
+4722001,2025-12-23,Senegal,Botswana,Top stats,Shots on target,ShotsOnTarget,17,0
+4722001,2025-12-23,Senegal,Botswana,Top stats,Touches in opposition box,touches_opp_box,57,5
+4722001,2025-12-23,Senegal,Botswana,Top stats,Big chances,big_chance,9,0
+4722001,2025-12-23,Senegal,Botswana,Top stats,Big chances missed,big_chance_missed_title,6,0
+4722001,2025-12-23,Senegal,Botswana,Top stats,Accurate passes,accurate_passes,582 (91%),237 (77%)
+4722001,2025-12-23,Senegal,Botswana,Top stats,Yellow cards,yellow_cards,1,2
+4722001,2025-12-23,Senegal,Botswana,Top stats,Corners,corners,7,2
+4722001,2025-12-23,Senegal,Botswana,Shots,Total shots,total_shots,28,4
+4722001,2025-12-23,Senegal,Botswana,Shots,Shots off target,ShotsOffTarget,6,3
+4722001,2025-12-23,Senegal,Botswana,Shots,Shots on target,ShotsOnTarget,17,0
+4722001,2025-12-23,Senegal,Botswana,Shots,Blocked shots,blocked_shots,5,1
+4722001,2025-12-23,Senegal,Botswana,Shots,Hit woodwork,shots_woodwork,0,0
+4722001,2025-12-23,Senegal,Botswana,Shots,Shots inside box,shots_inside_box,21,1
+4722001,2025-12-23,Senegal,Botswana,Shots,Shots outside box,shots_outside_box,7,3
+4722001,2025-12-23,Senegal,Botswana,Expected goals (xG),Expected goals (xG),expected_goals,3.66,0.17
+4722001,2025-12-23,Senegal,Botswana,Expected goals (xG),xG open play,expected_goals_open_play,3.32,0.09
+4722001,2025-12-23,Senegal,Botswana,Expected goals (xG),xG set play,expected_goals_set_play,0.34,0.08
+4722001,2025-12-23,Senegal,Botswana,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,3.66,0.17
+4722001,2025-12-23,Senegal,Botswana,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,3.72,0.00
+4722001,2025-12-23,Senegal,Botswana,Passes,Passes,passes,641,309
+4722001,2025-12-23,Senegal,Botswana,Passes,Accurate passes,accurate_passes,582 (91%),237 (77%)
+4722001,2025-12-23,Senegal,Botswana,Passes,Own half,own_half_passes,193,155
+4722001,2025-12-23,Senegal,Botswana,Passes,Opposition half,opposition_half_passes,389,82
+4722001,2025-12-23,Senegal,Botswana,Passes,Accurate long balls,long_balls_accurate,10 (43%),37 (56%)
+4722001,2025-12-23,Senegal,Botswana,Passes,Accurate crosses,accurate_crosses,7 (25%),2 (25%)
+4722001,2025-12-23,Senegal,Botswana,Passes,Throws,player_throws,10,9
+4722001,2025-12-23,Senegal,Botswana,Passes,Touches in opposition box,touches_opp_box,57,5
+4722001,2025-12-23,Senegal,Botswana,Passes,Offsides,Offsides,1,5
+4722001,2025-12-23,Senegal,Botswana,Defence,Tackles,matchstats.headers.tackles,12,16
+4722001,2025-12-23,Senegal,Botswana,Defence,Interceptions,interceptions,6,4
+4722001,2025-12-23,Senegal,Botswana,Defence,Blocks,shot_blocks,1,5
+4722001,2025-12-23,Senegal,Botswana,Defence,Clearances,clearances,14,29
+4722001,2025-12-23,Senegal,Botswana,Defence,Keeper saves,keeper_saves,0,14
+4722001,2025-12-23,Senegal,Botswana,Duels,Duels won,duel_won,41,50
+4722001,2025-12-23,Senegal,Botswana,Duels,Ground duels won,ground_duels_won,30 (45%),37 (55%)
+4722001,2025-12-23,Senegal,Botswana,Duels,Aerial duels won,aerials_won,11 (46%),13 (54%)
+4722001,2025-12-23,Senegal,Botswana,Duels,Successful dribbles,dribbles_succeeded,11 (61%),5 (50%)
+4722001,2025-12-23,Senegal,Botswana,Discipline,Yellow cards,yellow_cards,1,2
+4722001,2025-12-23,Senegal,Botswana,Discipline,Red cards,red_cards,0,0
+4722001,2025-12-23,Senegal,Botswana,Discipline,Fouls committed,fouls,16,7
+4721984,2025-12-22,Mali,Zambia,Top stats,Ball possession,BallPossesion,53,47
+4721984,2025-12-22,Mali,Zambia,Top stats,Expected goals (xG),expected_goals,2.14,0.65
+4721984,2025-12-22,Mali,Zambia,Top stats,Total shots,total_shots,15,7
+4721984,2025-12-22,Mali,Zambia,Top stats,Shots on target,ShotsOnTarget,5,2
+4721984,2025-12-22,Mali,Zambia,Top stats,Touches in opposition box,touches_opp_box,27,13
+4721984,2025-12-22,Mali,Zambia,Top stats,Big chances,big_chance,4,2
+4721984,2025-12-22,Mali,Zambia,Top stats,Big chances missed,big_chance_missed_title,3,1
+4721984,2025-12-22,Mali,Zambia,Top stats,Accurate passes,accurate_passes,350 (82%),301 (80%)
+4721984,2025-12-22,Mali,Zambia,Top stats,Yellow cards,yellow_cards,1,1
+4721984,2025-12-22,Mali,Zambia,Top stats,Corners,corners,6,5
+4721984,2025-12-22,Mali,Zambia,Shots,Total shots,total_shots,15,7
+4721984,2025-12-22,Mali,Zambia,Shots,Shots off target,ShotsOffTarget,5,3
+4721984,2025-12-22,Mali,Zambia,Shots,Shots on target,ShotsOnTarget,5,2
+4721984,2025-12-22,Mali,Zambia,Shots,Blocked shots,blocked_shots,5,2
+4721984,2025-12-22,Mali,Zambia,Shots,Hit woodwork,shots_woodwork,0,0
+4721984,2025-12-22,Mali,Zambia,Shots,Shots inside box,shots_inside_box,10,6
+4721984,2025-12-22,Mali,Zambia,Shots,Shots outside box,shots_outside_box,5,1
+4721984,2025-12-22,Mali,Zambia,Expected goals (xG),Expected goals (xG),expected_goals,2.14,0.65
+4721984,2025-12-22,Mali,Zambia,Expected goals (xG),xG open play,expected_goals_open_play,0.59,0.24
+4721984,2025-12-22,Mali,Zambia,Expected goals (xG),xG set play,expected_goals_set_play,0.76,0.41
+4721984,2025-12-22,Mali,Zambia,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.36,0.65
+4721984,2025-12-22,Mali,Zambia,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.76,1.00
+4721984,2025-12-22,Mali,Zambia,Passes,Passes,passes,425,375
+4721984,2025-12-22,Mali,Zambia,Passes,Accurate passes,accurate_passes,350 (82%),301 (80%)
+4721984,2025-12-22,Mali,Zambia,Passes,Own half,own_half_passes,180,185
+4721984,2025-12-22,Mali,Zambia,Passes,Opposition half,opposition_half_passes,170,116
+4721984,2025-12-22,Mali,Zambia,Passes,Accurate long balls,long_balls_accurate,17 (37%),24 (41%)
+4721984,2025-12-22,Mali,Zambia,Passes,Accurate crosses,accurate_crosses,3 (20%),4 (25%)
+4721984,2025-12-22,Mali,Zambia,Passes,Throws,player_throws,25,19
+4721984,2025-12-22,Mali,Zambia,Passes,Touches in opposition box,touches_opp_box,27,13
+4721984,2025-12-22,Mali,Zambia,Passes,Offsides,Offsides,0,2
+4721984,2025-12-22,Mali,Zambia,Defence,Tackles,matchstats.headers.tackles,20,16
+4721984,2025-12-22,Mali,Zambia,Defence,Interceptions,interceptions,8,7
+4721984,2025-12-22,Mali,Zambia,Defence,Blocks,shot_blocks,1,4
+4721984,2025-12-22,Mali,Zambia,Defence,Clearances,clearances,24,23
+4721984,2025-12-22,Mali,Zambia,Defence,Keeper saves,keeper_saves,1,4
+4721984,2025-12-22,Mali,Zambia,Duels,Duels won,duel_won,63,55
+4721984,2025-12-22,Mali,Zambia,Duels,Ground duels won,ground_duels_won,47 (53%),41 (47%)
+4721984,2025-12-22,Mali,Zambia,Duels,Aerial duels won,aerials_won,16 (53%),14 (47%)
+4721984,2025-12-22,Mali,Zambia,Duels,Successful dribbles,dribbles_succeeded,15 (60%),12 (57%)
+4721984,2025-12-22,Mali,Zambia,Discipline,Yellow cards,yellow_cards,1,1
+4721984,2025-12-22,Mali,Zambia,Discipline,Red cards,red_cards,0,0
+4721984,2025-12-22,Mali,Zambia,Discipline,Fouls committed,fouls,15,13
+4721990,2025-12-22,South Africa,Angola,Top stats,Ball possession,BallPossesion,58,42
+4721990,2025-12-22,South Africa,Angola,Top stats,Expected goals (xG),expected_goals,0.44,0.89
+4721990,2025-12-22,South Africa,Angola,Top stats,Total shots,total_shots,10,10
+4721990,2025-12-22,South Africa,Angola,Top stats,Shots on target,ShotsOnTarget,4,4
+4721990,2025-12-22,South Africa,Angola,Top stats,Touches in opposition box,touches_opp_box,14,23
+4721990,2025-12-22,South Africa,Angola,Top stats,Big chances,big_chance,1,2
+4721990,2025-12-22,South Africa,Angola,Top stats,Big chances missed,big_chance_missed_title,1,2
+4721990,2025-12-22,South Africa,Angola,Top stats,Accurate passes,accurate_passes,390 (85%),255 (80%)
+4721990,2025-12-22,South Africa,Angola,Top stats,Yellow cards,yellow_cards,2,2
+4721990,2025-12-22,South Africa,Angola,Top stats,Corners,corners,1,9
+4721990,2025-12-22,South Africa,Angola,Shots,Total shots,total_shots,10,10
+4721990,2025-12-22,South Africa,Angola,Shots,Shots off target,ShotsOffTarget,4,1
+4721990,2025-12-22,South Africa,Angola,Shots,Shots on target,ShotsOnTarget,4,4
+4721990,2025-12-22,South Africa,Angola,Shots,Blocked shots,blocked_shots,2,5
+4721990,2025-12-22,South Africa,Angola,Shots,Hit woodwork,shots_woodwork,1,0
+4721990,2025-12-22,South Africa,Angola,Shots,Shots inside box,shots_inside_box,4,7
+4721990,2025-12-22,South Africa,Angola,Shots,Shots outside box,shots_outside_box,6,3
+4721990,2025-12-22,South Africa,Angola,Expected goals (xG),Expected goals (xG),expected_goals,0.44,0.89
+4721990,2025-12-22,South Africa,Angola,Expected goals (xG),xG open play,expected_goals_open_play,0.35,0.20
+4721990,2025-12-22,South Africa,Angola,Expected goals (xG),xG set play,expected_goals_set_play,0.09,0.69
+4721990,2025-12-22,South Africa,Angola,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.44,0.89
+4721990,2025-12-22,South Africa,Angola,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.46,1.42
+4721990,2025-12-22,South Africa,Angola,Passes,Passes,passes,458,318
+4721990,2025-12-22,South Africa,Angola,Passes,Accurate passes,accurate_passes,390 (85%),255 (80%)
+4721990,2025-12-22,South Africa,Angola,Passes,Own half,own_half_passes,196,138
+4721990,2025-12-22,South Africa,Angola,Passes,Opposition half,opposition_half_passes,194,117
+4721990,2025-12-22,South Africa,Angola,Passes,Accurate long balls,long_balls_accurate,27 (47%),19 (41%)
+4721990,2025-12-22,South Africa,Angola,Passes,Accurate crosses,accurate_crosses,4 (44%),9 (33%)
+4721990,2025-12-22,South Africa,Angola,Passes,Throws,player_throws,21,13
+4721990,2025-12-22,South Africa,Angola,Passes,Touches in opposition box,touches_opp_box,14,23
+4721990,2025-12-22,South Africa,Angola,Passes,Offsides,Offsides,1,1
+4721990,2025-12-22,South Africa,Angola,Defence,Tackles,matchstats.headers.tackles,10,7
+4721990,2025-12-22,South Africa,Angola,Defence,Interceptions,interceptions,3,10
+4721990,2025-12-22,South Africa,Angola,Defence,Blocks,shot_blocks,5,2
+4721990,2025-12-22,South Africa,Angola,Defence,Clearances,clearances,26,16
+4721990,2025-12-22,South Africa,Angola,Defence,Keeper saves,keeper_saves,3,2
+4721990,2025-12-22,South Africa,Angola,Duels,Duels won,duel_won,45,42
+4721990,2025-12-22,South Africa,Angola,Duels,Ground duels won,ground_duels_won,35 (56%),28 (44%)
+4721990,2025-12-22,South Africa,Angola,Duels,Aerial duels won,aerials_won,10 (42%),14 (58%)
+4721990,2025-12-22,South Africa,Angola,Duels,Successful dribbles,dribbles_succeeded,2 (25%),4 (40%)
+4721990,2025-12-22,South Africa,Angola,Discipline,Yellow cards,yellow_cards,2,2
+4721990,2025-12-22,South Africa,Angola,Discipline,Red cards,red_cards,0,0
+4721990,2025-12-22,South Africa,Angola,Discipline,Fouls committed,fouls,17,23
+4721996,2025-12-23,Tunisia,Uganda,Top stats,Ball possession,BallPossesion,55,45
+4721996,2025-12-23,Tunisia,Uganda,Top stats,Total shots,total_shots,13,9
+4721996,2025-12-23,Tunisia,Uganda,Top stats,Shots on target,ShotsOnTarget,4,3
+4721996,2025-12-23,Tunisia,Uganda,Top stats,Touches in opposition box,touches_opp_box,23,15
+4721996,2025-12-23,Tunisia,Uganda,Top stats,Big chances,big_chance,1,0
+4721996,2025-12-23,Tunisia,Uganda,Top stats,Big chances missed,big_chance_missed_title,0,0
+4721996,2025-12-23,Tunisia,Uganda,Top stats,Accurate passes,accurate_passes,412 (84%),324 (80%)
+4721996,2025-12-23,Tunisia,Uganda,Top stats,Yellow cards,yellow_cards,1,1
+4721996,2025-12-23,Tunisia,Uganda,Top stats,Corners,corners,6,5
+4721996,2025-12-23,Tunisia,Uganda,Shots,Total shots,total_shots,13,9
+4721996,2025-12-23,Tunisia,Uganda,Shots,Shots off target,ShotsOffTarget,7,2
+4721996,2025-12-23,Tunisia,Uganda,Shots,Shots on target,ShotsOnTarget,4,3
+4721996,2025-12-23,Tunisia,Uganda,Shots,Blocked shots,blocked_shots,2,4
+4721996,2025-12-23,Tunisia,Uganda,Shots,Hit woodwork,shots_woodwork,1,0
+4721996,2025-12-23,Tunisia,Uganda,Shots,Shots inside box,shots_inside_box,9,3
+4721996,2025-12-23,Tunisia,Uganda,Shots,Shots outside box,shots_outside_box,4,6
+4721996,2025-12-23,Tunisia,Uganda,Passes,Passes,passes,493,403
+4721996,2025-12-23,Tunisia,Uganda,Passes,Accurate passes,accurate_passes,412 (84%),324 (80%)
+4721996,2025-12-23,Tunisia,Uganda,Passes,Own half,own_half_passes,242,220
+4721996,2025-12-23,Tunisia,Uganda,Passes,Opposition half,opposition_half_passes,170,104
+4721996,2025-12-23,Tunisia,Uganda,Passes,Accurate long balls,long_balls_accurate,23 (45%),28 (42%)
+4721996,2025-12-23,Tunisia,Uganda,Passes,Accurate crosses,accurate_crosses,5 (33%),2 (25%)
+4721996,2025-12-23,Tunisia,Uganda,Passes,Throws,player_throws,18,21
+4721996,2025-12-23,Tunisia,Uganda,Passes,Touches in opposition box,touches_opp_box,23,15
+4721996,2025-12-23,Tunisia,Uganda,Passes,Offsides,Offsides,2,1
+4721996,2025-12-23,Tunisia,Uganda,Defence,Tackles,matchstats.headers.tackles,19,24
+4721996,2025-12-23,Tunisia,Uganda,Defence,Interceptions,interceptions,4,10
+4721996,2025-12-23,Tunisia,Uganda,Defence,Blocks,shot_blocks,4,2
+4721996,2025-12-23,Tunisia,Uganda,Defence,Clearances,clearances,14,15
+4721996,2025-12-23,Tunisia,Uganda,Defence,Keeper saves,keeper_saves,2,3
+4721996,2025-12-23,Tunisia,Uganda,Duels,Duels won,duel_won,57,60
+4721996,2025-12-23,Tunisia,Uganda,Duels,Ground duels won,ground_duels_won,36 (44%),46 (56%)
+4721996,2025-12-23,Tunisia,Uganda,Duels,Aerial duels won,aerials_won,21 (60%),14 (40%)
+4721996,2025-12-23,Tunisia,Uganda,Duels,Successful dribbles,dribbles_succeeded,6 (29%),4 (29%)
+4721996,2025-12-23,Tunisia,Uganda,Discipline,Yellow cards,yellow_cards,1,1
+4721996,2025-12-23,Tunisia,Uganda,Discipline,Red cards,red_cards,0,0
+4721996,2025-12-23,Tunisia,Uganda,Discipline,Fouls committed,fouls,18,12
+4722002,2025-12-23,DR Congo,Benin,Top stats,Ball possession,BallPossesion,40,60
+4722002,2025-12-23,DR Congo,Benin,Top stats,Expected goals (xG),expected_goals,1.49,0.49
+4722002,2025-12-23,DR Congo,Benin,Top stats,Total shots,total_shots,11,12
+4722002,2025-12-23,DR Congo,Benin,Top stats,Shots on target,ShotsOnTarget,3,2
+4722002,2025-12-23,DR Congo,Benin,Top stats,Touches in opposition box,touches_opp_box,16,14
+4722002,2025-12-23,DR Congo,Benin,Top stats,Big chances,big_chance,2,1
+4722002,2025-12-23,DR Congo,Benin,Top stats,Big chances missed,big_chance_missed_title,1,1
+4722002,2025-12-23,DR Congo,Benin,Top stats,Accurate passes,accurate_passes,224 (74%),380 (84%)
+4722002,2025-12-23,DR Congo,Benin,Top stats,Yellow cards,yellow_cards,3,3
+4722002,2025-12-23,DR Congo,Benin,Top stats,Corners,corners,5,5
+4722002,2025-12-23,DR Congo,Benin,Shots,Total shots,total_shots,11,12
+4722002,2025-12-23,DR Congo,Benin,Shots,Shots off target,ShotsOffTarget,5,10
+4722002,2025-12-23,DR Congo,Benin,Shots,Shots on target,ShotsOnTarget,3,2
+4722002,2025-12-23,DR Congo,Benin,Shots,Blocked shots,blocked_shots,3,0
+4722002,2025-12-23,DR Congo,Benin,Shots,Hit woodwork,shots_woodwork,0,0
+4722002,2025-12-23,DR Congo,Benin,Shots,Shots inside box,shots_inside_box,6,5
+4722002,2025-12-23,DR Congo,Benin,Shots,Shots outside box,shots_outside_box,5,7
+4722002,2025-12-23,DR Congo,Benin,Expected goals (xG),Expected goals (xG),expected_goals,1.49,0.49
+4722002,2025-12-23,DR Congo,Benin,Expected goals (xG),xG open play,expected_goals_open_play,1.01,0.21
+4722002,2025-12-23,DR Congo,Benin,Expected goals (xG),xG set play,expected_goals_set_play,0.48,0.28
+4722002,2025-12-23,DR Congo,Benin,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.49,0.49
+4722002,2025-12-23,DR Congo,Benin,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.11,0.14
+4722002,2025-12-23,DR Congo,Benin,Passes,Passes,passes,301,453
+4722002,2025-12-23,DR Congo,Benin,Passes,Accurate passes,accurate_passes,224 (74%),380 (84%)
+4722002,2025-12-23,DR Congo,Benin,Passes,Own half,own_half_passes,107,253
+4722002,2025-12-23,DR Congo,Benin,Passes,Opposition half,opposition_half_passes,117,127
+4722002,2025-12-23,DR Congo,Benin,Passes,Accurate long balls,long_balls_accurate,19 (40%),35 (49%)
+4722002,2025-12-23,DR Congo,Benin,Passes,Accurate crosses,accurate_crosses,4 (22%),5 (20%)
+4722002,2025-12-23,DR Congo,Benin,Passes,Throws,player_throws,21,16
+4722002,2025-12-23,DR Congo,Benin,Passes,Touches in opposition box,touches_opp_box,16,14
+4722002,2025-12-23,DR Congo,Benin,Passes,Offsides,Offsides,1,0
+4722002,2025-12-23,DR Congo,Benin,Defence,Tackles,matchstats.headers.tackles,16,16
+4722002,2025-12-23,DR Congo,Benin,Defence,Interceptions,interceptions,6,6
+4722002,2025-12-23,DR Congo,Benin,Defence,Blocks,shot_blocks,0,3
+4722002,2025-12-23,DR Congo,Benin,Defence,Clearances,clearances,28,21
+4722002,2025-12-23,DR Congo,Benin,Defence,Keeper saves,keeper_saves,2,2
+4722002,2025-12-23,DR Congo,Benin,Duels,Duels won,duel_won,50,56
+4722002,2025-12-23,DR Congo,Benin,Duels,Ground duels won,ground_duels_won,33 (45%),40 (55%)
+4722002,2025-12-23,DR Congo,Benin,Duels,Aerial duels won,aerials_won,17 (52%),16 (48%)
+4722002,2025-12-23,DR Congo,Benin,Duels,Successful dribbles,dribbles_succeeded,6 (50%),9 (50%)
+4722002,2025-12-23,DR Congo,Benin,Discipline,Yellow cards,yellow_cards,3,3
+4722002,2025-12-23,DR Congo,Benin,Discipline,Red cards,red_cards,0,0
+4722002,2025-12-23,DR Congo,Benin,Discipline,Fouls committed,fouls,16,11
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Top stats,Ball possession,BallPossesion,67,33
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Top stats,Expected goals (xG),expected_goals,2.30,0.26
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Top stats,Total shots,total_shots,16,5
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Top stats,Shots on target,ShotsOnTarget,5,1
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Top stats,Touches in opposition box,touches_opp_box,48,10
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Top stats,Big chances,big_chance,5,0
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Top stats,Big chances missed,big_chance_missed_title,3,0
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Top stats,Accurate passes,accurate_passes,412 (86%),174 (72%)
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Top stats,Yellow cards,yellow_cards,1,1
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Top stats,Corners,corners,9,3
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Shots,Total shots,total_shots,16,5
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Shots,Shots off target,ShotsOffTarget,6,4
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Shots,Shots on target,ShotsOnTarget,5,1
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Shots,Blocked shots,blocked_shots,5,0
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Shots,Hit woodwork,shots_woodwork,0,0
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Shots,Shots inside box,shots_inside_box,13,2
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Shots,Shots outside box,shots_outside_box,3,3
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Expected goals (xG),Expected goals (xG),expected_goals,2.30,0.26
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Expected goals (xG),xG open play,expected_goals_open_play,2.20,0.15
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Expected goals (xG),xG set play,expected_goals_set_play,0.10,0.10
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,2.30,0.26
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.79,0.79
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Passes,Passes,passes,481,241
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Passes,Accurate passes,accurate_passes,412 (86%),174 (72%)
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Passes,Own half,own_half_passes,170,100
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Passes,Opposition half,opposition_half_passes,242,74
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Passes,Accurate long balls,long_balls_accurate,22 (55%),24 (38%)
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Passes,Accurate crosses,accurate_crosses,7 (28%),1 (10%)
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Passes,Throws,player_throws,18,12
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Passes,Touches in opposition box,touches_opp_box,48,10
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Passes,Offsides,Offsides,2,1
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Defence,Tackles,matchstats.headers.tackles,19,13
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Defence,Interceptions,interceptions,4,8
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Defence,Blocks,shot_blocks,0,5
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Defence,Clearances,clearances,17,28
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Defence,Keeper saves,keeper_saves,0,3
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Duels,Duels won,duel_won,59,44
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Duels,Ground duels won,ground_duels_won,42 (56%),33 (44%)
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Duels,Aerial duels won,aerials_won,17 (61%),11 (39%)
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Duels,Successful dribbles,dribbles_succeeded,13 (76%),4 (36%)
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Discipline,Yellow cards,yellow_cards,1,1
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Discipline,Red cards,red_cards,0,1
+4722008,2025-12-24,Burkina Faso,Equatorial Guinea,Discipline,Fouls committed,fouls,16,12
+4721983,2025-12-21,Morocco,Comoros,Top stats,Ball possession,BallPossesion,70,30
+4721983,2025-12-21,Morocco,Comoros,Top stats,Expected goals (xG),expected_goals,1.94,0.30
+4721983,2025-12-21,Morocco,Comoros,Top stats,Total shots,total_shots,16,4
+4721983,2025-12-21,Morocco,Comoros,Top stats,Shots on target,ShotsOnTarget,7,2
+4721983,2025-12-21,Morocco,Comoros,Top stats,Touches in opposition box,touches_opp_box,40,2
+4721983,2025-12-21,Morocco,Comoros,Top stats,Big chances,big_chance,3,2
+4721983,2025-12-21,Morocco,Comoros,Top stats,Big chances missed,big_chance_missed_title,2,2
+4721983,2025-12-21,Morocco,Comoros,Top stats,Accurate passes,accurate_passes,582 (90%),217 (76%)
+4721983,2025-12-21,Morocco,Comoros,Top stats,Yellow cards,yellow_cards,3,1
+4721983,2025-12-21,Morocco,Comoros,Top stats,Corners,corners,5,0
+4721983,2025-12-21,Morocco,Comoros,Shots,Total shots,total_shots,16,4
+4721983,2025-12-21,Morocco,Comoros,Shots,Shots off target,ShotsOffTarget,4,2
+4721983,2025-12-21,Morocco,Comoros,Shots,Shots on target,ShotsOnTarget,7,2
+4721983,2025-12-21,Morocco,Comoros,Shots,Blocked shots,blocked_shots,5,0
+4721983,2025-12-21,Morocco,Comoros,Shots,Hit woodwork,shots_woodwork,0,0
+4721983,2025-12-21,Morocco,Comoros,Shots,Shots inside box,shots_inside_box,11,2
+4721983,2025-12-21,Morocco,Comoros,Shots,Shots outside box,shots_outside_box,5,2
+4721983,2025-12-21,Morocco,Comoros,Expected goals (xG),Expected goals (xG),expected_goals,1.94,0.30
+4721983,2025-12-21,Morocco,Comoros,Expected goals (xG),xG open play,expected_goals_open_play,0.73,0.24
+4721983,2025-12-21,Morocco,Comoros,Expected goals (xG),xG set play,expected_goals_set_play,0.41,0.07
+4721983,2025-12-21,Morocco,Comoros,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.15,0.30
+4721983,2025-12-21,Morocco,Comoros,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,2.69,0.42
+4721983,2025-12-21,Morocco,Comoros,Passes,Passes,passes,648,285
+4721983,2025-12-21,Morocco,Comoros,Passes,Accurate passes,accurate_passes,582 (90%),217 (76%)
+4721983,2025-12-21,Morocco,Comoros,Passes,Own half,own_half_passes,206,163
+4721983,2025-12-21,Morocco,Comoros,Passes,Opposition half,opposition_half_passes,376,54
+4721983,2025-12-21,Morocco,Comoros,Passes,Accurate long balls,long_balls_accurate,17 (49%),9 (26%)
+4721983,2025-12-21,Morocco,Comoros,Passes,Accurate crosses,accurate_crosses,5 (17%),0 (0%)
+4721983,2025-12-21,Morocco,Comoros,Passes,Throws,player_throws,15,14
+4721983,2025-12-21,Morocco,Comoros,Passes,Touches in opposition box,touches_opp_box,40,2
+4721983,2025-12-21,Morocco,Comoros,Passes,Offsides,Offsides,2,4
+4721983,2025-12-21,Morocco,Comoros,Defence,Tackles,matchstats.headers.tackles,12,16
+4721983,2025-12-21,Morocco,Comoros,Defence,Interceptions,interceptions,6,12
+4721983,2025-12-21,Morocco,Comoros,Defence,Blocks,shot_blocks,0,5
+4721983,2025-12-21,Morocco,Comoros,Defence,Clearances,clearances,7,34
+4721983,2025-12-21,Morocco,Comoros,Defence,Keeper saves,keeper_saves,2,5
+4721983,2025-12-21,Morocco,Comoros,Duels,Duels won,duel_won,44,53
+4721983,2025-12-21,Morocco,Comoros,Duels,Ground duels won,ground_duels_won,37 (49%),38 (51%)
+4721983,2025-12-21,Morocco,Comoros,Duels,Aerial duels won,aerials_won,7 (32%),15 (68%)
+4721983,2025-12-21,Morocco,Comoros,Duels,Successful dribbles,dribbles_succeeded,6 (60%),4 (44%)
+4721983,2025-12-21,Morocco,Comoros,Discipline,Yellow cards,yellow_cards,3,1
+4721983,2025-12-21,Morocco,Comoros,Discipline,Red cards,red_cards,0,0
+4721983,2025-12-21,Morocco,Comoros,Discipline,Fouls committed,fouls,19,20
+4722007,2025-12-24,Algeria,Sudan,Top stats,Ball possession,BallPossesion,58,42
+4722007,2025-12-24,Algeria,Sudan,Top stats,Expected goals (xG),expected_goals,2.20,0.31
+4722007,2025-12-24,Algeria,Sudan,Top stats,Total shots,total_shots,14,5
+4722007,2025-12-24,Algeria,Sudan,Top stats,Shots on target,ShotsOnTarget,7,2
+4722007,2025-12-24,Algeria,Sudan,Top stats,Touches in opposition box,touches_opp_box,28,13
+4722007,2025-12-24,Algeria,Sudan,Top stats,Big chances,big_chance,5,0
+4722007,2025-12-24,Algeria,Sudan,Top stats,Big chances missed,big_chance_missed_title,3,0
+4722007,2025-12-24,Algeria,Sudan,Top stats,Accurate passes,accurate_passes,405 (88%),271 (80%)
+4722007,2025-12-24,Algeria,Sudan,Top stats,Yellow cards,yellow_cards,0,1
+4722007,2025-12-24,Algeria,Sudan,Top stats,Corners,corners,11,1
+4722007,2025-12-24,Algeria,Sudan,Shots,Total shots,total_shots,14,5
+4722007,2025-12-24,Algeria,Sudan,Shots,Shots off target,ShotsOffTarget,5,3
+4722007,2025-12-24,Algeria,Sudan,Shots,Shots on target,ShotsOnTarget,7,2
+4722007,2025-12-24,Algeria,Sudan,Shots,Blocked shots,blocked_shots,2,0
+4722007,2025-12-24,Algeria,Sudan,Shots,Hit woodwork,shots_woodwork,1,0
+4722007,2025-12-24,Algeria,Sudan,Shots,Shots inside box,shots_inside_box,11,3
+4722007,2025-12-24,Algeria,Sudan,Shots,Shots outside box,shots_outside_box,3,2
+4722007,2025-12-24,Algeria,Sudan,Expected goals (xG),Expected goals (xG),expected_goals,2.20,0.31
+4722007,2025-12-24,Algeria,Sudan,Expected goals (xG),xG open play,expected_goals_open_play,1.96,0.31
+4722007,2025-12-24,Algeria,Sudan,Expected goals (xG),xG set play,expected_goals_set_play,0.24,0.00
+4722007,2025-12-24,Algeria,Sudan,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,2.20,0.31
+4722007,2025-12-24,Algeria,Sudan,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.97,0.43
+4722007,2025-12-24,Algeria,Sudan,Passes,Passes,passes,460,339
+4722007,2025-12-24,Algeria,Sudan,Passes,Accurate passes,accurate_passes,405 (88%),271 (80%)
+4722007,2025-12-24,Algeria,Sudan,Passes,Own half,own_half_passes,255,207
+4722007,2025-12-24,Algeria,Sudan,Passes,Opposition half,opposition_half_passes,150,64
+4722007,2025-12-24,Algeria,Sudan,Passes,Accurate long balls,long_balls_accurate,19 (42%),17 (34%)
+4722007,2025-12-24,Algeria,Sudan,Passes,Accurate crosses,accurate_crosses,3 (13%),4 (40%)
+4722007,2025-12-24,Algeria,Sudan,Passes,Throws,player_throws,10,23
+4722007,2025-12-24,Algeria,Sudan,Passes,Touches in opposition box,touches_opp_box,28,13
+4722007,2025-12-24,Algeria,Sudan,Passes,Offsides,Offsides,3,2
+4722007,2025-12-24,Algeria,Sudan,Defence,Tackles,matchstats.headers.tackles,13,14
+4722007,2025-12-24,Algeria,Sudan,Defence,Interceptions,interceptions,13,11
+4722007,2025-12-24,Algeria,Sudan,Defence,Blocks,shot_blocks,0,2
+4722007,2025-12-24,Algeria,Sudan,Defence,Clearances,clearances,9,20
+4722007,2025-12-24,Algeria,Sudan,Defence,Keeper saves,keeper_saves,2,4
+4722007,2025-12-24,Algeria,Sudan,Duels,Duels won,duel_won,44,42
+4722007,2025-12-24,Algeria,Sudan,Duels,Ground duels won,ground_duels_won,31 (48%),34 (52%)
+4722007,2025-12-24,Algeria,Sudan,Duels,Aerial duels won,aerials_won,13 (62%),8 (38%)
+4722007,2025-12-24,Algeria,Sudan,Duels,Successful dribbles,dribbles_succeeded,11 (58%),5 (50%)
+4722007,2025-12-24,Algeria,Sudan,Discipline,Yellow cards,yellow_cards,0,1
+4722007,2025-12-24,Algeria,Sudan,Discipline,Red cards,red_cards,0,1
+4722007,2025-12-24,Algeria,Sudan,Discipline,Fouls committed,fouls,16,9
+4722013,2025-12-24,Ivory Coast,Mozambique,Top stats,Ball possession,BallPossesion,54,46
+4722013,2025-12-24,Ivory Coast,Mozambique,Top stats,Expected goals (xG),expected_goals,1.30,0.24
+4722013,2025-12-24,Ivory Coast,Mozambique,Top stats,Total shots,total_shots,15,4
+4722013,2025-12-24,Ivory Coast,Mozambique,Top stats,Shots on target,ShotsOnTarget,5,2
+4722013,2025-12-24,Ivory Coast,Mozambique,Top stats,Touches in opposition box,touches_opp_box,28,9
+4722013,2025-12-24,Ivory Coast,Mozambique,Top stats,Big chances,big_chance,6,0
+4722013,2025-12-24,Ivory Coast,Mozambique,Top stats,Big chances missed,big_chance_missed_title,5,0
+4722013,2025-12-24,Ivory Coast,Mozambique,Top stats,Accurate passes,accurate_passes,486 (92%),404 (89%)
+4722013,2025-12-24,Ivory Coast,Mozambique,Top stats,Yellow cards,yellow_cards,1,2
+4722013,2025-12-24,Ivory Coast,Mozambique,Top stats,Corners,corners,9,3
+4722013,2025-12-24,Ivory Coast,Mozambique,Shots,Total shots,total_shots,15,4
+4722013,2025-12-24,Ivory Coast,Mozambique,Shots,Shots off target,ShotsOffTarget,7,0
+4722013,2025-12-24,Ivory Coast,Mozambique,Shots,Shots on target,ShotsOnTarget,5,2
+4722013,2025-12-24,Ivory Coast,Mozambique,Shots,Blocked shots,blocked_shots,3,2
+4722013,2025-12-24,Ivory Coast,Mozambique,Shots,Hit woodwork,shots_woodwork,0,0
+4722013,2025-12-24,Ivory Coast,Mozambique,Shots,Shots inside box,shots_inside_box,10,2
+4722013,2025-12-24,Ivory Coast,Mozambique,Shots,Shots outside box,shots_outside_box,5,2
+4722013,2025-12-24,Ivory Coast,Mozambique,Expected goals (xG),Expected goals (xG),expected_goals,1.30,0.24
+4722013,2025-12-24,Ivory Coast,Mozambique,Expected goals (xG),xG open play,expected_goals_open_play,1.03,0.23
+4722013,2025-12-24,Ivory Coast,Mozambique,Expected goals (xG),xG set play,expected_goals_set_play,0.28,0.01
+4722013,2025-12-24,Ivory Coast,Mozambique,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.30,0.24
+4722013,2025-12-24,Ivory Coast,Mozambique,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.17,0.29
+4722013,2025-12-24,Ivory Coast,Mozambique,Passes,Passes,passes,530,455
+4722013,2025-12-24,Ivory Coast,Mozambique,Passes,Accurate passes,accurate_passes,486 (92%),404 (89%)
+4722013,2025-12-24,Ivory Coast,Mozambique,Passes,Own half,own_half_passes,219,276
+4722013,2025-12-24,Ivory Coast,Mozambique,Passes,Opposition half,opposition_half_passes,267,128
+4722013,2025-12-24,Ivory Coast,Mozambique,Passes,Accurate long balls,long_balls_accurate,23 (70%),20 (50%)
+4722013,2025-12-24,Ivory Coast,Mozambique,Passes,Accurate crosses,accurate_crosses,6 (24%),3 (20%)
+4722013,2025-12-24,Ivory Coast,Mozambique,Passes,Throws,player_throws,12,14
+4722013,2025-12-24,Ivory Coast,Mozambique,Passes,Touches in opposition box,touches_opp_box,28,9
+4722013,2025-12-24,Ivory Coast,Mozambique,Passes,Offsides,Offsides,0,0
+4722013,2025-12-24,Ivory Coast,Mozambique,Defence,Tackles,matchstats.headers.tackles,13,17
+4722013,2025-12-24,Ivory Coast,Mozambique,Defence,Interceptions,interceptions,7,9
+4722013,2025-12-24,Ivory Coast,Mozambique,Defence,Blocks,shot_blocks,2,4
+4722013,2025-12-24,Ivory Coast,Mozambique,Defence,Clearances,clearances,10,16
+4722013,2025-12-24,Ivory Coast,Mozambique,Defence,Keeper saves,keeper_saves,2,3
+4722013,2025-12-24,Ivory Coast,Mozambique,Duels,Duels won,duel_won,37,44
+4722013,2025-12-24,Ivory Coast,Mozambique,Duels,Ground duels won,ground_duels_won,29 (44%),37 (56%)
+4722013,2025-12-24,Ivory Coast,Mozambique,Duels,Aerial duels won,aerials_won,8 (53%),7 (47%)
+4722013,2025-12-24,Ivory Coast,Mozambique,Duels,Successful dribbles,dribbles_succeeded,9 (45%),3 (27%)
+4722013,2025-12-24,Ivory Coast,Mozambique,Discipline,Yellow cards,yellow_cards,1,2
+4722013,2025-12-24,Ivory Coast,Mozambique,Discipline,Red cards,red_cards,0,0
+4722013,2025-12-24,Ivory Coast,Mozambique,Discipline,Fouls committed,fouls,17,7
+4721986,2025-12-26,Zambia,Comoros,Top stats,Ball possession,BallPossesion,47,53
+4721986,2025-12-26,Zambia,Comoros,Top stats,Expected goals (xG),expected_goals,0.38,0.49
+4721986,2025-12-26,Zambia,Comoros,Top stats,Total shots,total_shots,10,10
+4721986,2025-12-26,Zambia,Comoros,Top stats,Shots on target,ShotsOnTarget,0,1
+4721986,2025-12-26,Zambia,Comoros,Top stats,Touches in opposition box,touches_opp_box,19,11
+4721986,2025-12-26,Zambia,Comoros,Top stats,Big chances,big_chance,0,1
+4721986,2025-12-26,Zambia,Comoros,Top stats,Big chances missed,big_chance_missed_title,0,1
+4721986,2025-12-26,Zambia,Comoros,Top stats,Accurate passes,accurate_passes,373 (83%),457 (87%)
+4721986,2025-12-26,Zambia,Comoros,Top stats,Yellow cards,yellow_cards,2,0
+4721986,2025-12-26,Zambia,Comoros,Top stats,Corners,corners,6,2
+4721986,2025-12-26,Zambia,Comoros,Shots,Total shots,total_shots,10,10
+4721986,2025-12-26,Zambia,Comoros,Shots,Shots off target,ShotsOffTarget,7,6
+4721986,2025-12-26,Zambia,Comoros,Shots,Shots on target,ShotsOnTarget,0,1
+4721986,2025-12-26,Zambia,Comoros,Shots,Blocked shots,blocked_shots,3,3
+4721986,2025-12-26,Zambia,Comoros,Shots,Hit woodwork,shots_woodwork,0,0
+4721986,2025-12-26,Zambia,Comoros,Shots,Shots inside box,shots_inside_box,4,5
+4721986,2025-12-26,Zambia,Comoros,Shots,Shots outside box,shots_outside_box,6,5
+4721986,2025-12-26,Zambia,Comoros,Expected goals (xG),Expected goals (xG),expected_goals,0.38,0.49
+4721986,2025-12-26,Zambia,Comoros,Expected goals (xG),xG open play,expected_goals_open_play,0.30,0.27
+4721986,2025-12-26,Zambia,Comoros,Expected goals (xG),xG set play,expected_goals_set_play,0.08,0.22
+4721986,2025-12-26,Zambia,Comoros,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.38,0.49
+4721986,2025-12-26,Zambia,Comoros,Passes,Passes,passes,447,526
+4721986,2025-12-26,Zambia,Comoros,Passes,Accurate passes,accurate_passes,373 (83%),457 (87%)
+4721986,2025-12-26,Zambia,Comoros,Passes,Own half,own_half_passes,196,260
+4721986,2025-12-26,Zambia,Comoros,Passes,Opposition half,opposition_half_passes,177,197
+4721986,2025-12-26,Zambia,Comoros,Passes,Accurate long balls,long_balls_accurate,24 (42%),34 (59%)
+4721986,2025-12-26,Zambia,Comoros,Passes,Accurate crosses,accurate_crosses,7 (22%),0 (0%)
+4721986,2025-12-26,Zambia,Comoros,Passes,Throws,player_throws,16,14
+4721986,2025-12-26,Zambia,Comoros,Passes,Touches in opposition box,touches_opp_box,19,11
+4721986,2025-12-26,Zambia,Comoros,Passes,Offsides,Offsides,0,1
+4721986,2025-12-26,Zambia,Comoros,Defence,Tackles,matchstats.headers.tackles,13,17
+4721986,2025-12-26,Zambia,Comoros,Defence,Interceptions,interceptions,8,11
+4721986,2025-12-26,Zambia,Comoros,Defence,Blocks,shot_blocks,4,3
+4721986,2025-12-26,Zambia,Comoros,Defence,Clearances,clearances,20,31
+4721986,2025-12-26,Zambia,Comoros,Defence,Keeper saves,keeper_saves,0,0
+4721986,2025-12-26,Zambia,Comoros,Duels,Duels won,duel_won,44,51
+4721986,2025-12-26,Zambia,Comoros,Duels,Ground duels won,ground_duels_won,36 (49%),38 (51%)
+4721986,2025-12-26,Zambia,Comoros,Duels,Aerial duels won,aerials_won,8 (38%),13 (62%)
+4721986,2025-12-26,Zambia,Comoros,Duels,Successful dribbles,dribbles_succeeded,10 (50%),7 (50%)
+4721986,2025-12-26,Zambia,Comoros,Discipline,Yellow cards,yellow_cards,2,0
+4721986,2025-12-26,Zambia,Comoros,Discipline,Red cards,red_cards,0,0
+4721986,2025-12-26,Zambia,Comoros,Discipline,Fouls committed,fouls,15,13
+4722004,2025-12-27,Benin,Botswana,Top stats,Ball possession,BallPossesion,52,48
+4722004,2025-12-27,Benin,Botswana,Top stats,Expected goals (xG),expected_goals,1.25,0.43
+4722004,2025-12-27,Benin,Botswana,Top stats,Total shots,total_shots,10,5
+4722004,2025-12-27,Benin,Botswana,Top stats,Shots on target,ShotsOnTarget,4,1
+4722004,2025-12-27,Benin,Botswana,Top stats,Touches in opposition box,touches_opp_box,24,7
+4722004,2025-12-27,Benin,Botswana,Top stats,Big chances,big_chance,3,1
+4722004,2025-12-27,Benin,Botswana,Top stats,Big chances missed,big_chance_missed_title,2,1
+4722004,2025-12-27,Benin,Botswana,Top stats,Accurate passes,accurate_passes,432 (85%),383 (82%)
+4722004,2025-12-27,Benin,Botswana,Top stats,Yellow cards,yellow_cards,2,2
+4722004,2025-12-27,Benin,Botswana,Top stats,Corners,corners,1,1
+4722004,2025-12-27,Benin,Botswana,Shots,Total shots,total_shots,10,5
+4722004,2025-12-27,Benin,Botswana,Shots,Shots off target,ShotsOffTarget,6,3
+4722004,2025-12-27,Benin,Botswana,Shots,Shots on target,ShotsOnTarget,4,1
+4722004,2025-12-27,Benin,Botswana,Shots,Blocked shots,blocked_shots,0,1
+4722004,2025-12-27,Benin,Botswana,Shots,Hit woodwork,shots_woodwork,0,1
+4722004,2025-12-27,Benin,Botswana,Shots,Shots inside box,shots_inside_box,9,3
+4722004,2025-12-27,Benin,Botswana,Shots,Shots outside box,shots_outside_box,1,2
+4722004,2025-12-27,Benin,Botswana,Expected goals (xG),Expected goals (xG),expected_goals,1.25,0.43
+4722004,2025-12-27,Benin,Botswana,Expected goals (xG),xG open play,expected_goals_open_play,1.10,0.02
+4722004,2025-12-27,Benin,Botswana,Expected goals (xG),xG set play,expected_goals_set_play,0.15,0.41
+4722004,2025-12-27,Benin,Botswana,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.25,0.43
+4722004,2025-12-27,Benin,Botswana,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.91,0.18
+4722004,2025-12-27,Benin,Botswana,Passes,Passes,passes,508,465
+4722004,2025-12-27,Benin,Botswana,Passes,Accurate passes,accurate_passes,432 (85%),383 (82%)
+4722004,2025-12-27,Benin,Botswana,Passes,Own half,own_half_passes,271,244
+4722004,2025-12-27,Benin,Botswana,Passes,Opposition half,opposition_half_passes,161,139
+4722004,2025-12-27,Benin,Botswana,Passes,Accurate long balls,long_balls_accurate,33 (55%),8 (21%)
+4722004,2025-12-27,Benin,Botswana,Passes,Accurate crosses,accurate_crosses,4 (36%),4 (21%)
+4722004,2025-12-27,Benin,Botswana,Passes,Throws,player_throws,17,11
+4722004,2025-12-27,Benin,Botswana,Passes,Touches in opposition box,touches_opp_box,24,7
+4722004,2025-12-27,Benin,Botswana,Passes,Offsides,Offsides,2,1
+4722004,2025-12-27,Benin,Botswana,Defence,Tackles,matchstats.headers.tackles,8,13
+4722004,2025-12-27,Benin,Botswana,Defence,Interceptions,interceptions,10,6
+4722004,2025-12-27,Benin,Botswana,Defence,Blocks,shot_blocks,1,0
+4722004,2025-12-27,Benin,Botswana,Defence,Clearances,clearances,22,23
+4722004,2025-12-27,Benin,Botswana,Defence,Keeper saves,keeper_saves,1,3
+4722004,2025-12-27,Benin,Botswana,Duels,Duels won,duel_won,58,40
+4722004,2025-12-27,Benin,Botswana,Duels,Ground duels won,ground_duels_won,33 (51%),32 (49%)
+4722004,2025-12-27,Benin,Botswana,Duels,Aerial duels won,aerials_won,25 (76%),8 (24%)
+4722004,2025-12-27,Benin,Botswana,Duels,Successful dribbles,dribbles_succeeded,7 (47%),4 (57%)
+4722004,2025-12-27,Benin,Botswana,Discipline,Yellow cards,yellow_cards,2,2
+4722004,2025-12-27,Benin,Botswana,Discipline,Red cards,red_cards,0,0
+4722004,2025-12-27,Benin,Botswana,Discipline,Fouls committed,fouls,19,20
+4722014,2025-12-24,Cameroon,Gabon,Top stats,Ball possession,BallPossesion,43,57
+4722014,2025-12-24,Cameroon,Gabon,Top stats,Expected goals (xG),expected_goals,0.97,0.69
+4722014,2025-12-24,Cameroon,Gabon,Top stats,Total shots,total_shots,13,12
+4722014,2025-12-24,Cameroon,Gabon,Top stats,Shots on target,ShotsOnTarget,3,2
+4722014,2025-12-24,Cameroon,Gabon,Top stats,Touches in opposition box,touches_opp_box,24,16
+4722014,2025-12-24,Cameroon,Gabon,Top stats,Big chances,big_chance,3,1
+4722014,2025-12-24,Cameroon,Gabon,Top stats,Big chances missed,big_chance_missed_title,2,1
+4722014,2025-12-24,Cameroon,Gabon,Top stats,Accurate passes,accurate_passes,234 (74%),350 (83%)
+4722014,2025-12-24,Cameroon,Gabon,Top stats,Yellow cards,yellow_cards,2,1
+4722014,2025-12-24,Cameroon,Gabon,Top stats,Corners,corners,9,5
+4722014,2025-12-24,Cameroon,Gabon,Shots,Total shots,total_shots,13,12
+4722014,2025-12-24,Cameroon,Gabon,Shots,Shots off target,ShotsOffTarget,6,7
+4722014,2025-12-24,Cameroon,Gabon,Shots,Shots on target,ShotsOnTarget,3,2
+4722014,2025-12-24,Cameroon,Gabon,Shots,Blocked shots,blocked_shots,4,3
+4722014,2025-12-24,Cameroon,Gabon,Shots,Hit woodwork,shots_woodwork,1,0
+4722014,2025-12-24,Cameroon,Gabon,Shots,Shots inside box,shots_inside_box,10,6
+4722014,2025-12-24,Cameroon,Gabon,Shots,Shots outside box,shots_outside_box,3,6
+4722014,2025-12-24,Cameroon,Gabon,Expected goals (xG),Expected goals (xG),expected_goals,0.97,0.69
+4722014,2025-12-24,Cameroon,Gabon,Expected goals (xG),xG open play,expected_goals_open_play,0.50,0.64
+4722014,2025-12-24,Cameroon,Gabon,Expected goals (xG),xG set play,expected_goals_set_play,0.47,0.05
+4722014,2025-12-24,Cameroon,Gabon,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.97,0.69
+4722014,2025-12-24,Cameroon,Gabon,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.32,0.42
+4722014,2025-12-24,Cameroon,Gabon,Passes,Passes,passes,317,424
+4722014,2025-12-24,Cameroon,Gabon,Passes,Accurate passes,accurate_passes,234 (74%),350 (83%)
+4722014,2025-12-24,Cameroon,Gabon,Passes,Own half,own_half_passes,132,175
+4722014,2025-12-24,Cameroon,Gabon,Passes,Opposition half,opposition_half_passes,102,175
+4722014,2025-12-24,Cameroon,Gabon,Passes,Accurate long balls,long_balls_accurate,25 (42%),23 (58%)
+4722014,2025-12-24,Cameroon,Gabon,Passes,Accurate crosses,accurate_crosses,5 (22%),4 (16%)
+4722014,2025-12-24,Cameroon,Gabon,Passes,Throws,player_throws,24,22
+4722014,2025-12-24,Cameroon,Gabon,Passes,Touches in opposition box,touches_opp_box,24,16
+4722014,2025-12-24,Cameroon,Gabon,Passes,Offsides,Offsides,0,2
+4722014,2025-12-24,Cameroon,Gabon,Defence,Tackles,matchstats.headers.tackles,20,29
+4722014,2025-12-24,Cameroon,Gabon,Defence,Interceptions,interceptions,5,10
+4722014,2025-12-24,Cameroon,Gabon,Defence,Blocks,shot_blocks,3,4
+4722014,2025-12-24,Cameroon,Gabon,Defence,Clearances,clearances,29,38
+4722014,2025-12-24,Cameroon,Gabon,Defence,Keeper saves,keeper_saves,2,2
+4722014,2025-12-24,Cameroon,Gabon,Duels,Duels won,duel_won,48,78
+4722014,2025-12-24,Cameroon,Gabon,Duels,Ground duels won,ground_duels_won,34 (39%),53 (61%)
+4722014,2025-12-24,Cameroon,Gabon,Duels,Aerial duels won,aerials_won,14 (36%),25 (64%)
+4722014,2025-12-24,Cameroon,Gabon,Duels,Successful dribbles,dribbles_succeeded,5 (23%),11 (50%)
+4722014,2025-12-24,Cameroon,Gabon,Discipline,Yellow cards,yellow_cards,2,1
+4722014,2025-12-24,Cameroon,Gabon,Discipline,Red cards,red_cards,0,0
+4722014,2025-12-24,Cameroon,Gabon,Discipline,Fouls committed,fouls,16,9
+4721998,2025-12-27,Uganda,Tanzania,Top stats,Ball possession,BallPossesion,55,45
+4721998,2025-12-27,Uganda,Tanzania,Top stats,Expected goals (xG),expected_goals,1.49,1.50
+4721998,2025-12-27,Uganda,Tanzania,Top stats,Total shots,total_shots,14,11
+4721998,2025-12-27,Uganda,Tanzania,Top stats,Shots on target,ShotsOnTarget,6,2
+4721998,2025-12-27,Uganda,Tanzania,Top stats,Touches in opposition box,touches_opp_box,25,16
+4721998,2025-12-27,Uganda,Tanzania,Top stats,Big chances,big_chance,2,2
+4721998,2025-12-27,Uganda,Tanzania,Top stats,Big chances missed,big_chance_missed_title,1,1
+4721998,2025-12-27,Uganda,Tanzania,Top stats,Accurate passes,accurate_passes,347 (82%),275 (79%)
+4721998,2025-12-27,Uganda,Tanzania,Top stats,Yellow cards,yellow_cards,3,2
+4721998,2025-12-27,Uganda,Tanzania,Top stats,Corners,corners,7,3
+4721998,2025-12-27,Uganda,Tanzania,Shots,Total shots,total_shots,14,11
+4721998,2025-12-27,Uganda,Tanzania,Shots,Shots off target,ShotsOffTarget,6,6
+4721998,2025-12-27,Uganda,Tanzania,Shots,Shots on target,ShotsOnTarget,6,2
+4721998,2025-12-27,Uganda,Tanzania,Shots,Blocked shots,blocked_shots,2,3
+4721998,2025-12-27,Uganda,Tanzania,Shots,Hit woodwork,shots_woodwork,1,0
+4721998,2025-12-27,Uganda,Tanzania,Shots,Shots inside box,shots_inside_box,10,4
+4721998,2025-12-27,Uganda,Tanzania,Shots,Shots outside box,shots_outside_box,4,7
+4721998,2025-12-27,Uganda,Tanzania,Expected goals (xG),Expected goals (xG),expected_goals,1.49,1.50
+4721998,2025-12-27,Uganda,Tanzania,Expected goals (xG),xG open play,expected_goals_open_play,0.65,0.62
+4721998,2025-12-27,Uganda,Tanzania,Expected goals (xG),xG set play,expected_goals_set_play,0.06,0.09
+4721998,2025-12-27,Uganda,Tanzania,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.70,0.71
+4721998,2025-12-27,Uganda,Tanzania,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.38,1.06
+4721998,2025-12-27,Uganda,Tanzania,Passes,Passes,passes,421,347
+4721998,2025-12-27,Uganda,Tanzania,Passes,Accurate passes,accurate_passes,347 (82%),275 (79%)
+4721998,2025-12-27,Uganda,Tanzania,Passes,Own half,own_half_passes,206,147
+4721998,2025-12-27,Uganda,Tanzania,Passes,Opposition half,opposition_half_passes,141,128
+4721998,2025-12-27,Uganda,Tanzania,Passes,Accurate long balls,long_balls_accurate,21 (38%),27 (47%)
+4721998,2025-12-27,Uganda,Tanzania,Passes,Accurate crosses,accurate_crosses,4 (20%),4 (27%)
+4721998,2025-12-27,Uganda,Tanzania,Passes,Throws,player_throws,17,15
+4721998,2025-12-27,Uganda,Tanzania,Passes,Touches in opposition box,touches_opp_box,25,16
+4721998,2025-12-27,Uganda,Tanzania,Passes,Offsides,Offsides,2,4
+4721998,2025-12-27,Uganda,Tanzania,Defence,Tackles,matchstats.headers.tackles,20,22
+4721998,2025-12-27,Uganda,Tanzania,Defence,Interceptions,interceptions,11,11
+4721998,2025-12-27,Uganda,Tanzania,Defence,Blocks,shot_blocks,2,2
+4721998,2025-12-27,Uganda,Tanzania,Defence,Clearances,clearances,13,27
+4721998,2025-12-27,Uganda,Tanzania,Defence,Keeper saves,keeper_saves,1,5
+4721998,2025-12-27,Uganda,Tanzania,Duels,Duels won,duel_won,61,61
+4721998,2025-12-27,Uganda,Tanzania,Duels,Ground duels won,ground_duels_won,45 (49%),46 (51%)
+4721998,2025-12-27,Uganda,Tanzania,Duels,Aerial duels won,aerials_won,16 (52%),15 (48%)
+4721998,2025-12-27,Uganda,Tanzania,Duels,Successful dribbles,dribbles_succeeded,10 (48%),9 (45%)
+4721998,2025-12-27,Uganda,Tanzania,Discipline,Yellow cards,yellow_cards,3,2
+4721998,2025-12-27,Uganda,Tanzania,Discipline,Red cards,red_cards,0,0
+4721998,2025-12-27,Uganda,Tanzania,Discipline,Fouls committed,fouls,16,16
+4721997,2025-12-27,Nigeria,Tunisia,Top stats,Ball possession,BallPossesion,60,40
+4721997,2025-12-27,Nigeria,Tunisia,Top stats,Expected goals (xG),expected_goals,2.12,1.07
+4721997,2025-12-27,Nigeria,Tunisia,Top stats,Total shots,total_shots,15,8
+4721997,2025-12-27,Nigeria,Tunisia,Top stats,Shots on target,ShotsOnTarget,5,2
+4721997,2025-12-27,Nigeria,Tunisia,Top stats,Touches in opposition box,touches_opp_box,26,23
+4721997,2025-12-27,Nigeria,Tunisia,Top stats,Big chances,big_chance,5,3
+4721997,2025-12-27,Nigeria,Tunisia,Top stats,Big chances missed,big_chance_missed_title,2,2
+4721997,2025-12-27,Nigeria,Tunisia,Top stats,Accurate passes,accurate_passes,390 (88%),234 (79%)
+4721997,2025-12-27,Nigeria,Tunisia,Top stats,Yellow cards,yellow_cards,3,0
+4721997,2025-12-27,Nigeria,Tunisia,Top stats,Corners,corners,4,6
+4721997,2025-12-27,Nigeria,Tunisia,Shots,Total shots,total_shots,15,8
+4721997,2025-12-27,Nigeria,Tunisia,Shots,Shots off target,ShotsOffTarget,7,5
+4721997,2025-12-27,Nigeria,Tunisia,Shots,Shots on target,ShotsOnTarget,5,2
+4721997,2025-12-27,Nigeria,Tunisia,Shots,Blocked shots,blocked_shots,3,1
+4721997,2025-12-27,Nigeria,Tunisia,Shots,Hit woodwork,shots_woodwork,0,0
+4721997,2025-12-27,Nigeria,Tunisia,Shots,Shots inside box,shots_inside_box,10,5
+4721997,2025-12-27,Nigeria,Tunisia,Shots,Shots outside box,shots_outside_box,5,3
+4721997,2025-12-27,Nigeria,Tunisia,Expected goals (xG),Expected goals (xG),expected_goals,2.12,1.07
+4721997,2025-12-27,Nigeria,Tunisia,Expected goals (xG),xG open play,expected_goals_open_play,1.93,0.14
+4721997,2025-12-27,Nigeria,Tunisia,Expected goals (xG),xG set play,expected_goals_set_play,0.19,0.14
+4721997,2025-12-27,Nigeria,Tunisia,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,2.12,0.28
+4721997,2025-12-27,Nigeria,Tunisia,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.71,1.51
+4721997,2025-12-27,Nigeria,Tunisia,Passes,Passes,passes,441,298
+4721997,2025-12-27,Nigeria,Tunisia,Passes,Accurate passes,accurate_passes,390 (88%),234 (79%)
+4721997,2025-12-27,Nigeria,Tunisia,Passes,Own half,own_half_passes,201,125
+4721997,2025-12-27,Nigeria,Tunisia,Passes,Opposition half,opposition_half_passes,189,109
+4721997,2025-12-27,Nigeria,Tunisia,Passes,Accurate long balls,long_balls_accurate,21 (46%),22 (50%)
+4721997,2025-12-27,Nigeria,Tunisia,Passes,Accurate crosses,accurate_crosses,11 (41%),6 (32%)
+4721997,2025-12-27,Nigeria,Tunisia,Passes,Throws,player_throws,15,20
+4721997,2025-12-27,Nigeria,Tunisia,Passes,Touches in opposition box,touches_opp_box,26,23
+4721997,2025-12-27,Nigeria,Tunisia,Passes,Offsides,Offsides,1,1
+4721997,2025-12-27,Nigeria,Tunisia,Defence,Tackles,matchstats.headers.tackles,17,6
+4721997,2025-12-27,Nigeria,Tunisia,Defence,Interceptions,interceptions,8,5
+4721997,2025-12-27,Nigeria,Tunisia,Defence,Blocks,shot_blocks,1,3
+4721997,2025-12-27,Nigeria,Tunisia,Defence,Clearances,clearances,23,20
+4721997,2025-12-27,Nigeria,Tunisia,Defence,Keeper saves,keeper_saves,0,2
+4721997,2025-12-27,Nigeria,Tunisia,Duels,Duels won,duel_won,50,43
+4721997,2025-12-27,Nigeria,Tunisia,Duels,Ground duels won,ground_duels_won,37 (53%),33 (47%)
+4721997,2025-12-27,Nigeria,Tunisia,Duels,Aerial duels won,aerials_won,13 (57%),10 (43%)
+4721997,2025-12-27,Nigeria,Tunisia,Duels,Successful dribbles,dribbles_succeeded,6 (86%),11 (58%)
+4721997,2025-12-27,Nigeria,Tunisia,Discipline,Yellow cards,yellow_cards,3,0
+4721997,2025-12-27,Nigeria,Tunisia,Discipline,Red cards,red_cards,0,0
+4721997,2025-12-27,Nigeria,Tunisia,Discipline,Fouls committed,fouls,18,15
+4721992,2025-12-26,Angola,Zimbabwe,Top stats,Ball possession,BallPossesion,63,37
+4721992,2025-12-26,Angola,Zimbabwe,Top stats,Expected goals (xG),expected_goals,1.20,1.44
+4721992,2025-12-26,Angola,Zimbabwe,Top stats,Total shots,total_shots,15,17
+4721992,2025-12-26,Angola,Zimbabwe,Top stats,Shots on target,ShotsOnTarget,6,4
+4721992,2025-12-26,Angola,Zimbabwe,Top stats,Touches in opposition box,touches_opp_box,20,22
+4721992,2025-12-26,Angola,Zimbabwe,Top stats,Big chances,big_chance,3,1
+4721992,2025-12-26,Angola,Zimbabwe,Top stats,Big chances missed,big_chance_missed_title,2,1
+4721992,2025-12-26,Angola,Zimbabwe,Top stats,Accurate passes,accurate_passes,290 (80%),139 (65%)
+4721992,2025-12-26,Angola,Zimbabwe,Top stats,Yellow cards,yellow_cards,3,4
+4721992,2025-12-26,Angola,Zimbabwe,Top stats,Corners,corners,5,6
+4721992,2025-12-26,Angola,Zimbabwe,Shots,Total shots,total_shots,15,17
+4721992,2025-12-26,Angola,Zimbabwe,Shots,Shots off target,ShotsOffTarget,5,8
+4721992,2025-12-26,Angola,Zimbabwe,Shots,Shots on target,ShotsOnTarget,6,4
+4721992,2025-12-26,Angola,Zimbabwe,Shots,Blocked shots,blocked_shots,4,5
+4721992,2025-12-26,Angola,Zimbabwe,Shots,Hit woodwork,shots_woodwork,0,0
+4721992,2025-12-26,Angola,Zimbabwe,Shots,Shots inside box,shots_inside_box,10,8
+4721992,2025-12-26,Angola,Zimbabwe,Shots,Shots outside box,shots_outside_box,5,9
+4721992,2025-12-26,Angola,Zimbabwe,Expected goals (xG),Expected goals (xG),expected_goals,1.20,1.44
+4721992,2025-12-26,Angola,Zimbabwe,Expected goals (xG),xG open play,expected_goals_open_play,0.50,1.05
+4721992,2025-12-26,Angola,Zimbabwe,Expected goals (xG),xG set play,expected_goals_set_play,0.71,0.39
+4721992,2025-12-26,Angola,Zimbabwe,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.20,1.44
+4721992,2025-12-26,Angola,Zimbabwe,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.59,1.20
+4721992,2025-12-26,Angola,Zimbabwe,Passes,Passes,passes,362,215
+4721992,2025-12-26,Angola,Zimbabwe,Passes,Accurate passes,accurate_passes,290 (80%),139 (65%)
+4721992,2025-12-26,Angola,Zimbabwe,Passes,Own half,own_half_passes,137,68
+4721992,2025-12-26,Angola,Zimbabwe,Passes,Opposition half,opposition_half_passes,153,71
+4721992,2025-12-26,Angola,Zimbabwe,Passes,Accurate long balls,long_balls_accurate,24 (41%),20 (33%)
+4721992,2025-12-26,Angola,Zimbabwe,Passes,Accurate crosses,accurate_crosses,4 (19%),2 (22%)
+4721992,2025-12-26,Angola,Zimbabwe,Passes,Throws,player_throws,20,20
+4721992,2025-12-26,Angola,Zimbabwe,Passes,Touches in opposition box,touches_opp_box,20,22
+4721992,2025-12-26,Angola,Zimbabwe,Passes,Offsides,Offsides,2,1
+4721992,2025-12-26,Angola,Zimbabwe,Defence,Tackles,matchstats.headers.tackles,12,10
+4721992,2025-12-26,Angola,Zimbabwe,Defence,Interceptions,interceptions,4,6
+4721992,2025-12-26,Angola,Zimbabwe,Defence,Blocks,shot_blocks,5,4
+4721992,2025-12-26,Angola,Zimbabwe,Defence,Clearances,clearances,24,19
+4721992,2025-12-26,Angola,Zimbabwe,Defence,Keeper saves,keeper_saves,3,5
+4721992,2025-12-26,Angola,Zimbabwe,Duels,Duels won,duel_won,62,41
+4721992,2025-12-26,Angola,Zimbabwe,Duels,Ground duels won,ground_duels_won,45 (61%),29 (39%)
+4721992,2025-12-26,Angola,Zimbabwe,Duels,Aerial duels won,aerials_won,17 (59%),12 (41%)
+4721992,2025-12-26,Angola,Zimbabwe,Duels,Successful dribbles,dribbles_succeeded,11 (69%),2 (25%)
+4721992,2025-12-26,Angola,Zimbabwe,Discipline,Yellow cards,yellow_cards,3,4
+4721992,2025-12-26,Angola,Zimbabwe,Discipline,Red cards,red_cards,0,0
+4721992,2025-12-26,Angola,Zimbabwe,Discipline,Fouls committed,fouls,17,24
+4722016,2025-12-28,Gabon,Mozambique,Top stats,Ball possession,BallPossesion,56,44
+4722016,2025-12-28,Gabon,Mozambique,Top stats,Expected goals (xG),expected_goals,2.64,2.64
+4722016,2025-12-28,Gabon,Mozambique,Top stats,Total shots,total_shots,16,13
+4722016,2025-12-28,Gabon,Mozambique,Top stats,Shots on target,ShotsOnTarget,10,5
+4722016,2025-12-28,Gabon,Mozambique,Top stats,Touches in opposition box,touches_opp_box,21,18
+4722016,2025-12-28,Gabon,Mozambique,Top stats,Big chances,big_chance,6,6
+4722016,2025-12-28,Gabon,Mozambique,Top stats,Big chances missed,big_chance_missed_title,4,3
+4722016,2025-12-28,Gabon,Mozambique,Top stats,Accurate passes,accurate_passes,342 (82%),253 (76%)
+4722016,2025-12-28,Gabon,Mozambique,Top stats,Yellow cards,yellow_cards,2,2
+4722016,2025-12-28,Gabon,Mozambique,Top stats,Corners,corners,4,4
+4722016,2025-12-28,Gabon,Mozambique,Shots,Total shots,total_shots,16,13
+4722016,2025-12-28,Gabon,Mozambique,Shots,Shots off target,ShotsOffTarget,4,6
+4722016,2025-12-28,Gabon,Mozambique,Shots,Shots on target,ShotsOnTarget,10,5
+4722016,2025-12-28,Gabon,Mozambique,Shots,Blocked shots,blocked_shots,2,2
+4722016,2025-12-28,Gabon,Mozambique,Shots,Hit woodwork,shots_woodwork,0,1
+4722016,2025-12-28,Gabon,Mozambique,Shots,Shots inside box,shots_inside_box,11,7
+4722016,2025-12-28,Gabon,Mozambique,Shots,Shots outside box,shots_outside_box,5,6
+4722016,2025-12-28,Gabon,Mozambique,Expected goals (xG),Expected goals (xG),expected_goals,2.64,2.64
+4722016,2025-12-28,Gabon,Mozambique,Expected goals (xG),xG open play,expected_goals_open_play,1.90,0.79
+4722016,2025-12-28,Gabon,Mozambique,Expected goals (xG),xG set play,expected_goals_set_play,0.74,1.06
+4722016,2025-12-28,Gabon,Mozambique,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,2.64,1.85
+4722016,2025-12-28,Gabon,Mozambique,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,2.36,2.57
+4722016,2025-12-28,Gabon,Mozambique,Passes,Passes,passes,417,333
+4722016,2025-12-28,Gabon,Mozambique,Passes,Accurate passes,accurate_passes,342 (82%),253 (76%)
+4722016,2025-12-28,Gabon,Mozambique,Passes,Own half,own_half_passes,175,170
+4722016,2025-12-28,Gabon,Mozambique,Passes,Opposition half,opposition_half_passes,167,83
+4722016,2025-12-28,Gabon,Mozambique,Passes,Accurate long balls,long_balls_accurate,22 (49%),19 (37%)
+4722016,2025-12-28,Gabon,Mozambique,Passes,Accurate crosses,accurate_crosses,7 (21%),4 (33%)
+4722016,2025-12-28,Gabon,Mozambique,Passes,Throws,player_throws,19,29
+4722016,2025-12-28,Gabon,Mozambique,Passes,Touches in opposition box,touches_opp_box,21,18
+4722016,2025-12-28,Gabon,Mozambique,Passes,Offsides,Offsides,0,1
+4722016,2025-12-28,Gabon,Mozambique,Defence,Tackles,matchstats.headers.tackles,16,16
+4722016,2025-12-28,Gabon,Mozambique,Defence,Interceptions,interceptions,12,11
+4722016,2025-12-28,Gabon,Mozambique,Defence,Blocks,shot_blocks,1,2
+4722016,2025-12-28,Gabon,Mozambique,Defence,Clearances,clearances,16,27
+4722016,2025-12-28,Gabon,Mozambique,Defence,Keeper saves,keeper_saves,2,8
+4722016,2025-12-28,Gabon,Mozambique,Duels,Duels won,duel_won,42,44
+4722016,2025-12-28,Gabon,Mozambique,Duels,Ground duels won,ground_duels_won,29 (43%),38 (57%)
+4722016,2025-12-28,Gabon,Mozambique,Duels,Aerial duels won,aerials_won,13 (68%),6 (32%)
+4722016,2025-12-28,Gabon,Mozambique,Duels,Successful dribbles,dribbles_succeeded,5 (38%),11 (65%)
+4722016,2025-12-28,Gabon,Mozambique,Discipline,Yellow cards,yellow_cards,2,2
+4722016,2025-12-28,Gabon,Mozambique,Discipline,Red cards,red_cards,0,0
+4722016,2025-12-28,Gabon,Mozambique,Discipline,Fouls committed,fouls,11,9
+4722010,2025-12-28,Equatorial Guinea,Sudan,Top stats,Ball possession,BallPossesion,66,34
+4722010,2025-12-28,Equatorial Guinea,Sudan,Top stats,Expected goals (xG),expected_goals,2.02,0.72
+4722010,2025-12-28,Equatorial Guinea,Sudan,Top stats,Total shots,total_shots,15,13
+4722010,2025-12-28,Equatorial Guinea,Sudan,Top stats,Shots on target,ShotsOnTarget,3,2
+4722010,2025-12-28,Equatorial Guinea,Sudan,Top stats,Touches in opposition box,touches_opp_box,23,15
+4722010,2025-12-28,Equatorial Guinea,Sudan,Top stats,Big chances,big_chance,3,0
+4722010,2025-12-28,Equatorial Guinea,Sudan,Top stats,Big chances missed,big_chance_missed_title,3,0
+4722010,2025-12-28,Equatorial Guinea,Sudan,Top stats,Accurate passes,accurate_passes,382 (83%),153 (68%)
+4722010,2025-12-28,Equatorial Guinea,Sudan,Top stats,Yellow cards,yellow_cards,3,3
+4722010,2025-12-28,Equatorial Guinea,Sudan,Top stats,Corners,corners,3,3
+4722010,2025-12-28,Equatorial Guinea,Sudan,Shots,Total shots,total_shots,15,13
+4722010,2025-12-28,Equatorial Guinea,Sudan,Shots,Shots off target,ShotsOffTarget,8,7
+4722010,2025-12-28,Equatorial Guinea,Sudan,Shots,Shots on target,ShotsOnTarget,3,2
+4722010,2025-12-28,Equatorial Guinea,Sudan,Shots,Blocked shots,blocked_shots,4,4
+4722010,2025-12-28,Equatorial Guinea,Sudan,Shots,Hit woodwork,shots_woodwork,0,0
+4722010,2025-12-28,Equatorial Guinea,Sudan,Shots,Shots inside box,shots_inside_box,11,4
+4722010,2025-12-28,Equatorial Guinea,Sudan,Shots,Shots outside box,shots_outside_box,4,9
+4722010,2025-12-28,Equatorial Guinea,Sudan,Expected goals (xG),Expected goals (xG),expected_goals,2.02,0.72
+4722010,2025-12-28,Equatorial Guinea,Sudan,Expected goals (xG),xG open play,expected_goals_open_play,0.78,0.69
+4722010,2025-12-28,Equatorial Guinea,Sudan,Expected goals (xG),xG set play,expected_goals_set_play,1.23,0.03
+4722010,2025-12-28,Equatorial Guinea,Sudan,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,2.02,0.72
+4722010,2025-12-28,Equatorial Guinea,Sudan,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.75,0.01
+4722010,2025-12-28,Equatorial Guinea,Sudan,Passes,Passes,passes,458,224
+4722010,2025-12-28,Equatorial Guinea,Sudan,Passes,Accurate passes,accurate_passes,382 (83%),153 (68%)
+4722010,2025-12-28,Equatorial Guinea,Sudan,Passes,Own half,own_half_passes,243,73
+4722010,2025-12-28,Equatorial Guinea,Sudan,Passes,Opposition half,opposition_half_passes,139,80
+4722010,2025-12-28,Equatorial Guinea,Sudan,Passes,Accurate long balls,long_balls_accurate,27 (48%),17 (28%)
+4722010,2025-12-28,Equatorial Guinea,Sudan,Passes,Accurate crosses,accurate_crosses,1 (7%),1 (6%)
+4722010,2025-12-28,Equatorial Guinea,Sudan,Passes,Throws,player_throws,22,11
+4722010,2025-12-28,Equatorial Guinea,Sudan,Passes,Touches in opposition box,touches_opp_box,23,15
+4722010,2025-12-28,Equatorial Guinea,Sudan,Passes,Offsides,Offsides,4,2
+4722010,2025-12-28,Equatorial Guinea,Sudan,Defence,Tackles,matchstats.headers.tackles,13,16
+4722010,2025-12-28,Equatorial Guinea,Sudan,Defence,Interceptions,interceptions,3,12
+4722010,2025-12-28,Equatorial Guinea,Sudan,Defence,Blocks,shot_blocks,5,4
+4722010,2025-12-28,Equatorial Guinea,Sudan,Defence,Clearances,clearances,23,23
+4722010,2025-12-28,Equatorial Guinea,Sudan,Defence,Keeper saves,keeper_saves,1,3
+4722010,2025-12-28,Equatorial Guinea,Sudan,Duels,Duels won,duel_won,39,45
+4722010,2025-12-28,Equatorial Guinea,Sudan,Duels,Ground duels won,ground_duels_won,27 (43%),36 (57%)
+4722010,2025-12-28,Equatorial Guinea,Sudan,Duels,Aerial duels won,aerials_won,12 (57%),9 (43%)
+4722010,2025-12-28,Equatorial Guinea,Sudan,Duels,Successful dribbles,dribbles_succeeded,5 (38%),6 (43%)
+4722010,2025-12-28,Equatorial Guinea,Sudan,Discipline,Yellow cards,yellow_cards,3,3
+4722010,2025-12-28,Equatorial Guinea,Sudan,Discipline,Red cards,red_cards,0,0
+4722010,2025-12-28,Equatorial Guinea,Sudan,Discipline,Fouls committed,fouls,14,10
+4722009,2025-12-28,Algeria,Burkina Faso,Top stats,Ball possession,BallPossesion,49,51
+4722009,2025-12-28,Algeria,Burkina Faso,Top stats,Expected goals (xG),expected_goals,2.01,1.02
+4722009,2025-12-28,Algeria,Burkina Faso,Top stats,Total shots,total_shots,10,14
+4722009,2025-12-28,Algeria,Burkina Faso,Top stats,Shots on target,ShotsOnTarget,5,2
+4722009,2025-12-28,Algeria,Burkina Faso,Top stats,Touches in opposition box,touches_opp_box,15,20
+4722009,2025-12-28,Algeria,Burkina Faso,Top stats,Big chances,big_chance,5,3
+4722009,2025-12-28,Algeria,Burkina Faso,Top stats,Big chances missed,big_chance_missed_title,4,3
+4722009,2025-12-28,Algeria,Burkina Faso,Top stats,Accurate passes,accurate_passes,321 (83%),321 (83%)
+4722009,2025-12-28,Algeria,Burkina Faso,Top stats,Yellow cards,yellow_cards,2,3
+4722009,2025-12-28,Algeria,Burkina Faso,Top stats,Corners,corners,2,6
+4722009,2025-12-28,Algeria,Burkina Faso,Shots,Total shots,total_shots,10,14
+4722009,2025-12-28,Algeria,Burkina Faso,Shots,Shots off target,ShotsOffTarget,3,8
+4722009,2025-12-28,Algeria,Burkina Faso,Shots,Shots on target,ShotsOnTarget,5,2
+4722009,2025-12-28,Algeria,Burkina Faso,Shots,Blocked shots,blocked_shots,2,4
+4722009,2025-12-28,Algeria,Burkina Faso,Shots,Hit woodwork,shots_woodwork,0,1
+4722009,2025-12-28,Algeria,Burkina Faso,Shots,Shots inside box,shots_inside_box,8,8
+4722009,2025-12-28,Algeria,Burkina Faso,Shots,Shots outside box,shots_outside_box,2,6
+4722009,2025-12-28,Algeria,Burkina Faso,Expected goals (xG),Expected goals (xG),expected_goals,2.01,1.02
+4722009,2025-12-28,Algeria,Burkina Faso,Expected goals (xG),xG open play,expected_goals_open_play,1.17,0.21
+4722009,2025-12-28,Algeria,Burkina Faso,Expected goals (xG),xG set play,expected_goals_set_play,0.04,0.81
+4722009,2025-12-28,Algeria,Burkina Faso,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.22,1.02
+4722009,2025-12-28,Algeria,Burkina Faso,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.62,0.77
+4722009,2025-12-28,Algeria,Burkina Faso,Passes,Passes,passes,385,385
+4722009,2025-12-28,Algeria,Burkina Faso,Passes,Accurate passes,accurate_passes,321 (83%),321 (83%)
+4722009,2025-12-28,Algeria,Burkina Faso,Passes,Own half,own_half_passes,192,143
+4722009,2025-12-28,Algeria,Burkina Faso,Passes,Opposition half,opposition_half_passes,129,178
+4722009,2025-12-28,Algeria,Burkina Faso,Passes,Accurate long balls,long_balls_accurate,22 (45%),14 (39%)
+4722009,2025-12-28,Algeria,Burkina Faso,Passes,Accurate crosses,accurate_crosses,1 (13%),5 (24%)
+4722009,2025-12-28,Algeria,Burkina Faso,Passes,Throws,player_throws,9,17
+4722009,2025-12-28,Algeria,Burkina Faso,Passes,Touches in opposition box,touches_opp_box,15,20
+4722009,2025-12-28,Algeria,Burkina Faso,Passes,Offsides,Offsides,1,0
+4722009,2025-12-28,Algeria,Burkina Faso,Defence,Tackles,matchstats.headers.tackles,15,19
+4722009,2025-12-28,Algeria,Burkina Faso,Defence,Interceptions,interceptions,12,7
+4722009,2025-12-28,Algeria,Burkina Faso,Defence,Blocks,shot_blocks,4,2
+4722009,2025-12-28,Algeria,Burkina Faso,Defence,Clearances,clearances,25,7
+4722009,2025-12-28,Algeria,Burkina Faso,Defence,Keeper saves,keeper_saves,2,4
+4722009,2025-12-28,Algeria,Burkina Faso,Duels,Duels won,duel_won,46,69
+4722009,2025-12-28,Algeria,Burkina Faso,Duels,Ground duels won,ground_duels_won,39 (43%),52 (57%)
+4722009,2025-12-28,Algeria,Burkina Faso,Duels,Aerial duels won,aerials_won,7 (29%),17 (71%)
+4722009,2025-12-28,Algeria,Burkina Faso,Duels,Successful dribbles,dribbles_succeeded,5 (31%),9 (47%)
+4722009,2025-12-28,Algeria,Burkina Faso,Discipline,Yellow cards,yellow_cards,2,3
+4722009,2025-12-28,Algeria,Burkina Faso,Discipline,Red cards,red_cards,0,0
+4722009,2025-12-28,Algeria,Burkina Faso,Discipline,Fouls committed,fouls,24,19
+4721993,2025-12-29,Angola,Egypt,Top stats,Ball possession,BallPossesion,66,34
+4721993,2025-12-29,Angola,Egypt,Top stats,Total shots,total_shots,15,10
+4721993,2025-12-29,Angola,Egypt,Top stats,Shots on target,ShotsOnTarget,2,2
+4721993,2025-12-29,Angola,Egypt,Top stats,Touches in opposition box,touches_opp_box,27,14
+4721993,2025-12-29,Angola,Egypt,Top stats,Big chances,big_chance,0,0
+4721993,2025-12-29,Angola,Egypt,Top stats,Big chances missed,big_chance_missed_title,0,0
+4721993,2025-12-29,Angola,Egypt,Top stats,Accurate passes,accurate_passes,478 (86%),218 (77%)
+4721993,2025-12-29,Angola,Egypt,Top stats,Yellow cards,yellow_cards,0,2
+4721993,2025-12-29,Angola,Egypt,Top stats,Corners,corners,10,3
+4721993,2025-12-29,Angola,Egypt,Shots,Total shots,total_shots,15,10
+4721993,2025-12-29,Angola,Egypt,Shots,Shots off target,ShotsOffTarget,8,5
+4721993,2025-12-29,Angola,Egypt,Shots,Shots on target,ShotsOnTarget,2,2
+4721993,2025-12-29,Angola,Egypt,Shots,Blocked shots,blocked_shots,5,3
+4721993,2025-12-29,Angola,Egypt,Shots,Hit woodwork,shots_woodwork,0,0
+4721993,2025-12-29,Angola,Egypt,Shots,Shots inside box,shots_inside_box,8,4
+4721993,2025-12-29,Angola,Egypt,Shots,Shots outside box,shots_outside_box,7,6
+4721993,2025-12-29,Angola,Egypt,Passes,Passes,passes,557,284
+4721993,2025-12-29,Angola,Egypt,Passes,Accurate passes,accurate_passes,478 (86%),218 (77%)
+4721993,2025-12-29,Angola,Egypt,Passes,Own half,own_half_passes,241,115
+4721993,2025-12-29,Angola,Egypt,Passes,Opposition half,opposition_half_passes,237,103
+4721993,2025-12-29,Angola,Egypt,Passes,Accurate long balls,long_balls_accurate,31 (63%),20 (42%)
+4721993,2025-12-29,Angola,Egypt,Passes,Accurate crosses,accurate_crosses,7 (33%),0 (0%)
+4721993,2025-12-29,Angola,Egypt,Passes,Throws,player_throws,24,18
+4721993,2025-12-29,Angola,Egypt,Passes,Touches in opposition box,touches_opp_box,27,14
+4721993,2025-12-29,Angola,Egypt,Passes,Offsides,Offsides,2,1
+4721993,2025-12-29,Angola,Egypt,Defence,Tackles,matchstats.headers.tackles,21,13
+4721993,2025-12-29,Angola,Egypt,Defence,Interceptions,interceptions,11,13
+4721993,2025-12-29,Angola,Egypt,Defence,Blocks,shot_blocks,3,5
+4721993,2025-12-29,Angola,Egypt,Defence,Clearances,clearances,19,27
+4721993,2025-12-29,Angola,Egypt,Defence,Keeper saves,keeper_saves,2,2
+4721993,2025-12-29,Angola,Egypt,Duels,Duels won,duel_won,69,55
+4721993,2025-12-29,Angola,Egypt,Duels,Ground duels won,ground_duels_won,56 (59%),39 (41%)
+4721993,2025-12-29,Angola,Egypt,Duels,Aerial duels won,aerials_won,13 (45%),16 (55%)
+4721993,2025-12-29,Angola,Egypt,Duels,Successful dribbles,dribbles_succeeded,12 (60%),10 (43%)
+4721993,2025-12-29,Angola,Egypt,Discipline,Yellow cards,yellow_cards,0,2
+4721993,2025-12-29,Angola,Egypt,Discipline,Red cards,red_cards,0,0
+4721993,2025-12-29,Angola,Egypt,Discipline,Fouls committed,fouls,17,24
+4721988,2025-12-29,Comoros,Mali,Top stats,Ball possession,BallPossesion,32,68
+4721988,2025-12-29,Comoros,Mali,Top stats,Expected goals (xG),expected_goals,0.12,0.95
+4721988,2025-12-29,Comoros,Mali,Top stats,Total shots,total_shots,5,13
+4721988,2025-12-29,Comoros,Mali,Top stats,Shots on target,ShotsOnTarget,1,2
+4721988,2025-12-29,Comoros,Mali,Top stats,Touches in opposition box,touches_opp_box,9,14
+4721988,2025-12-29,Comoros,Mali,Top stats,Big chances,big_chance,0,1
+4721988,2025-12-29,Comoros,Mali,Top stats,Big chances missed,big_chance_missed_title,0,1
+4721988,2025-12-29,Comoros,Mali,Top stats,Accurate passes,accurate_passes,226 (74%),572 (88%)
+4721988,2025-12-29,Comoros,Mali,Top stats,Yellow cards,yellow_cards,3,1
+4721988,2025-12-29,Comoros,Mali,Top stats,Corners,corners,5,2
+4721988,2025-12-29,Comoros,Mali,Shots,Total shots,total_shots,5,13
+4721988,2025-12-29,Comoros,Mali,Shots,Shots off target,ShotsOffTarget,3,8
+4721988,2025-12-29,Comoros,Mali,Shots,Shots on target,ShotsOnTarget,1,2
+4721988,2025-12-29,Comoros,Mali,Shots,Blocked shots,blocked_shots,1,3
+4721988,2025-12-29,Comoros,Mali,Shots,Hit woodwork,shots_woodwork,0,0
+4721988,2025-12-29,Comoros,Mali,Shots,Shots inside box,shots_inside_box,3,3
+4721988,2025-12-29,Comoros,Mali,Shots,Shots outside box,shots_outside_box,2,10
+4721988,2025-12-29,Comoros,Mali,Expected goals (xG),Expected goals (xG),expected_goals,0.12,0.95
+4721988,2025-12-29,Comoros,Mali,Expected goals (xG),xG open play,expected_goals_open_play,0.08,0.93
+4721988,2025-12-29,Comoros,Mali,Expected goals (xG),xG set play,expected_goals_set_play,0.04,0.02
+4721988,2025-12-29,Comoros,Mali,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.12,0.95
+4721988,2025-12-29,Comoros,Mali,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.11,0.47
+4721988,2025-12-29,Comoros,Mali,Passes,Passes,passes,305,653
+4721988,2025-12-29,Comoros,Mali,Passes,Accurate passes,accurate_passes,226 (74%),572 (88%)
+4721988,2025-12-29,Comoros,Mali,Passes,Own half,own_half_passes,147,262
+4721988,2025-12-29,Comoros,Mali,Passes,Opposition half,opposition_half_passes,79,310
+4721988,2025-12-29,Comoros,Mali,Passes,Accurate long balls,long_balls_accurate,22 (35%),28 (57%)
+4721988,2025-12-29,Comoros,Mali,Passes,Accurate crosses,accurate_crosses,1 (11%),3 (25%)
+4721988,2025-12-29,Comoros,Mali,Passes,Throws,player_throws,24,21
+4721988,2025-12-29,Comoros,Mali,Passes,Touches in opposition box,touches_opp_box,9,14
+4721988,2025-12-29,Comoros,Mali,Passes,Offsides,Offsides,3,2
+4721988,2025-12-29,Comoros,Mali,Defence,Tackles,matchstats.headers.tackles,10,18
+4721988,2025-12-29,Comoros,Mali,Defence,Interceptions,interceptions,10,12
+4721988,2025-12-29,Comoros,Mali,Defence,Blocks,shot_blocks,3,1
+4721988,2025-12-29,Comoros,Mali,Defence,Clearances,clearances,24,15
+4721988,2025-12-29,Comoros,Mali,Defence,Keeper saves,keeper_saves,2,1
+4721988,2025-12-29,Comoros,Mali,Duels,Duels won,duel_won,28,64
+4721988,2025-12-29,Comoros,Mali,Duels,Ground duels won,ground_duels_won,20 (30%),47 (70%)
+4721988,2025-12-29,Comoros,Mali,Duels,Aerial duels won,aerials_won,8 (32%),17 (68%)
+4721988,2025-12-29,Comoros,Mali,Duels,Successful dribbles,dribbles_succeeded,2 (15%),8 (53%)
+4721988,2025-12-29,Comoros,Mali,Discipline,Yellow cards,yellow_cards,3,1
+4721988,2025-12-29,Comoros,Mali,Discipline,Red cards,red_cards,0,1
+4721988,2025-12-29,Comoros,Mali,Discipline,Fouls committed,fouls,22,8
+4721987,2025-12-29,Zambia,Morocco,Top stats,Ball possession,BallPossesion,43,57
+4721987,2025-12-29,Zambia,Morocco,Top stats,Expected goals (xG),expected_goals,0.23,1.96
+4721987,2025-12-29,Zambia,Morocco,Top stats,Total shots,total_shots,5,19
+4721987,2025-12-29,Zambia,Morocco,Top stats,Shots on target,ShotsOnTarget,0,9
+4721987,2025-12-29,Zambia,Morocco,Top stats,Touches in opposition box,touches_opp_box,6,33
+4721987,2025-12-29,Zambia,Morocco,Top stats,Big chances,big_chance,0,5
+4721987,2025-12-29,Zambia,Morocco,Top stats,Big chances missed,big_chance_missed_title,0,3
+4721987,2025-12-29,Zambia,Morocco,Top stats,Accurate passes,accurate_passes,296 (84%),417 (90%)
+4721987,2025-12-29,Zambia,Morocco,Top stats,Yellow cards,yellow_cards,4,1
+4721987,2025-12-29,Zambia,Morocco,Top stats,Corners,corners,1,5
+4721987,2025-12-29,Zambia,Morocco,Shots,Total shots,total_shots,5,19
+4721987,2025-12-29,Zambia,Morocco,Shots,Shots off target,ShotsOffTarget,4,7
+4721987,2025-12-29,Zambia,Morocco,Shots,Shots on target,ShotsOnTarget,0,9
+4721987,2025-12-29,Zambia,Morocco,Shots,Blocked shots,blocked_shots,1,3
+4721987,2025-12-29,Zambia,Morocco,Shots,Hit woodwork,shots_woodwork,0,0
+4721987,2025-12-29,Zambia,Morocco,Shots,Shots inside box,shots_inside_box,2,13
+4721987,2025-12-29,Zambia,Morocco,Shots,Shots outside box,shots_outside_box,3,6
+4721987,2025-12-29,Zambia,Morocco,Expected goals (xG),Expected goals (xG),expected_goals,0.23,1.96
+4721987,2025-12-29,Zambia,Morocco,Expected goals (xG),xG open play,expected_goals_open_play,0.21,1.28
+4721987,2025-12-29,Zambia,Morocco,Expected goals (xG),xG set play,expected_goals_set_play,0.03,0.68
+4721987,2025-12-29,Zambia,Morocco,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.23,1.96
+4721987,2025-12-29,Zambia,Morocco,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.00,3.75
+4721987,2025-12-29,Zambia,Morocco,Passes,Passes,passes,352,465
+4721987,2025-12-29,Zambia,Morocco,Passes,Accurate passes,accurate_passes,296 (84%),417 (90%)
+4721987,2025-12-29,Zambia,Morocco,Passes,Own half,own_half_passes,221,214
+4721987,2025-12-29,Zambia,Morocco,Passes,Opposition half,opposition_half_passes,75,203
+4721987,2025-12-29,Zambia,Morocco,Passes,Accurate long balls,long_balls_accurate,21 (45%),22 (61%)
+4721987,2025-12-29,Zambia,Morocco,Passes,Accurate crosses,accurate_crosses,1 (14%),3 (25%)
+4721987,2025-12-29,Zambia,Morocco,Passes,Throws,player_throws,15,24
+4721987,2025-12-29,Zambia,Morocco,Passes,Touches in opposition box,touches_opp_box,6,33
+4721987,2025-12-29,Zambia,Morocco,Passes,Offsides,Offsides,2,4
+4721987,2025-12-29,Zambia,Morocco,Defence,Tackles,matchstats.headers.tackles,19,15
+4721987,2025-12-29,Zambia,Morocco,Defence,Interceptions,interceptions,10,7
+4721987,2025-12-29,Zambia,Morocco,Defence,Blocks,shot_blocks,3,1
+4721987,2025-12-29,Zambia,Morocco,Defence,Clearances,clearances,29,14
+4721987,2025-12-29,Zambia,Morocco,Defence,Keeper saves,keeper_saves,6,0
+4721987,2025-12-29,Zambia,Morocco,Duels,Duels won,duel_won,45,57
+4721987,2025-12-29,Zambia,Morocco,Duels,Ground duels won,ground_duels_won,37 (45%),46 (55%)
+4721987,2025-12-29,Zambia,Morocco,Duels,Aerial duels won,aerials_won,8 (42%),11 (58%)
+4721987,2025-12-29,Zambia,Morocco,Duels,Successful dribbles,dribbles_succeeded,6 (46%),11 (50%)
+4721987,2025-12-29,Zambia,Morocco,Discipline,Yellow cards,yellow_cards,4,1
+4721987,2025-12-29,Zambia,Morocco,Discipline,Red cards,red_cards,1,0
+4721987,2025-12-29,Zambia,Morocco,Discipline,Fouls committed,fouls,23,12
+4722000,2025-12-30,Tanzania,Tunisia,Top stats,Ball possession,BallPossesion,36,64
+4722000,2025-12-30,Tanzania,Tunisia,Top stats,Expected goals (xG),expected_goals,0.18,1.00
+4722000,2025-12-30,Tanzania,Tunisia,Top stats,Total shots,total_shots,6,6
+4722000,2025-12-30,Tanzania,Tunisia,Top stats,Shots on target,ShotsOnTarget,2,2
+4722000,2025-12-30,Tanzania,Tunisia,Top stats,Touches in opposition box,touches_opp_box,3,16
+4722000,2025-12-30,Tanzania,Tunisia,Top stats,Big chances,big_chance,0,1
+4722000,2025-12-30,Tanzania,Tunisia,Top stats,Big chances missed,big_chance_missed_title,0,0
+4722000,2025-12-30,Tanzania,Tunisia,Top stats,Accurate passes,accurate_passes,206 (71%),427 (84%)
+4722000,2025-12-30,Tanzania,Tunisia,Top stats,Yellow cards,yellow_cards,3,1
+4722000,2025-12-30,Tanzania,Tunisia,Top stats,Corners,corners,2,2
+4722000,2025-12-30,Tanzania,Tunisia,Shots,Total shots,total_shots,6,6
+4722000,2025-12-30,Tanzania,Tunisia,Shots,Shots off target,ShotsOffTarget,4,3
+4722000,2025-12-30,Tanzania,Tunisia,Shots,Shots on target,ShotsOnTarget,2,2
+4722000,2025-12-30,Tanzania,Tunisia,Shots,Blocked shots,blocked_shots,0,1
+4722000,2025-12-30,Tanzania,Tunisia,Shots,Hit woodwork,shots_woodwork,0,1
+4722000,2025-12-30,Tanzania,Tunisia,Shots,Shots inside box,shots_inside_box,3,4
+4722000,2025-12-30,Tanzania,Tunisia,Shots,Shots outside box,shots_outside_box,3,2
+4722000,2025-12-30,Tanzania,Tunisia,Expected goals (xG),Expected goals (xG),expected_goals,0.18,1.00
+4722000,2025-12-30,Tanzania,Tunisia,Expected goals (xG),xG open play,expected_goals_open_play,0.10,0.13
+4722000,2025-12-30,Tanzania,Tunisia,Expected goals (xG),xG set play,expected_goals_set_play,0.08,0.08
+4722000,2025-12-30,Tanzania,Tunisia,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.18,0.21
+4722000,2025-12-30,Tanzania,Tunisia,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.19,1.17
+4722000,2025-12-30,Tanzania,Tunisia,Passes,Passes,passes,290,511
+4722000,2025-12-30,Tanzania,Tunisia,Passes,Accurate passes,accurate_passes,206 (71%),427 (84%)
+4722000,2025-12-30,Tanzania,Tunisia,Passes,Own half,own_half_passes,118,239
+4722000,2025-12-30,Tanzania,Tunisia,Passes,Opposition half,opposition_half_passes,88,188
+4722000,2025-12-30,Tanzania,Tunisia,Passes,Accurate long balls,long_balls_accurate,22 (35%),19 (46%)
+4722000,2025-12-30,Tanzania,Tunisia,Passes,Accurate crosses,accurate_crosses,2 (33%),5 (33%)
+4722000,2025-12-30,Tanzania,Tunisia,Passes,Throws,player_throws,23,27
+4722000,2025-12-30,Tanzania,Tunisia,Passes,Touches in opposition box,touches_opp_box,3,16
+4722000,2025-12-30,Tanzania,Tunisia,Passes,Offsides,Offsides,1,0
+4722000,2025-12-30,Tanzania,Tunisia,Defence,Tackles,matchstats.headers.tackles,20,18
+4722000,2025-12-30,Tanzania,Tunisia,Defence,Interceptions,interceptions,9,5
+4722000,2025-12-30,Tanzania,Tunisia,Defence,Blocks,shot_blocks,1,0
+4722000,2025-12-30,Tanzania,Tunisia,Defence,Clearances,clearances,25,16
+4722000,2025-12-30,Tanzania,Tunisia,Defence,Keeper saves,keeper_saves,1,1
+4722000,2025-12-30,Tanzania,Tunisia,Duels,Duels won,duel_won,47,61
+4722000,2025-12-30,Tanzania,Tunisia,Duels,Ground duels won,ground_duels_won,35 (49%),36 (51%)
+4722000,2025-12-30,Tanzania,Tunisia,Duels,Aerial duels won,aerials_won,12 (32%),25 (68%)
+4722000,2025-12-30,Tanzania,Tunisia,Duels,Successful dribbles,dribbles_succeeded,3 (20%),10 (38%)
+4722000,2025-12-30,Tanzania,Tunisia,Discipline,Yellow cards,yellow_cards,3,1
+4722000,2025-12-30,Tanzania,Tunisia,Discipline,Red cards,red_cards,0,0
+4722000,2025-12-30,Tanzania,Tunisia,Discipline,Fouls committed,fouls,9,14
+4721999,2025-12-30,Uganda,Nigeria,Top stats,Ball possession,BallPossesion,28,72
+4721999,2025-12-30,Uganda,Nigeria,Top stats,Expected goals (xG),expected_goals,0.71,2.87
+4721999,2025-12-30,Uganda,Nigeria,Top stats,Total shots,total_shots,9,13
+4721999,2025-12-30,Uganda,Nigeria,Top stats,Shots on target,ShotsOnTarget,1,6
+4721999,2025-12-30,Uganda,Nigeria,Top stats,Touches in opposition box,touches_opp_box,11,30
+4721999,2025-12-30,Uganda,Nigeria,Top stats,Big chances,big_chance,1,6
+4721999,2025-12-30,Uganda,Nigeria,Top stats,Big chances missed,big_chance_missed_title,0,4
+4721999,2025-12-30,Uganda,Nigeria,Top stats,Accurate passes,accurate_passes,160 (73%),528 (92%)
+4721999,2025-12-30,Uganda,Nigeria,Top stats,Yellow cards,yellow_cards,1,2
+4721999,2025-12-30,Uganda,Nigeria,Top stats,Corners,corners,2,3
+4721999,2025-12-30,Uganda,Nigeria,Shots,Total shots,total_shots,9,13
+4721999,2025-12-30,Uganda,Nigeria,Shots,Shots off target,ShotsOffTarget,7,5
+4721999,2025-12-30,Uganda,Nigeria,Shots,Shots on target,ShotsOnTarget,1,6
+4721999,2025-12-30,Uganda,Nigeria,Shots,Blocked shots,blocked_shots,1,2
+4721999,2025-12-30,Uganda,Nigeria,Shots,Hit woodwork,shots_woodwork,0,0
+4721999,2025-12-30,Uganda,Nigeria,Shots,Shots inside box,shots_inside_box,4,9
+4721999,2025-12-30,Uganda,Nigeria,Shots,Shots outside box,shots_outside_box,5,4
+4721999,2025-12-30,Uganda,Nigeria,Expected goals (xG),Expected goals (xG),expected_goals,0.71,2.87
+4721999,2025-12-30,Uganda,Nigeria,Expected goals (xG),xG open play,expected_goals_open_play,0.54,2.31
+4721999,2025-12-30,Uganda,Nigeria,Expected goals (xG),xG set play,expected_goals_set_play,0.17,0.57
+4721999,2025-12-30,Uganda,Nigeria,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.71,2.87
+4721999,2025-12-30,Uganda,Nigeria,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.85,2.17
+4721999,2025-12-30,Uganda,Nigeria,Passes,Passes,passes,220,576
+4721999,2025-12-30,Uganda,Nigeria,Passes,Accurate passes,accurate_passes,160 (73%),528 (92%)
+4721999,2025-12-30,Uganda,Nigeria,Passes,Own half,own_half_passes,87,290
+4721999,2025-12-30,Uganda,Nigeria,Passes,Opposition half,opposition_half_passes,73,238
+4721999,2025-12-30,Uganda,Nigeria,Passes,Accurate long balls,long_balls_accurate,18 (39%),45 (71%)
+4721999,2025-12-30,Uganda,Nigeria,Passes,Accurate crosses,accurate_crosses,3 (30%),4 (21%)
+4721999,2025-12-30,Uganda,Nigeria,Passes,Throws,player_throws,15,17
+4721999,2025-12-30,Uganda,Nigeria,Passes,Touches in opposition box,touches_opp_box,11,30
+4721999,2025-12-30,Uganda,Nigeria,Passes,Offsides,Offsides,2,3
+4721999,2025-12-30,Uganda,Nigeria,Defence,Tackles,matchstats.headers.tackles,10,9
+4721999,2025-12-30,Uganda,Nigeria,Defence,Interceptions,interceptions,4,5
+4721999,2025-12-30,Uganda,Nigeria,Defence,Blocks,shot_blocks,2,1
+4721999,2025-12-30,Uganda,Nigeria,Defence,Clearances,clearances,22,17
+4721999,2025-12-30,Uganda,Nigeria,Defence,Keeper saves,keeper_saves,3,0
+4721999,2025-12-30,Uganda,Nigeria,Duels,Duels won,duel_won,42,35
+4721999,2025-12-30,Uganda,Nigeria,Duels,Ground duels won,ground_duels_won,29 (53%),26 (47%)
+4721999,2025-12-30,Uganda,Nigeria,Duels,Aerial duels won,aerials_won,13 (59%),9 (41%)
+4721999,2025-12-30,Uganda,Nigeria,Duels,Successful dribbles,dribbles_succeeded,5 (56%),12 (67%)
+4721999,2025-12-30,Uganda,Nigeria,Discipline,Yellow cards,yellow_cards,1,2
+4721999,2025-12-30,Uganda,Nigeria,Discipline,Red cards,red_cards,1,0
+4721999,2025-12-30,Uganda,Nigeria,Discipline,Fouls committed,fouls,6,14
+4722003,2025-12-27,Senegal,DR Congo,Top stats,Ball possession,BallPossesion,64,36
+4722003,2025-12-27,Senegal,DR Congo,Top stats,Expected goals (xG),expected_goals,2.01,0.95
+4722003,2025-12-27,Senegal,DR Congo,Top stats,Total shots,total_shots,11,7
+4722003,2025-12-27,Senegal,DR Congo,Top stats,Shots on target,ShotsOnTarget,3,3
+4722003,2025-12-27,Senegal,DR Congo,Top stats,Touches in opposition box,touches_opp_box,27,10
+4722003,2025-12-27,Senegal,DR Congo,Top stats,Big chances,big_chance,3,1
+4722003,2025-12-27,Senegal,DR Congo,Top stats,Big chances missed,big_chance_missed_title,2,0
+4722003,2025-12-27,Senegal,DR Congo,Top stats,Accurate passes,accurate_passes,439 (87%),218 (78%)
+4722003,2025-12-27,Senegal,DR Congo,Top stats,Yellow cards,yellow_cards,1,0
+4722003,2025-12-27,Senegal,DR Congo,Top stats,Corners,corners,5,2
+4722003,2025-12-27,Senegal,DR Congo,Shots,Total shots,total_shots,11,7
+4722003,2025-12-27,Senegal,DR Congo,Shots,Shots off target,ShotsOffTarget,6,3
+4722003,2025-12-27,Senegal,DR Congo,Shots,Shots on target,ShotsOnTarget,3,3
+4722003,2025-12-27,Senegal,DR Congo,Shots,Blocked shots,blocked_shots,2,1
+4722003,2025-12-27,Senegal,DR Congo,Shots,Hit woodwork,shots_woodwork,0,0
+4722003,2025-12-27,Senegal,DR Congo,Shots,Shots inside box,shots_inside_box,7,5
+4722003,2025-12-27,Senegal,DR Congo,Shots,Shots outside box,shots_outside_box,4,2
+4722003,2025-12-27,Senegal,DR Congo,Expected goals (xG),Expected goals (xG),expected_goals,2.01,0.95
+4722003,2025-12-27,Senegal,DR Congo,Expected goals (xG),xG open play,expected_goals_open_play,1.32,0.89
+4722003,2025-12-27,Senegal,DR Congo,Expected goals (xG),xG set play,expected_goals_set_play,0.68,0.06
+4722003,2025-12-27,Senegal,DR Congo,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,2.01,0.95
+4722003,2025-12-27,Senegal,DR Congo,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.53,1.50
+4722003,2025-12-27,Senegal,DR Congo,Passes,Passes,passes,506,281
+4722003,2025-12-27,Senegal,DR Congo,Passes,Accurate passes,accurate_passes,439 (87%),218 (78%)
+4722003,2025-12-27,Senegal,DR Congo,Passes,Own half,own_half_passes,196,142
+4722003,2025-12-27,Senegal,DR Congo,Passes,Opposition half,opposition_half_passes,243,76
+4722003,2025-12-27,Senegal,DR Congo,Passes,Accurate long balls,long_balls_accurate,29 (62%),15 (29%)
+4722003,2025-12-27,Senegal,DR Congo,Passes,Accurate crosses,accurate_crosses,2 (10%),4 (31%)
+4722003,2025-12-27,Senegal,DR Congo,Passes,Throws,player_throws,21,11
+4722003,2025-12-27,Senegal,DR Congo,Passes,Touches in opposition box,touches_opp_box,27,10
+4722003,2025-12-27,Senegal,DR Congo,Passes,Offsides,Offsides,2,1
+4722003,2025-12-27,Senegal,DR Congo,Defence,Tackles,matchstats.headers.tackles,14,17
+4722003,2025-12-27,Senegal,DR Congo,Defence,Interceptions,interceptions,7,8
+4722003,2025-12-27,Senegal,DR Congo,Defence,Blocks,shot_blocks,1,1
+4722003,2025-12-27,Senegal,DR Congo,Defence,Clearances,clearances,14,34
+4722003,2025-12-27,Senegal,DR Congo,Defence,Keeper saves,keeper_saves,2,2
+4722003,2025-12-27,Senegal,DR Congo,Duels,Duels won,duel_won,46,50
+4722003,2025-12-27,Senegal,DR Congo,Duels,Ground duels won,ground_duels_won,34 (49%),35 (51%)
+4722003,2025-12-27,Senegal,DR Congo,Duels,Aerial duels won,aerials_won,12 (44%),15 (56%)
+4722003,2025-12-27,Senegal,DR Congo,Duels,Successful dribbles,dribbles_succeeded,9 (45%),5 (42%)
+4722003,2025-12-27,Senegal,DR Congo,Discipline,Yellow cards,yellow_cards,1,0
+4722003,2025-12-27,Senegal,DR Congo,Discipline,Red cards,red_cards,0,0
+4722003,2025-12-27,Senegal,DR Congo,Discipline,Fouls committed,fouls,18,12
+4722005,2025-12-30,Benin,Senegal,Top stats,Ball possession,BallPossesion,49,51
+4722005,2025-12-30,Benin,Senegal,Top stats,Expected goals (xG),expected_goals,0.76,1.94
+4722005,2025-12-30,Benin,Senegal,Top stats,Total shots,total_shots,7,10
+4722005,2025-12-30,Benin,Senegal,Top stats,Shots on target,ShotsOnTarget,4,6
+4722005,2025-12-30,Benin,Senegal,Top stats,Touches in opposition box,touches_opp_box,12,17
+4722005,2025-12-30,Benin,Senegal,Top stats,Big chances,big_chance,1,4
+4722005,2025-12-30,Benin,Senegal,Top stats,Big chances missed,big_chance_missed_title,1,2
+4722005,2025-12-30,Benin,Senegal,Top stats,Accurate passes,accurate_passes,328 (82%),351 (85%)
+4722005,2025-12-30,Benin,Senegal,Top stats,Yellow cards,yellow_cards,4,1
+4722005,2025-12-30,Benin,Senegal,Top stats,Corners,corners,4,4
+4722005,2025-12-30,Benin,Senegal,Shots,Total shots,total_shots,7,10
+4722005,2025-12-30,Benin,Senegal,Shots,Shots off target,ShotsOffTarget,3,4
+4722005,2025-12-30,Benin,Senegal,Shots,Shots on target,ShotsOnTarget,4,6
+4722005,2025-12-30,Benin,Senegal,Shots,Blocked shots,blocked_shots,0,0
+4722005,2025-12-30,Benin,Senegal,Shots,Hit woodwork,shots_woodwork,0,0
+4722005,2025-12-30,Benin,Senegal,Shots,Shots inside box,shots_inside_box,4,7
+4722005,2025-12-30,Benin,Senegal,Shots,Shots outside box,shots_outside_box,3,3
+4722005,2025-12-30,Benin,Senegal,Expected goals (xG),Expected goals (xG),expected_goals,0.76,1.94
+4722005,2025-12-30,Benin,Senegal,Expected goals (xG),xG open play,expected_goals_open_play,0.39,0.98
+4722005,2025-12-30,Benin,Senegal,Expected goals (xG),xG set play,expected_goals_set_play,0.37,0.17
+4722005,2025-12-30,Benin,Senegal,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.76,1.15
+4722005,2025-12-30,Benin,Senegal,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.62,2.93
+4722005,2025-12-30,Benin,Senegal,Passes,Passes,passes,398,414
+4722005,2025-12-30,Benin,Senegal,Passes,Accurate passes,accurate_passes,328 (82%),351 (85%)
+4722005,2025-12-30,Benin,Senegal,Passes,Own half,own_half_passes,238,194
+4722005,2025-12-30,Benin,Senegal,Passes,Opposition half,opposition_half_passes,90,157
+4722005,2025-12-30,Benin,Senegal,Passes,Accurate long balls,long_balls_accurate,20 (38%),20 (48%)
+4722005,2025-12-30,Benin,Senegal,Passes,Accurate crosses,accurate_crosses,1 (8%),4 (31%)
+4722005,2025-12-30,Benin,Senegal,Passes,Throws,player_throws,19,13
+4722005,2025-12-30,Benin,Senegal,Passes,Touches in opposition box,touches_opp_box,12,17
+4722005,2025-12-30,Benin,Senegal,Passes,Offsides,Offsides,0,0
+4722005,2025-12-30,Benin,Senegal,Defence,Tackles,matchstats.headers.tackles,14,14
+4722005,2025-12-30,Benin,Senegal,Defence,Interceptions,interceptions,12,10
+4722005,2025-12-30,Benin,Senegal,Defence,Blocks,shot_blocks,0,0
+4722005,2025-12-30,Benin,Senegal,Defence,Clearances,clearances,19,24
+4722005,2025-12-30,Benin,Senegal,Defence,Keeper saves,keeper_saves,3,4
+4722005,2025-12-30,Benin,Senegal,Duels,Duels won,duel_won,44,59
+4722005,2025-12-30,Benin,Senegal,Duels,Ground duels won,ground_duels_won,35 (46%),41 (54%)
+4722005,2025-12-30,Benin,Senegal,Duels,Aerial duels won,aerials_won,9 (33%),18 (67%)
+4722005,2025-12-30,Benin,Senegal,Duels,Successful dribbles,dribbles_succeeded,3 (38%),8 (62%)
+4722005,2025-12-30,Benin,Senegal,Discipline,Yellow cards,yellow_cards,4,1
+4722005,2025-12-30,Benin,Senegal,Discipline,Red cards,red_cards,0,1
+4722005,2025-12-30,Benin,Senegal,Discipline,Fouls committed,fouls,20,19
+4722006,2025-12-30,Botswana,DR Congo,Top stats,Ball possession,BallPossesion,45,55
+4722006,2025-12-30,Botswana,DR Congo,Top stats,Expected goals (xG),expected_goals,0.27,4.02
+4722006,2025-12-30,Botswana,DR Congo,Top stats,Total shots,total_shots,6,28
+4722006,2025-12-30,Botswana,DR Congo,Top stats,Shots on target,ShotsOnTarget,1,6
+4722006,2025-12-30,Botswana,DR Congo,Top stats,Touches in opposition box,touches_opp_box,7,47
+4722006,2025-12-30,Botswana,DR Congo,Top stats,Big chances,big_chance,0,5
+4722006,2025-12-30,Botswana,DR Congo,Top stats,Big chances missed,big_chance_missed_title,0,2
+4722006,2025-12-30,Botswana,DR Congo,Top stats,Accurate passes,accurate_passes,389 (86%),482 (90%)
+4722006,2025-12-30,Botswana,DR Congo,Top stats,Yellow cards,yellow_cards,0,0
+4722006,2025-12-30,Botswana,DR Congo,Top stats,Corners,corners,0,3
+4722006,2025-12-30,Botswana,DR Congo,Shots,Total shots,total_shots,6,28
+4722006,2025-12-30,Botswana,DR Congo,Shots,Shots off target,ShotsOffTarget,4,19
+4722006,2025-12-30,Botswana,DR Congo,Shots,Shots on target,ShotsOnTarget,1,6
+4722006,2025-12-30,Botswana,DR Congo,Shots,Blocked shots,blocked_shots,1,3
+4722006,2025-12-30,Botswana,DR Congo,Shots,Hit woodwork,shots_woodwork,0,0
+4722006,2025-12-30,Botswana,DR Congo,Shots,Shots inside box,shots_inside_box,2,18
+4722006,2025-12-30,Botswana,DR Congo,Shots,Shots outside box,shots_outside_box,4,10
+4722006,2025-12-30,Botswana,DR Congo,Expected goals (xG),Expected goals (xG),expected_goals,0.27,4.02
+4722006,2025-12-30,Botswana,DR Congo,Expected goals (xG),xG open play,expected_goals_open_play,0.14,3.17
+4722006,2025-12-30,Botswana,DR Congo,Expected goals (xG),xG set play,expected_goals_set_play,0.13,0.07
+4722006,2025-12-30,Botswana,DR Congo,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.27,3.24
+4722006,2025-12-30,Botswana,DR Congo,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.10,3.70
+4722006,2025-12-30,Botswana,DR Congo,Passes,Passes,passes,450,534
+4722006,2025-12-30,Botswana,DR Congo,Passes,Accurate passes,accurate_passes,389 (86%),482 (90%)
+4722006,2025-12-30,Botswana,DR Congo,Passes,Own half,own_half_passes,307,158
+4722006,2025-12-30,Botswana,DR Congo,Passes,Opposition half,opposition_half_passes,82,324
+4722006,2025-12-30,Botswana,DR Congo,Passes,Accurate long balls,long_balls_accurate,36 (57%),19 (73%)
+4722006,2025-12-30,Botswana,DR Congo,Passes,Accurate crosses,accurate_crosses,1 (11%),6 (19%)
+4722006,2025-12-30,Botswana,DR Congo,Passes,Throws,player_throws,6,11
+4722006,2025-12-30,Botswana,DR Congo,Passes,Touches in opposition box,touches_opp_box,7,47
+4722006,2025-12-30,Botswana,DR Congo,Passes,Offsides,Offsides,4,2
+4722006,2025-12-30,Botswana,DR Congo,Defence,Tackles,matchstats.headers.tackles,10,10
+4722006,2025-12-30,Botswana,DR Congo,Defence,Interceptions,interceptions,11,8
+4722006,2025-12-30,Botswana,DR Congo,Defence,Blocks,shot_blocks,3,1
+4722006,2025-12-30,Botswana,DR Congo,Defence,Clearances,clearances,32,12
+4722006,2025-12-30,Botswana,DR Congo,Defence,Keeper saves,keeper_saves,3,1
+4722006,2025-12-30,Botswana,DR Congo,Duels,Duels won,duel_won,42,36
+4722006,2025-12-30,Botswana,DR Congo,Duels,Ground duels won,ground_duels_won,25 (49%),26 (51%)
+4722006,2025-12-30,Botswana,DR Congo,Duels,Aerial duels won,aerials_won,17 (63%),10 (37%)
+4722006,2025-12-30,Botswana,DR Congo,Duels,Successful dribbles,dribbles_succeeded,1 (20%),11 (79%)
+4722006,2025-12-30,Botswana,DR Congo,Discipline,Yellow cards,yellow_cards,0,0
+4722006,2025-12-30,Botswana,DR Congo,Discipline,Red cards,red_cards,0,0
+4722006,2025-12-30,Botswana,DR Congo,Discipline,Fouls committed,fouls,6,16
+4722011,2025-12-31,Equatorial Guinea,Algeria,Top stats,Ball possession,BallPossesion,45,55
+4722011,2025-12-31,Equatorial Guinea,Algeria,Top stats,Expected goals (xG),expected_goals,0.49,1.90
+4722011,2025-12-31,Equatorial Guinea,Algeria,Top stats,Total shots,total_shots,10,16
+4722011,2025-12-31,Equatorial Guinea,Algeria,Top stats,Shots on target,ShotsOnTarget,3,6
+4722011,2025-12-31,Equatorial Guinea,Algeria,Top stats,Touches in opposition box,touches_opp_box,6,25
+4722011,2025-12-31,Equatorial Guinea,Algeria,Top stats,Big chances,big_chance,1,4
+4722011,2025-12-31,Equatorial Guinea,Algeria,Top stats,Big chances missed,big_chance_missed_title,1,2
+4722011,2025-12-31,Equatorial Guinea,Algeria,Top stats,Accurate passes,accurate_passes,377 (87%),484 (91%)
+4722011,2025-12-31,Equatorial Guinea,Algeria,Top stats,Yellow cards,yellow_cards,4,1
+4722011,2025-12-31,Equatorial Guinea,Algeria,Top stats,Corners,corners,4,5
+4722011,2025-12-31,Equatorial Guinea,Algeria,Shots,Total shots,total_shots,10,16
+4722011,2025-12-31,Equatorial Guinea,Algeria,Shots,Shots off target,ShotsOffTarget,5,5
+4722011,2025-12-31,Equatorial Guinea,Algeria,Shots,Shots on target,ShotsOnTarget,3,6
+4722011,2025-12-31,Equatorial Guinea,Algeria,Shots,Blocked shots,blocked_shots,2,5
+4722011,2025-12-31,Equatorial Guinea,Algeria,Shots,Hit woodwork,shots_woodwork,0,1
+4722011,2025-12-31,Equatorial Guinea,Algeria,Shots,Shots inside box,shots_inside_box,3,13
+4722011,2025-12-31,Equatorial Guinea,Algeria,Shots,Shots outside box,shots_outside_box,7,3
+4722011,2025-12-31,Equatorial Guinea,Algeria,Expected goals (xG),Expected goals (xG),expected_goals,0.49,1.90
+4722011,2025-12-31,Equatorial Guinea,Algeria,Expected goals (xG),xG open play,expected_goals_open_play,0.29,1.56
+4722011,2025-12-31,Equatorial Guinea,Algeria,Expected goals (xG),xG set play,expected_goals_set_play,0.20,0.34
+4722011,2025-12-31,Equatorial Guinea,Algeria,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.49,1.90
+4722011,2025-12-31,Equatorial Guinea,Algeria,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.87,2.36
+4722011,2025-12-31,Equatorial Guinea,Algeria,Passes,Passes,passes,433,532
+4722011,2025-12-31,Equatorial Guinea,Algeria,Passes,Accurate passes,accurate_passes,377 (87%),484 (91%)
+4722011,2025-12-31,Equatorial Guinea,Algeria,Passes,Own half,own_half_passes,239,317
+4722011,2025-12-31,Equatorial Guinea,Algeria,Passes,Opposition half,opposition_half_passes,138,167
+4722011,2025-12-31,Equatorial Guinea,Algeria,Passes,Accurate long balls,long_balls_accurate,15 (58%),13 (52%)
+4722011,2025-12-31,Equatorial Guinea,Algeria,Passes,Accurate crosses,accurate_crosses,1 (10%),6 (67%)
+4722011,2025-12-31,Equatorial Guinea,Algeria,Passes,Throws,player_throws,18,21
+4722011,2025-12-31,Equatorial Guinea,Algeria,Passes,Touches in opposition box,touches_opp_box,6,25
+4722011,2025-12-31,Equatorial Guinea,Algeria,Passes,Offsides,Offsides,1,0
+4722011,2025-12-31,Equatorial Guinea,Algeria,Defence,Tackles,matchstats.headers.tackles,12,18
+4722011,2025-12-31,Equatorial Guinea,Algeria,Defence,Interceptions,interceptions,9,15
+4722011,2025-12-31,Equatorial Guinea,Algeria,Defence,Blocks,shot_blocks,5,2
+4722011,2025-12-31,Equatorial Guinea,Algeria,Defence,Clearances,clearances,10,18
+4722011,2025-12-31,Equatorial Guinea,Algeria,Defence,Keeper saves,keeper_saves,3,2
+4722011,2025-12-31,Equatorial Guinea,Algeria,Duels,Duels won,duel_won,37,43
+4722011,2025-12-31,Equatorial Guinea,Algeria,Duels,Ground duels won,ground_duels_won,32 (48%),35 (52%)
+4722011,2025-12-31,Equatorial Guinea,Algeria,Duels,Aerial duels won,aerials_won,5 (38%),8 (62%)
+4722011,2025-12-31,Equatorial Guinea,Algeria,Duels,Successful dribbles,dribbles_succeeded,5 (38%),5 (29%)
+4722011,2025-12-31,Equatorial Guinea,Algeria,Discipline,Yellow cards,yellow_cards,4,1
+4722011,2025-12-31,Equatorial Guinea,Algeria,Discipline,Red cards,red_cards,0,0
+4722011,2025-12-31,Equatorial Guinea,Algeria,Discipline,Fouls committed,fouls,13,15
+4722018,2025-12-31,Mozambique,Cameroon,Top stats,Ball possession,BallPossesion,52,48
+4722018,2025-12-31,Mozambique,Cameroon,Top stats,Expected goals (xG),expected_goals,1.07,2.35
+4722018,2025-12-31,Mozambique,Cameroon,Top stats,Total shots,total_shots,10,19
+4722018,2025-12-31,Mozambique,Cameroon,Top stats,Shots on target,ShotsOnTarget,2,6
+4722018,2025-12-31,Mozambique,Cameroon,Top stats,Touches in opposition box,touches_opp_box,8,29
+4722018,2025-12-31,Mozambique,Cameroon,Top stats,Big chances,big_chance,2,4
+4722018,2025-12-31,Mozambique,Cameroon,Top stats,Big chances missed,big_chance_missed_title,2,4
+4722018,2025-12-31,Mozambique,Cameroon,Top stats,Accurate passes,accurate_passes,302 (80%),268 (80%)
+4722018,2025-12-31,Mozambique,Cameroon,Top stats,Yellow cards,yellow_cards,0,3
+4722018,2025-12-31,Mozambique,Cameroon,Top stats,Corners,corners,2,8
+4722018,2025-12-31,Mozambique,Cameroon,Shots,Total shots,total_shots,10,19
+4722018,2025-12-31,Mozambique,Cameroon,Shots,Shots off target,ShotsOffTarget,5,7
+4722018,2025-12-31,Mozambique,Cameroon,Shots,Shots on target,ShotsOnTarget,2,6
+4722018,2025-12-31,Mozambique,Cameroon,Shots,Blocked shots,blocked_shots,3,6
+4722018,2025-12-31,Mozambique,Cameroon,Shots,Hit woodwork,shots_woodwork,0,2
+4722018,2025-12-31,Mozambique,Cameroon,Shots,Shots inside box,shots_inside_box,4,15
+4722018,2025-12-31,Mozambique,Cameroon,Shots,Shots outside box,shots_outside_box,6,4
+4722018,2025-12-31,Mozambique,Cameroon,Expected goals (xG),Expected goals (xG),expected_goals,1.07,2.35
+4722018,2025-12-31,Mozambique,Cameroon,Expected goals (xG),xG open play,expected_goals_open_play,0.93,1.62
+4722018,2025-12-31,Mozambique,Cameroon,Expected goals (xG),xG set play,expected_goals_set_play,0.14,0.73
+4722018,2025-12-31,Mozambique,Cameroon,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.07,2.35
+4722018,2025-12-31,Mozambique,Cameroon,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.55,1.18
+4722018,2025-12-31,Mozambique,Cameroon,Passes,Passes,passes,379,337
+4722018,2025-12-31,Mozambique,Cameroon,Passes,Accurate passes,accurate_passes,302 (80%),268 (80%)
+4722018,2025-12-31,Mozambique,Cameroon,Passes,Own half,own_half_passes,217,148
+4722018,2025-12-31,Mozambique,Cameroon,Passes,Opposition half,opposition_half_passes,85,120
+4722018,2025-12-31,Mozambique,Cameroon,Passes,Accurate long balls,long_balls_accurate,27 (44%),22 (42%)
+4722018,2025-12-31,Mozambique,Cameroon,Passes,Accurate crosses,accurate_crosses,2 (33%),7 (37%)
+4722018,2025-12-31,Mozambique,Cameroon,Passes,Throws,player_throws,22,17
+4722018,2025-12-31,Mozambique,Cameroon,Passes,Touches in opposition box,touches_opp_box,8,29
+4722018,2025-12-31,Mozambique,Cameroon,Passes,Offsides,Offsides,1,2
+4722018,2025-12-31,Mozambique,Cameroon,Defence,Tackles,matchstats.headers.tackles,23,23
+4722018,2025-12-31,Mozambique,Cameroon,Defence,Interceptions,interceptions,9,9
+4722018,2025-12-31,Mozambique,Cameroon,Defence,Blocks,shot_blocks,7,3
+4722018,2025-12-31,Mozambique,Cameroon,Defence,Clearances,clearances,23,20
+4722018,2025-12-31,Mozambique,Cameroon,Defence,Keeper saves,keeper_saves,4,1
+4722018,2025-12-31,Mozambique,Cameroon,Duels,Duels won,duel_won,66,46
+4722018,2025-12-31,Mozambique,Cameroon,Duels,Ground duels won,ground_duels_won,49 (61%),31 (39%)
+4722018,2025-12-31,Mozambique,Cameroon,Duels,Aerial duels won,aerials_won,17 (53%),15 (47%)
+4722018,2025-12-31,Mozambique,Cameroon,Duels,Successful dribbles,dribbles_succeeded,9 (41%),1 (8%)
+4722018,2025-12-31,Mozambique,Cameroon,Discipline,Yellow cards,yellow_cards,0,3
+4722018,2025-12-31,Mozambique,Cameroon,Discipline,Red cards,red_cards,0,0
+4722018,2025-12-31,Mozambique,Cameroon,Discipline,Fouls committed,fouls,7,20
+4722012,2025-12-31,Sudan,Burkina Faso,Top stats,Ball possession,BallPossesion,38,62
+4722012,2025-12-31,Sudan,Burkina Faso,Top stats,Expected goals (xG),expected_goals,1.65,1.22
+4722012,2025-12-31,Sudan,Burkina Faso,Top stats,Total shots,total_shots,10,10
+4722012,2025-12-31,Sudan,Burkina Faso,Top stats,Shots on target,ShotsOnTarget,1,3
+4722012,2025-12-31,Sudan,Burkina Faso,Top stats,Touches in opposition box,touches_opp_box,17,25
+4722012,2025-12-31,Sudan,Burkina Faso,Top stats,Big chances,big_chance,3,2
+4722012,2025-12-31,Sudan,Burkina Faso,Top stats,Big chances missed,big_chance_missed_title,3,0
+4722012,2025-12-31,Sudan,Burkina Faso,Top stats,Accurate passes,accurate_passes,210 (70%),414 (84%)
+4722012,2025-12-31,Sudan,Burkina Faso,Top stats,Yellow cards,yellow_cards,0,2
+4722012,2025-12-31,Sudan,Burkina Faso,Top stats,Corners,corners,4,6
+4722012,2025-12-31,Sudan,Burkina Faso,Shots,Total shots,total_shots,10,10
+4722012,2025-12-31,Sudan,Burkina Faso,Shots,Shots off target,ShotsOffTarget,6,6
+4722012,2025-12-31,Sudan,Burkina Faso,Shots,Shots on target,ShotsOnTarget,1,3
+4722012,2025-12-31,Sudan,Burkina Faso,Shots,Blocked shots,blocked_shots,3,1
+4722012,2025-12-31,Sudan,Burkina Faso,Shots,Hit woodwork,shots_woodwork,0,0
+4722012,2025-12-31,Sudan,Burkina Faso,Shots,Shots inside box,shots_inside_box,8,6
+4722012,2025-12-31,Sudan,Burkina Faso,Shots,Shots outside box,shots_outside_box,2,4
+4722012,2025-12-31,Sudan,Burkina Faso,Expected goals (xG),Expected goals (xG),expected_goals,1.65,1.22
+4722012,2025-12-31,Sudan,Burkina Faso,Expected goals (xG),xG open play,expected_goals_open_play,0.64,1.21
+4722012,2025-12-31,Sudan,Burkina Faso,Expected goals (xG),xG set play,expected_goals_set_play,0.22,0.02
+4722012,2025-12-31,Sudan,Burkina Faso,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.86,1.22
+4722012,2025-12-31,Sudan,Burkina Faso,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.64,2.12
+4722012,2025-12-31,Sudan,Burkina Faso,Passes,Passes,passes,298,494
+4722012,2025-12-31,Sudan,Burkina Faso,Passes,Accurate passes,accurate_passes,210 (70%),414 (84%)
+4722012,2025-12-31,Sudan,Burkina Faso,Passes,Own half,own_half_passes,117,216
+4722012,2025-12-31,Sudan,Burkina Faso,Passes,Opposition half,opposition_half_passes,93,198
+4722012,2025-12-31,Sudan,Burkina Faso,Passes,Accurate long balls,long_balls_accurate,26 (37%),32 (51%)
+4722012,2025-12-31,Sudan,Burkina Faso,Passes,Accurate crosses,accurate_crosses,2 (20%),2 (18%)
+4722012,2025-12-31,Sudan,Burkina Faso,Passes,Throws,player_throws,17,20
+4722012,2025-12-31,Sudan,Burkina Faso,Passes,Touches in opposition box,touches_opp_box,17,25
+4722012,2025-12-31,Sudan,Burkina Faso,Passes,Offsides,Offsides,1,1
+4722012,2025-12-31,Sudan,Burkina Faso,Defence,Tackles,matchstats.headers.tackles,15,10
+4722012,2025-12-31,Sudan,Burkina Faso,Defence,Interceptions,interceptions,12,5
+4722012,2025-12-31,Sudan,Burkina Faso,Defence,Blocks,shot_blocks,1,3
+4722012,2025-12-31,Sudan,Burkina Faso,Defence,Clearances,clearances,25,15
+4722012,2025-12-31,Sudan,Burkina Faso,Defence,Keeper saves,keeper_saves,1,1
+4722012,2025-12-31,Sudan,Burkina Faso,Duels,Duels won,duel_won,45,37
+4722012,2025-12-31,Sudan,Burkina Faso,Duels,Ground duels won,ground_duels_won,29 (58%),21 (42%)
+4722012,2025-12-31,Sudan,Burkina Faso,Duels,Aerial duels won,aerials_won,16 (50%),16 (50%)
+4722012,2025-12-31,Sudan,Burkina Faso,Duels,Successful dribbles,dribbles_succeeded,3 (60%),8 (47%)
+4722012,2025-12-31,Sudan,Burkina Faso,Discipline,Yellow cards,yellow_cards,0,2
+4722012,2025-12-31,Sudan,Burkina Faso,Discipline,Red cards,red_cards,0,0
+4722012,2025-12-31,Sudan,Burkina Faso,Discipline,Fouls committed,fouls,3,12
+4721994,2025-12-29,Zimbabwe,South Africa,Top stats,Ball possession,BallPossesion,34,66
+4721994,2025-12-29,Zimbabwe,South Africa,Top stats,Expected goals (xG),expected_goals,1.30,1.52
+4721994,2025-12-29,Zimbabwe,South Africa,Top stats,Total shots,total_shots,10,16
+4721994,2025-12-29,Zimbabwe,South Africa,Top stats,Shots on target,ShotsOnTarget,3,9
+4721994,2025-12-29,Zimbabwe,South Africa,Top stats,Touches in opposition box,touches_opp_box,24,25
+4721994,2025-12-29,Zimbabwe,South Africa,Top stats,Big chances,big_chance,3,4
+4721994,2025-12-29,Zimbabwe,South Africa,Top stats,Big chances missed,big_chance_missed_title,3,2
+4721994,2025-12-29,Zimbabwe,South Africa,Top stats,Accurate passes,accurate_passes,165 (68%),403 (82%)
+4721994,2025-12-29,Zimbabwe,South Africa,Top stats,Yellow cards,yellow_cards,1,1
+4721994,2025-12-29,Zimbabwe,South Africa,Top stats,Corners,corners,3,3
+4721994,2025-12-29,Zimbabwe,South Africa,Shots,Total shots,total_shots,10,16
+4721994,2025-12-29,Zimbabwe,South Africa,Shots,Shots off target,ShotsOffTarget,5,5
+4721994,2025-12-29,Zimbabwe,South Africa,Shots,Shots on target,ShotsOnTarget,3,9
+4721994,2025-12-29,Zimbabwe,South Africa,Shots,Blocked shots,blocked_shots,2,2
+4721994,2025-12-29,Zimbabwe,South Africa,Shots,Hit woodwork,shots_woodwork,1,0
+4721994,2025-12-29,Zimbabwe,South Africa,Shots,Shots inside box,shots_inside_box,7,10
+4721994,2025-12-29,Zimbabwe,South Africa,Shots,Shots outside box,shots_outside_box,3,6
+4721994,2025-12-29,Zimbabwe,South Africa,Expected goals (xG),Expected goals (xG),expected_goals,1.30,1.52
+4721994,2025-12-29,Zimbabwe,South Africa,Expected goals (xG),xG open play,expected_goals_open_play,0.89,0.64
+4721994,2025-12-29,Zimbabwe,South Africa,Expected goals (xG),xG set play,expected_goals_set_play,0.41,0.09
+4721994,2025-12-29,Zimbabwe,South Africa,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.30,0.74
+4721994,2025-12-29,Zimbabwe,South Africa,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.00,2.57
+4721994,2025-12-29,Zimbabwe,South Africa,Passes,Passes,passes,243,490
+4721994,2025-12-29,Zimbabwe,South Africa,Passes,Accurate passes,accurate_passes,165 (68%),403 (82%)
+4721994,2025-12-29,Zimbabwe,South Africa,Passes,Own half,own_half_passes,85,234
+4721994,2025-12-29,Zimbabwe,South Africa,Passes,Opposition half,opposition_half_passes,80,169
+4721994,2025-12-29,Zimbabwe,South Africa,Passes,Accurate long balls,long_balls_accurate,16 (34%),33 (54%)
+4721994,2025-12-29,Zimbabwe,South Africa,Passes,Accurate crosses,accurate_crosses,1 (8%),2 (20%)
+4721994,2025-12-29,Zimbabwe,South Africa,Passes,Throws,player_throws,20,18
+4721994,2025-12-29,Zimbabwe,South Africa,Passes,Touches in opposition box,touches_opp_box,24,25
+4721994,2025-12-29,Zimbabwe,South Africa,Passes,Offsides,Offsides,5,1
+4721994,2025-12-29,Zimbabwe,South Africa,Defence,Tackles,matchstats.headers.tackles,16,13
+4721994,2025-12-29,Zimbabwe,South Africa,Defence,Interceptions,interceptions,15,8
+4721994,2025-12-29,Zimbabwe,South Africa,Defence,Blocks,shot_blocks,1,2
+4721994,2025-12-29,Zimbabwe,South Africa,Defence,Clearances,clearances,18,31
+4721994,2025-12-29,Zimbabwe,South Africa,Defence,Keeper saves,keeper_saves,6,2
+4721994,2025-12-29,Zimbabwe,South Africa,Duels,Duels won,duel_won,53,55
+4721994,2025-12-29,Zimbabwe,South Africa,Duels,Ground duels won,ground_duels_won,35 (53%),31 (47%)
+4721994,2025-12-29,Zimbabwe,South Africa,Duels,Aerial duels won,aerials_won,18 (43%),24 (57%)
+4721994,2025-12-29,Zimbabwe,South Africa,Duels,Successful dribbles,dribbles_succeeded,8 (47%),6 (50%)
+4721994,2025-12-29,Zimbabwe,South Africa,Discipline,Yellow cards,yellow_cards,1,1
+4721994,2025-12-29,Zimbabwe,South Africa,Discipline,Red cards,red_cards,0,0
+4721994,2025-12-29,Zimbabwe,South Africa,Discipline,Fouls committed,fouls,14,11
+5073458,2026-01-04,Morocco,Tanzania,Top stats,Ball possession,BallPossesion,71,29
+5073458,2026-01-04,Morocco,Tanzania,Top stats,Expected goals (xG),expected_goals,1.01,0.73
+5073458,2026-01-04,Morocco,Tanzania,Top stats,Total shots,total_shots,12,4
+5073458,2026-01-04,Morocco,Tanzania,Top stats,Shots on target,ShotsOnTarget,4,1
+5073458,2026-01-04,Morocco,Tanzania,Top stats,Touches in opposition box,touches_opp_box,27,6
+5073458,2026-01-04,Morocco,Tanzania,Top stats,Big chances,big_chance,3,2
+5073458,2026-01-04,Morocco,Tanzania,Top stats,Big chances missed,big_chance_missed_title,3,2
+5073458,2026-01-04,Morocco,Tanzania,Top stats,Accurate passes,accurate_passes,530 (88%),187 (75%)
+5073458,2026-01-04,Morocco,Tanzania,Top stats,Yellow cards,yellow_cards,1,5
+5073458,2026-01-04,Morocco,Tanzania,Top stats,Corners,corners,4,0
+5073458,2026-01-04,Morocco,Tanzania,Shots,Total shots,total_shots,12,4
+5073458,2026-01-04,Morocco,Tanzania,Shots,Shots off target,ShotsOffTarget,6,2
+5073458,2026-01-04,Morocco,Tanzania,Shots,Shots on target,ShotsOnTarget,4,1
+5073458,2026-01-04,Morocco,Tanzania,Shots,Blocked shots,blocked_shots,2,1
+5073458,2026-01-04,Morocco,Tanzania,Shots,Hit woodwork,shots_woodwork,1,0
+5073458,2026-01-04,Morocco,Tanzania,Shots,Shots inside box,shots_inside_box,7,2
+5073458,2026-01-04,Morocco,Tanzania,Shots,Shots outside box,shots_outside_box,5,2
+5073458,2026-01-04,Morocco,Tanzania,Expected goals (xG),Expected goals (xG),expected_goals,1.01,0.73
+5073458,2026-01-04,Morocco,Tanzania,Expected goals (xG),xG open play,expected_goals_open_play,0.95,0.67
+5073458,2026-01-04,Morocco,Tanzania,Expected goals (xG),xG set play,expected_goals_set_play,0.06,0.06
+5073458,2026-01-04,Morocco,Tanzania,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.01,0.73
+5073458,2026-01-04,Morocco,Tanzania,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.50,0.06
+5073458,2026-01-04,Morocco,Tanzania,Passes,Passes,passes,603,248
+5073458,2026-01-04,Morocco,Tanzania,Passes,Accurate passes,accurate_passes,530 (88%),187 (75%)
+5073458,2026-01-04,Morocco,Tanzania,Passes,Own half,own_half_passes,216,134
+5073458,2026-01-04,Morocco,Tanzania,Passes,Opposition half,opposition_half_passes,314,53
+5073458,2026-01-04,Morocco,Tanzania,Passes,Accurate long balls,long_balls_accurate,35 (65%),14 (27%)
+5073458,2026-01-04,Morocco,Tanzania,Passes,Accurate crosses,accurate_crosses,7 (28%),0 (0%)
+5073458,2026-01-04,Morocco,Tanzania,Passes,Throws,player_throws,20,15
+5073458,2026-01-04,Morocco,Tanzania,Passes,Touches in opposition box,touches_opp_box,27,6
+5073458,2026-01-04,Morocco,Tanzania,Passes,Offsides,Offsides,2,1
+5073458,2026-01-04,Morocco,Tanzania,Defence,Tackles,matchstats.headers.tackles,20,17
+5073458,2026-01-04,Morocco,Tanzania,Defence,Interceptions,interceptions,4,8
+5073458,2026-01-04,Morocco,Tanzania,Defence,Blocks,shot_blocks,1,2
+5073458,2026-01-04,Morocco,Tanzania,Defence,Clearances,clearances,13,30
+5073458,2026-01-04,Morocco,Tanzania,Defence,Keeper saves,keeper_saves,1,3
+5073458,2026-01-04,Morocco,Tanzania,Duels,Duels won,duel_won,63,45
+5073458,2026-01-04,Morocco,Tanzania,Duels,Ground duels won,ground_duels_won,45 (61%),29 (39%)
+5073458,2026-01-04,Morocco,Tanzania,Duels,Aerial duels won,aerials_won,18 (53%),16 (47%)
+5073458,2026-01-04,Morocco,Tanzania,Duels,Successful dribbles,dribbles_succeeded,8 (62%),2 (33%)
+5073458,2026-01-04,Morocco,Tanzania,Discipline,Yellow cards,yellow_cards,1,5
+5073458,2026-01-04,Morocco,Tanzania,Discipline,Red cards,red_cards,0,0
+5073458,2026-01-04,Morocco,Tanzania,Discipline,Fouls committed,fouls,12,19
+5073459,2026-01-04,South Africa,Cameroon,Top stats,Ball possession,BallPossesion,66,34
+5073459,2026-01-04,South Africa,Cameroon,Top stats,Expected goals (xG),expected_goals,2.08,1.36
+5073459,2026-01-04,South Africa,Cameroon,Top stats,Total shots,total_shots,18,10
+5073459,2026-01-04,South Africa,Cameroon,Top stats,Shots on target,ShotsOnTarget,4,4
+5073459,2026-01-04,South Africa,Cameroon,Top stats,Touches in opposition box,touches_opp_box,28,16
+5073459,2026-01-04,South Africa,Cameroon,Top stats,Big chances,big_chance,4,3
+5073459,2026-01-04,South Africa,Cameroon,Top stats,Big chances missed,big_chance_missed_title,3,1
+5073459,2026-01-04,South Africa,Cameroon,Top stats,Accurate passes,accurate_passes,442 (86%),192 (73%)
+5073459,2026-01-04,South Africa,Cameroon,Top stats,Yellow cards,yellow_cards,5,2
+5073459,2026-01-04,South Africa,Cameroon,Top stats,Corners,corners,6,3
+5073459,2026-01-04,South Africa,Cameroon,Shots,Total shots,total_shots,18,10
+5073459,2026-01-04,South Africa,Cameroon,Shots,Shots off target,ShotsOffTarget,8,4
+5073459,2026-01-04,South Africa,Cameroon,Shots,Shots on target,ShotsOnTarget,4,4
+5073459,2026-01-04,South Africa,Cameroon,Shots,Blocked shots,blocked_shots,6,2
+5073459,2026-01-04,South Africa,Cameroon,Shots,Hit woodwork,shots_woodwork,0,0
+5073459,2026-01-04,South Africa,Cameroon,Shots,Shots inside box,shots_inside_box,12,6
+5073459,2026-01-04,South Africa,Cameroon,Shots,Shots outside box,shots_outside_box,6,4
+5073459,2026-01-04,South Africa,Cameroon,Expected goals (xG),Expected goals (xG),expected_goals,2.08,1.36
+5073459,2026-01-04,South Africa,Cameroon,Expected goals (xG),xG open play,expected_goals_open_play,1.89,1.08
+5073459,2026-01-04,South Africa,Cameroon,Expected goals (xG),xG set play,expected_goals_set_play,0.20,0.28
+5073459,2026-01-04,South Africa,Cameroon,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,2.08,1.36
+5073459,2026-01-04,South Africa,Cameroon,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,2.14,1.65
+5073459,2026-01-04,South Africa,Cameroon,Passes,Passes,passes,515,263
+5073459,2026-01-04,South Africa,Cameroon,Passes,Accurate passes,accurate_passes,442 (86%),192 (73%)
+5073459,2026-01-04,South Africa,Cameroon,Passes,Own half,own_half_passes,224,123
+5073459,2026-01-04,South Africa,Cameroon,Passes,Opposition half,opposition_half_passes,218,69
+5073459,2026-01-04,South Africa,Cameroon,Passes,Accurate long balls,long_balls_accurate,27 (55%),16 (31%)
+5073459,2026-01-04,South Africa,Cameroon,Passes,Accurate crosses,accurate_crosses,6 (24%),4 (40%)
+5073459,2026-01-04,South Africa,Cameroon,Passes,Throws,player_throws,24,12
+5073459,2026-01-04,South Africa,Cameroon,Passes,Touches in opposition box,touches_opp_box,28,16
+5073459,2026-01-04,South Africa,Cameroon,Passes,Offsides,Offsides,3,0
+5073459,2026-01-04,South Africa,Cameroon,Defence,Tackles,matchstats.headers.tackles,16,14
+5073459,2026-01-04,South Africa,Cameroon,Defence,Interceptions,interceptions,3,10
+5073459,2026-01-04,South Africa,Cameroon,Defence,Blocks,shot_blocks,1,5
+5073459,2026-01-04,South Africa,Cameroon,Defence,Clearances,clearances,18,39
+5073459,2026-01-04,South Africa,Cameroon,Defence,Keeper saves,keeper_saves,2,3
+5073459,2026-01-04,South Africa,Cameroon,Duels,Duels won,duel_won,46,42
+5073459,2026-01-04,South Africa,Cameroon,Duels,Ground duels won,ground_duels_won,31 (52%),29 (48%)
+5073459,2026-01-04,South Africa,Cameroon,Duels,Aerial duels won,aerials_won,15 (54%),13 (46%)
+5073459,2026-01-04,South Africa,Cameroon,Duels,Successful dribbles,dribbles_succeeded,3 (20%),2 (29%)
+5073459,2026-01-04,South Africa,Cameroon,Discipline,Yellow cards,yellow_cards,5,2
+5073459,2026-01-04,South Africa,Cameroon,Discipline,Red cards,red_cards,0,0
+5073459,2026-01-04,South Africa,Cameroon,Discipline,Fouls committed,fouls,14,13
+4721991,2025-12-26,Egypt,South Africa,Top stats,Ball possession,BallPossesion,61,39
+4721991,2025-12-26,Egypt,South Africa,Top stats,Total shots,total_shots,19,7
+4721991,2025-12-26,Egypt,South Africa,Top stats,Shots on target,ShotsOnTarget,6,3
+4721991,2025-12-26,Egypt,South Africa,Top stats,Touches in opposition box,touches_opp_box,42,7
+4721991,2025-12-26,Egypt,South Africa,Top stats,Big chances,big_chance,1,1
+4721991,2025-12-26,Egypt,South Africa,Top stats,Big chances missed,big_chance_missed_title,1,0
+4721991,2025-12-26,Egypt,South Africa,Top stats,Accurate passes,accurate_passes,474 (85%),286 (78%)
+4721991,2025-12-26,Egypt,South Africa,Top stats,Yellow cards,yellow_cards,2,4
+4721991,2025-12-26,Egypt,South Africa,Top stats,Corners,corners,8,1
+4721991,2025-12-26,Egypt,South Africa,Shots,Total shots,total_shots,19,7
+4721991,2025-12-26,Egypt,South Africa,Shots,Shots off target,ShotsOffTarget,9,3
+4721991,2025-12-26,Egypt,South Africa,Shots,Shots on target,ShotsOnTarget,6,3
+4721991,2025-12-26,Egypt,South Africa,Shots,Blocked shots,blocked_shots,4,1
+4721991,2025-12-26,Egypt,South Africa,Shots,Hit woodwork,shots_woodwork,1,0
+4721991,2025-12-26,Egypt,South Africa,Shots,Shots inside box,shots_inside_box,12,2
+4721991,2025-12-26,Egypt,South Africa,Shots,Shots outside box,shots_outside_box,7,5
+4721991,2025-12-26,Egypt,South Africa,Passes,Passes,passes,560,367
+4721991,2025-12-26,Egypt,South Africa,Passes,Accurate passes,accurate_passes,474 (85%),286 (78%)
+4721991,2025-12-26,Egypt,South Africa,Passes,Own half,own_half_passes,205,202
+4721991,2025-12-26,Egypt,South Africa,Passes,Opposition half,opposition_half_passes,269,84
+4721991,2025-12-26,Egypt,South Africa,Passes,Accurate long balls,long_balls_accurate,41 (60%),14 (29%)
+4721991,2025-12-26,Egypt,South Africa,Passes,Accurate crosses,accurate_crosses,6 (27%),1 (50%)
+4721991,2025-12-26,Egypt,South Africa,Passes,Throws,player_throws,20,15
+4721991,2025-12-26,Egypt,South Africa,Passes,Touches in opposition box,touches_opp_box,42,7
+4721991,2025-12-26,Egypt,South Africa,Passes,Offsides,Offsides,3,1
+4721991,2025-12-26,Egypt,South Africa,Defence,Tackles,matchstats.headers.tackles,16,13
+4721991,2025-12-26,Egypt,South Africa,Defence,Interceptions,interceptions,10,10
+4721991,2025-12-26,Egypt,South Africa,Defence,Blocks,shot_blocks,1,4
+4721991,2025-12-26,Egypt,South Africa,Defence,Clearances,clearances,3,37
+4721991,2025-12-26,Egypt,South Africa,Defence,Keeper saves,keeper_saves,2,6
+4721991,2025-12-26,Egypt,South Africa,Duels,Duels won,duel_won,37,29
+4721991,2025-12-26,Egypt,South Africa,Duels,Ground duels won,ground_duels_won,33 (58%),24 (42%)
+4721991,2025-12-26,Egypt,South Africa,Duels,Aerial duels won,aerials_won,4 (44%),5 (56%)
+4721991,2025-12-26,Egypt,South Africa,Duels,Successful dribbles,dribbles_succeeded,7 (58%),4 (27%)
+4721991,2025-12-26,Egypt,South Africa,Discipline,Yellow cards,yellow_cards,2,4
+4721991,2025-12-26,Egypt,South Africa,Discipline,Red cards,red_cards,0,0
+4721991,2025-12-26,Egypt,South Africa,Discipline,Fouls committed,fouls,8,10
+4722017,2025-12-31,Gabon,Ivory Coast,Top stats,Ball possession,BallPossesion,33,67
+4722017,2025-12-31,Gabon,Ivory Coast,Top stats,Expected goals (xG),expected_goals,0.87,1.84
+4722017,2025-12-31,Gabon,Ivory Coast,Top stats,Total shots,total_shots,9,21
+4722017,2025-12-31,Gabon,Ivory Coast,Top stats,Shots on target,ShotsOnTarget,3,5
+4722017,2025-12-31,Gabon,Ivory Coast,Top stats,Touches in opposition box,touches_opp_box,9,36
+4722017,2025-12-31,Gabon,Ivory Coast,Top stats,Big chances,big_chance,2,2
+4722017,2025-12-31,Gabon,Ivory Coast,Top stats,Big chances missed,big_chance_missed_title,1,0
+4722017,2025-12-31,Gabon,Ivory Coast,Top stats,Accurate passes,accurate_passes,220 (75%),523 (92%)
+4722017,2025-12-31,Gabon,Ivory Coast,Top stats,Yellow cards,yellow_cards,2,1
+4722017,2025-12-31,Gabon,Ivory Coast,Top stats,Corners,corners,2,8
+4722017,2025-12-31,Gabon,Ivory Coast,Shots,Total shots,total_shots,9,21
+4722017,2025-12-31,Gabon,Ivory Coast,Shots,Shots off target,ShotsOffTarget,5,10
+4722017,2025-12-31,Gabon,Ivory Coast,Shots,Shots on target,ShotsOnTarget,3,5
+4722017,2025-12-31,Gabon,Ivory Coast,Shots,Blocked shots,blocked_shots,1,6
+4722017,2025-12-31,Gabon,Ivory Coast,Shots,Hit woodwork,shots_woodwork,0,1
+4722017,2025-12-31,Gabon,Ivory Coast,Shots,Shots inside box,shots_inside_box,5,15
+4722017,2025-12-31,Gabon,Ivory Coast,Shots,Shots outside box,shots_outside_box,4,6
+4722017,2025-12-31,Gabon,Ivory Coast,Expected goals (xG),Expected goals (xG),expected_goals,0.87,1.84
+4722017,2025-12-31,Gabon,Ivory Coast,Expected goals (xG),xG open play,expected_goals_open_play,0.81,1.41
+4722017,2025-12-31,Gabon,Ivory Coast,Expected goals (xG),xG set play,expected_goals_set_play,0.06,0.43
+4722017,2025-12-31,Gabon,Ivory Coast,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.87,1.84
+4722017,2025-12-31,Gabon,Ivory Coast,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.29,2.48
+4722017,2025-12-31,Gabon,Ivory Coast,Passes,Passes,passes,292,570
+4722017,2025-12-31,Gabon,Ivory Coast,Passes,Accurate passes,accurate_passes,220 (75%),523 (92%)
+4722017,2025-12-31,Gabon,Ivory Coast,Passes,Own half,own_half_passes,151,226
+4722017,2025-12-31,Gabon,Ivory Coast,Passes,Opposition half,opposition_half_passes,69,297
+4722017,2025-12-31,Gabon,Ivory Coast,Passes,Accurate long balls,long_balls_accurate,18 (32%),17 (59%)
+4722017,2025-12-31,Gabon,Ivory Coast,Passes,Accurate crosses,accurate_crosses,1 (10%),10 (32%)
+4722017,2025-12-31,Gabon,Ivory Coast,Passes,Throws,player_throws,10,16
+4722017,2025-12-31,Gabon,Ivory Coast,Passes,Touches in opposition box,touches_opp_box,9,36
+4722017,2025-12-31,Gabon,Ivory Coast,Passes,Offsides,Offsides,0,3
+4722017,2025-12-31,Gabon,Ivory Coast,Defence,Tackles,matchstats.headers.tackles,15,14
+4722017,2025-12-31,Gabon,Ivory Coast,Defence,Interceptions,interceptions,8,7
+4722017,2025-12-31,Gabon,Ivory Coast,Defence,Blocks,shot_blocks,6,1
+4722017,2025-12-31,Gabon,Ivory Coast,Defence,Clearances,clearances,25,9
+4722017,2025-12-31,Gabon,Ivory Coast,Defence,Keeper saves,keeper_saves,2,1
+4722017,2025-12-31,Gabon,Ivory Coast,Duels,Duels won,duel_won,55,56
+4722017,2025-12-31,Gabon,Ivory Coast,Duels,Ground duels won,ground_duels_won,41 (53%),37 (47%)
+4722017,2025-12-31,Gabon,Ivory Coast,Duels,Aerial duels won,aerials_won,14 (42%),19 (58%)
+4722017,2025-12-31,Gabon,Ivory Coast,Duels,Successful dribbles,dribbles_succeeded,7 (54%),11 (50%)
+4722017,2025-12-31,Gabon,Ivory Coast,Discipline,Yellow cards,yellow_cards,2,1
+4722017,2025-12-31,Gabon,Ivory Coast,Discipline,Red cards,red_cards,0,0
+4722017,2025-12-31,Gabon,Ivory Coast,Discipline,Fouls committed,fouls,15,19
+5073460,2026-01-05,Egypt,Benin,Top stats,Ball possession,BallPossesion,55,45
+5073460,2026-01-05,Egypt,Benin,Top stats,Expected goals (xG),expected_goals,1.19,1.22
+5073460,2026-01-05,Egypt,Benin,Top stats,Total shots,total_shots,12,8
+5073460,2026-01-05,Egypt,Benin,Top stats,Shots on target,ShotsOnTarget,7,3
+5073460,2026-01-05,Egypt,Benin,Top stats,Touches in opposition box,touches_opp_box,28,19
+5073460,2026-01-05,Egypt,Benin,Top stats,Big chances,big_chance,4,2
+5073460,2026-01-05,Egypt,Benin,Top stats,Big chances missed,big_chance_missed_title,3,1
+5073460,2026-01-05,Egypt,Benin,Top stats,Accurate passes,accurate_passes,533 (83%),387 (76%)
+5073460,2026-01-05,Egypt,Benin,Top stats,Yellow cards,yellow_cards,4,4
+5073460,2026-01-05,Egypt,Benin,Top stats,Corners,corners,5,5
+5073460,2026-01-05,Egypt,Benin,Shots,Total shots,total_shots,12,8
+5073460,2026-01-05,Egypt,Benin,Shots,Shots off target,ShotsOffTarget,3,1
+5073460,2026-01-05,Egypt,Benin,Shots,Shots on target,ShotsOnTarget,7,3
+5073460,2026-01-05,Egypt,Benin,Shots,Blocked shots,blocked_shots,2,4
+5073460,2026-01-05,Egypt,Benin,Shots,Hit woodwork,shots_woodwork,0,0
+5073460,2026-01-05,Egypt,Benin,Shots,Shots inside box,shots_inside_box,7,3
+5073460,2026-01-05,Egypt,Benin,Shots,Shots outside box,shots_outside_box,5,5
+5073460,2026-01-05,Egypt,Benin,Expected goals (xG),Expected goals (xG),expected_goals,1.19,1.22
+5073460,2026-01-05,Egypt,Benin,Expected goals (xG),xG open play,expected_goals_open_play,0.81,1.12
+5073460,2026-01-05,Egypt,Benin,Expected goals (xG),xG set play,expected_goals_set_play,0.38,0.11
+5073460,2026-01-05,Egypt,Benin,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.19,1.22
+5073460,2026-01-05,Egypt,Benin,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.92,1.26
+5073460,2026-01-05,Egypt,Benin,Passes,Passes,passes,646,510
+5073460,2026-01-05,Egypt,Benin,Passes,Accurate passes,accurate_passes,533 (83%),387 (76%)
+5073460,2026-01-05,Egypt,Benin,Passes,Own half,own_half_passes,266,207
+5073460,2026-01-05,Egypt,Benin,Passes,Opposition half,opposition_half_passes,267,180
+5073460,2026-01-05,Egypt,Benin,Passes,Accurate long balls,long_balls_accurate,27 (38%),31 (36%)
+5073460,2026-01-05,Egypt,Benin,Passes,Accurate crosses,accurate_crosses,1 (6%),1 (5%)
+5073460,2026-01-05,Egypt,Benin,Passes,Throws,player_throws,26,32
+5073460,2026-01-05,Egypt,Benin,Passes,Touches in opposition box,touches_opp_box,28,19
+5073460,2026-01-05,Egypt,Benin,Passes,Offsides,Offsides,4,1
+5073460,2026-01-05,Egypt,Benin,Defence,Tackles,matchstats.headers.tackles,33,31
+5073460,2026-01-05,Egypt,Benin,Defence,Interceptions,interceptions,17,11
+5073460,2026-01-05,Egypt,Benin,Defence,Blocks,shot_blocks,4,4
+5073460,2026-01-05,Egypt,Benin,Defence,Clearances,clearances,53,30
+5073460,2026-01-05,Egypt,Benin,Defence,Keeper saves,keeper_saves,3,2
+5073460,2026-01-05,Egypt,Benin,Duels,Duels won,duel_won,85,66
+5073460,2026-01-05,Egypt,Benin,Duels,Ground duels won,ground_duels_won,62 (56%),49 (44%)
+5073460,2026-01-05,Egypt,Benin,Duels,Aerial duels won,aerials_won,23 (58%),17 (43%)
+5073460,2026-01-05,Egypt,Benin,Duels,Successful dribbles,dribbles_succeeded,13 (46%),4 (24%)
+5073460,2026-01-05,Egypt,Benin,Discipline,Yellow cards,yellow_cards,4,4
+5073460,2026-01-05,Egypt,Benin,Discipline,Red cards,red_cards,0,0
+5073460,2026-01-05,Egypt,Benin,Discipline,Fouls committed,fouls,15,19
+5073462,2026-01-06,Algeria,DR Congo,Top stats,Ball possession,BallPossesion,57,43
+5073462,2026-01-06,Algeria,DR Congo,Top stats,Expected goals (xG),expected_goals,0.70,0.16
+5073462,2026-01-06,Algeria,DR Congo,Top stats,Total shots,total_shots,12,6
+5073462,2026-01-06,Algeria,DR Congo,Top stats,Shots on target,ShotsOnTarget,6,2
+5073462,2026-01-06,Algeria,DR Congo,Top stats,Touches in opposition box,touches_opp_box,25,7
+5073462,2026-01-06,Algeria,DR Congo,Top stats,Big chances,big_chance,0,0
+5073462,2026-01-06,Algeria,DR Congo,Top stats,Big chances missed,big_chance_missed_title,0,0
+5073462,2026-01-06,Algeria,DR Congo,Top stats,Accurate passes,accurate_passes,462 (85%),339 (84%)
+5073462,2026-01-06,Algeria,DR Congo,Top stats,Yellow cards,yellow_cards,3,2
+5073462,2026-01-06,Algeria,DR Congo,Top stats,Corners,corners,4,6
+5073462,2026-01-06,Algeria,DR Congo,Shots,Total shots,total_shots,12,6
+5073462,2026-01-06,Algeria,DR Congo,Shots,Shots off target,ShotsOffTarget,5,2
+5073462,2026-01-06,Algeria,DR Congo,Shots,Shots on target,ShotsOnTarget,6,2
+5073462,2026-01-06,Algeria,DR Congo,Shots,Blocked shots,blocked_shots,1,2
+5073462,2026-01-06,Algeria,DR Congo,Shots,Hit woodwork,shots_woodwork,0,0
+5073462,2026-01-06,Algeria,DR Congo,Shots,Shots inside box,shots_inside_box,9,4
+5073462,2026-01-06,Algeria,DR Congo,Shots,Shots outside box,shots_outside_box,3,2
+5073462,2026-01-06,Algeria,DR Congo,Expected goals (xG),Expected goals (xG),expected_goals,0.70,0.16
+5073462,2026-01-06,Algeria,DR Congo,Expected goals (xG),xG open play,expected_goals_open_play,0.43,0.12
+5073462,2026-01-06,Algeria,DR Congo,Expected goals (xG),xG set play,expected_goals_set_play,0.27,0.05
+5073462,2026-01-06,Algeria,DR Congo,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.70,0.16
+5073462,2026-01-06,Algeria,DR Congo,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.15,0.17
+5073462,2026-01-06,Algeria,DR Congo,Passes,Passes,passes,544,404
+5073462,2026-01-06,Algeria,DR Congo,Passes,Accurate passes,accurate_passes,462 (85%),339 (84%)
+5073462,2026-01-06,Algeria,DR Congo,Passes,Own half,own_half_passes,266,209
+5073462,2026-01-06,Algeria,DR Congo,Passes,Opposition half,opposition_half_passes,196,130
+5073462,2026-01-06,Algeria,DR Congo,Passes,Accurate long balls,long_balls_accurate,26 (43%),34 (56%)
+5073462,2026-01-06,Algeria,DR Congo,Passes,Accurate crosses,accurate_crosses,4 (15%),3 (19%)
+5073462,2026-01-06,Algeria,DR Congo,Passes,Throws,player_throws,22,28
+5073462,2026-01-06,Algeria,DR Congo,Passes,Touches in opposition box,touches_opp_box,25,7
+5073462,2026-01-06,Algeria,DR Congo,Passes,Offsides,Offsides,0,3
+5073462,2026-01-06,Algeria,DR Congo,Defence,Tackles,matchstats.headers.tackles,19,19
+5073462,2026-01-06,Algeria,DR Congo,Defence,Interceptions,interceptions,5,8
+5073462,2026-01-06,Algeria,DR Congo,Defence,Blocks,shot_blocks,2,1
+5073462,2026-01-06,Algeria,DR Congo,Defence,Clearances,clearances,24,36
+5073462,2026-01-06,Algeria,DR Congo,Defence,Keeper saves,keeper_saves,2,5
+5073462,2026-01-06,Algeria,DR Congo,Duels,Duels won,duel_won,60,54
+5073462,2026-01-06,Algeria,DR Congo,Duels,Ground duels won,ground_duels_won,45 (52%),42 (48%)
+5073462,2026-01-06,Algeria,DR Congo,Duels,Aerial duels won,aerials_won,15 (56%),12 (44%)
+5073462,2026-01-06,Algeria,DR Congo,Duels,Successful dribbles,dribbles_succeeded,3 (21%),6 (43%)
+5073462,2026-01-06,Algeria,DR Congo,Discipline,Yellow cards,yellow_cards,3,2
+5073462,2026-01-06,Algeria,DR Congo,Discipline,Red cards,red_cards,0,0
+5073462,2026-01-06,Algeria,DR Congo,Discipline,Fouls committed,fouls,17,24
+5073461,2026-01-05,Nigeria,Mozambique,Top stats,Ball possession,BallPossesion,62,38
+5073461,2026-01-05,Nigeria,Mozambique,Top stats,Expected goals (xG),expected_goals,2.82,0.10
+5073461,2026-01-05,Nigeria,Mozambique,Top stats,Total shots,total_shots,22,2
+5073461,2026-01-05,Nigeria,Mozambique,Top stats,Shots on target,ShotsOnTarget,9,0
+5073461,2026-01-05,Nigeria,Mozambique,Top stats,Touches in opposition box,touches_opp_box,42,6
+5073461,2026-01-05,Nigeria,Mozambique,Top stats,Big chances,big_chance,4,0
+5073461,2026-01-05,Nigeria,Mozambique,Top stats,Big chances missed,big_chance_missed_title,1,0
+5073461,2026-01-05,Nigeria,Mozambique,Top stats,Accurate passes,accurate_passes,474 (90%),268 (79%)
+5073461,2026-01-05,Nigeria,Mozambique,Top stats,Yellow cards,yellow_cards,3,1
+5073461,2026-01-05,Nigeria,Mozambique,Top stats,Corners,corners,5,0
+5073461,2026-01-05,Nigeria,Mozambique,Shots,Total shots,total_shots,22,2
+5073461,2026-01-05,Nigeria,Mozambique,Shots,Shots off target,ShotsOffTarget,8,0
+5073461,2026-01-05,Nigeria,Mozambique,Shots,Shots on target,ShotsOnTarget,9,0
+5073461,2026-01-05,Nigeria,Mozambique,Shots,Blocked shots,blocked_shots,5,2
+5073461,2026-01-05,Nigeria,Mozambique,Shots,Hit woodwork,shots_woodwork,0,0
+5073461,2026-01-05,Nigeria,Mozambique,Shots,Shots inside box,shots_inside_box,14,2
+5073461,2026-01-05,Nigeria,Mozambique,Shots,Shots outside box,shots_outside_box,8,0
+5073461,2026-01-05,Nigeria,Mozambique,Expected goals (xG),Expected goals (xG),expected_goals,2.82,0.10
+5073461,2026-01-05,Nigeria,Mozambique,Expected goals (xG),xG open play,expected_goals_open_play,2.75,0.06
+5073461,2026-01-05,Nigeria,Mozambique,Expected goals (xG),xG set play,expected_goals_set_play,0.07,0.04
+5073461,2026-01-05,Nigeria,Mozambique,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,2.82,0.10
+5073461,2026-01-05,Nigeria,Mozambique,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,3.76,0.00
+5073461,2026-01-05,Nigeria,Mozambique,Passes,Passes,passes,529,338
+5073461,2026-01-05,Nigeria,Mozambique,Passes,Accurate passes,accurate_passes,474 (90%),268 (79%)
+5073461,2026-01-05,Nigeria,Mozambique,Passes,Own half,own_half_passes,234,191
+5073461,2026-01-05,Nigeria,Mozambique,Passes,Opposition half,opposition_half_passes,240,77
+5073461,2026-01-05,Nigeria,Mozambique,Passes,Accurate long balls,long_balls_accurate,25 (68%),25 (48%)
+5073461,2026-01-05,Nigeria,Mozambique,Passes,Accurate crosses,accurate_crosses,8 (32%),2 (29%)
+5073461,2026-01-05,Nigeria,Mozambique,Passes,Throws,player_throws,12,12
+5073461,2026-01-05,Nigeria,Mozambique,Passes,Touches in opposition box,touches_opp_box,42,6
+5073461,2026-01-05,Nigeria,Mozambique,Passes,Offsides,Offsides,2,3
+5073461,2026-01-05,Nigeria,Mozambique,Defence,Tackles,matchstats.headers.tackles,16,11
+5073461,2026-01-05,Nigeria,Mozambique,Defence,Interceptions,interceptions,11,13
+5073461,2026-01-05,Nigeria,Mozambique,Defence,Blocks,shot_blocks,2,5
+5073461,2026-01-05,Nigeria,Mozambique,Defence,Clearances,clearances,10,20
+5073461,2026-01-05,Nigeria,Mozambique,Defence,Keeper saves,keeper_saves,0,5
+5073461,2026-01-05,Nigeria,Mozambique,Duels,Duels won,duel_won,47,42
+5073461,2026-01-05,Nigeria,Mozambique,Duels,Ground duels won,ground_duels_won,36 (49%),38 (51%)
+5073461,2026-01-05,Nigeria,Mozambique,Duels,Aerial duels won,aerials_won,11 (73%),4 (27%)
+5073461,2026-01-05,Nigeria,Mozambique,Duels,Successful dribbles,dribbles_succeeded,8 (62%),8 (42%)
+5073461,2026-01-05,Nigeria,Mozambique,Discipline,Yellow cards,yellow_cards,3,1
+5073461,2026-01-05,Nigeria,Mozambique,Discipline,Red cards,red_cards,0,0
+5073461,2026-01-05,Nigeria,Mozambique,Discipline,Fouls committed,fouls,22,13
+5073472,2026-01-09,Cameroon,Morocco,Top stats,Ball possession,BallPossesion,59,41
+5073472,2026-01-09,Cameroon,Morocco,Top stats,Expected goals (xG),expected_goals,0.46,1.43
+5073472,2026-01-09,Cameroon,Morocco,Top stats,Total shots,total_shots,5,9
+5073472,2026-01-09,Cameroon,Morocco,Top stats,Shots on target,ShotsOnTarget,0,3
+5073472,2026-01-09,Cameroon,Morocco,Top stats,Touches in opposition box,touches_opp_box,12,16
+5073472,2026-01-09,Cameroon,Morocco,Top stats,Big chances,big_chance,1,1
+5073472,2026-01-09,Cameroon,Morocco,Top stats,Big chances missed,big_chance_missed_title,1,0
+5073472,2026-01-09,Cameroon,Morocco,Top stats,Accurate passes,accurate_passes,267 (78%),158 (70%)
+5073472,2026-01-09,Cameroon,Morocco,Top stats,Yellow cards,yellow_cards,2,2
+5073472,2026-01-09,Cameroon,Morocco,Top stats,Corners,corners,4,7
+5073472,2026-01-09,Cameroon,Morocco,Shots,Total shots,total_shots,5,9
+5073472,2026-01-09,Cameroon,Morocco,Shots,Shots off target,ShotsOffTarget,3,3
+5073472,2026-01-09,Cameroon,Morocco,Shots,Shots on target,ShotsOnTarget,0,3
+5073472,2026-01-09,Cameroon,Morocco,Shots,Blocked shots,blocked_shots,2,3
+5073472,2026-01-09,Cameroon,Morocco,Shots,Hit woodwork,shots_woodwork,0,0
+5073472,2026-01-09,Cameroon,Morocco,Shots,Shots inside box,shots_inside_box,5,8
+5073472,2026-01-09,Cameroon,Morocco,Shots,Shots outside box,shots_outside_box,0,1
+5073472,2026-01-09,Cameroon,Morocco,Expected goals (xG),Expected goals (xG),expected_goals,0.46,1.43
+5073472,2026-01-09,Cameroon,Morocco,Expected goals (xG),xG open play,expected_goals_open_play,0.00,0.39
+5073472,2026-01-09,Cameroon,Morocco,Expected goals (xG),xG set play,expected_goals_set_play,0.46,1.04
+5073472,2026-01-09,Cameroon,Morocco,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.46,1.43
+5073472,2026-01-09,Cameroon,Morocco,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.00,2.37
+5073472,2026-01-09,Cameroon,Morocco,Passes,Passes,passes,342,226
+5073472,2026-01-09,Cameroon,Morocco,Passes,Accurate passes,accurate_passes,267 (78%),158 (70%)
+5073472,2026-01-09,Cameroon,Morocco,Passes,Own half,own_half_passes,166,76
+5073472,2026-01-09,Cameroon,Morocco,Passes,Opposition half,opposition_half_passes,101,82
+5073472,2026-01-09,Cameroon,Morocco,Passes,Accurate long balls,long_balls_accurate,26 (43%),15 (31%)
+5073472,2026-01-09,Cameroon,Morocco,Passes,Accurate crosses,accurate_crosses,4 (21%),5 (28%)
+5073472,2026-01-09,Cameroon,Morocco,Passes,Throws,player_throws,27,9
+5073472,2026-01-09,Cameroon,Morocco,Passes,Touches in opposition box,touches_opp_box,12,16
+5073472,2026-01-09,Cameroon,Morocco,Passes,Offsides,Offsides,0,1
+5073472,2026-01-09,Cameroon,Morocco,Defence,Tackles,matchstats.headers.tackles,13,18
+5073472,2026-01-09,Cameroon,Morocco,Defence,Interceptions,interceptions,5,3
+5073472,2026-01-09,Cameroon,Morocco,Defence,Blocks,shot_blocks,2,2
+5073472,2026-01-09,Cameroon,Morocco,Defence,Clearances,clearances,19,35
+5073472,2026-01-09,Cameroon,Morocco,Defence,Keeper saves,keeper_saves,1,0
+5073472,2026-01-09,Cameroon,Morocco,Duels,Duels won,duel_won,59,61
+5073472,2026-01-09,Cameroon,Morocco,Duels,Ground duels won,ground_duels_won,41 (50%),41 (50%)
+5073472,2026-01-09,Cameroon,Morocco,Duels,Aerial duels won,aerials_won,18 (47%),20 (53%)
+5073472,2026-01-09,Cameroon,Morocco,Duels,Successful dribbles,dribbles_succeeded,4 (27%),5 (36%)
+5073472,2026-01-09,Cameroon,Morocco,Discipline,Yellow cards,yellow_cards,2,2
+5073472,2026-01-09,Cameroon,Morocco,Discipline,Red cards,red_cards,0,0
+5073472,2026-01-09,Cameroon,Morocco,Discipline,Fouls committed,fouls,19,24
+5073474,2026-01-10,Egypt,Ivory Coast,Top stats,Ball possession,BallPossesion,29,71
+5073474,2026-01-10,Egypt,Ivory Coast,Top stats,Expected goals (xG),expected_goals,0.78,1.17
+5073474,2026-01-10,Egypt,Ivory Coast,Top stats,Total shots,total_shots,6,13
+5073474,2026-01-10,Egypt,Ivory Coast,Top stats,Shots on target,ShotsOnTarget,4,4
+5073474,2026-01-10,Egypt,Ivory Coast,Top stats,Touches in opposition box,touches_opp_box,8,25
+5073474,2026-01-10,Egypt,Ivory Coast,Top stats,Big chances,big_chance,2,3
+5073474,2026-01-10,Egypt,Ivory Coast,Top stats,Big chances missed,big_chance_missed_title,0,2
+5073474,2026-01-10,Egypt,Ivory Coast,Top stats,Accurate passes,accurate_passes,183 (76%),515 (90%)
+5073474,2026-01-10,Egypt,Ivory Coast,Top stats,Yellow cards,yellow_cards,2,0
+5073474,2026-01-10,Egypt,Ivory Coast,Top stats,Corners,corners,3,7
+5073474,2026-01-10,Egypt,Ivory Coast,Shots,Total shots,total_shots,6,13
+5073474,2026-01-10,Egypt,Ivory Coast,Shots,Shots off target,ShotsOffTarget,1,3
+5073474,2026-01-10,Egypt,Ivory Coast,Shots,Shots on target,ShotsOnTarget,4,4
+5073474,2026-01-10,Egypt,Ivory Coast,Shots,Blocked shots,blocked_shots,1,6
+5073474,2026-01-10,Egypt,Ivory Coast,Shots,Hit woodwork,shots_woodwork,0,0
+5073474,2026-01-10,Egypt,Ivory Coast,Shots,Shots inside box,shots_inside_box,4,10
+5073474,2026-01-10,Egypt,Ivory Coast,Shots,Shots outside box,shots_outside_box,2,3
+5073474,2026-01-10,Egypt,Ivory Coast,Expected goals (xG),Expected goals (xG),expected_goals,0.78,1.17
+5073474,2026-01-10,Egypt,Ivory Coast,Expected goals (xG),xG open play,expected_goals_open_play,0.66,0.29
+5073474,2026-01-10,Egypt,Ivory Coast,Expected goals (xG),xG set play,expected_goals_set_play,0.12,0.89
+5073474,2026-01-10,Egypt,Ivory Coast,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.78,1.17
+5073474,2026-01-10,Egypt,Ivory Coast,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.65,1.47
+5073474,2026-01-10,Egypt,Ivory Coast,Passes,Passes,passes,240,572
+5073474,2026-01-10,Egypt,Ivory Coast,Passes,Accurate passes,accurate_passes,183 (76%),515 (90%)
+5073474,2026-01-10,Egypt,Ivory Coast,Passes,Own half,own_half_passes,118,247
+5073474,2026-01-10,Egypt,Ivory Coast,Passes,Opposition half,opposition_half_passes,65,268
+5073474,2026-01-10,Egypt,Ivory Coast,Passes,Accurate long balls,long_balls_accurate,15 (38%),21 (54%)
+5073474,2026-01-10,Egypt,Ivory Coast,Passes,Accurate crosses,accurate_crosses,1 (17%),8 (28%)
+5073474,2026-01-10,Egypt,Ivory Coast,Passes,Throws,player_throws,18,24
+5073474,2026-01-10,Egypt,Ivory Coast,Passes,Touches in opposition box,touches_opp_box,8,25
+5073474,2026-01-10,Egypt,Ivory Coast,Passes,Offsides,Offsides,2,1
+5073474,2026-01-10,Egypt,Ivory Coast,Defence,Tackles,matchstats.headers.tackles,27,17
+5073474,2026-01-10,Egypt,Ivory Coast,Defence,Interceptions,interceptions,10,6
+5073474,2026-01-10,Egypt,Ivory Coast,Defence,Blocks,shot_blocks,6,1
+5073474,2026-01-10,Egypt,Ivory Coast,Defence,Clearances,clearances,41,9
+5073474,2026-01-10,Egypt,Ivory Coast,Defence,Keeper saves,keeper_saves,3,1
+5073474,2026-01-10,Egypt,Ivory Coast,Duels,Duels won,duel_won,59,50
+5073474,2026-01-10,Egypt,Ivory Coast,Duels,Ground duels won,ground_duels_won,47 (55%),38 (45%)
+5073474,2026-01-10,Egypt,Ivory Coast,Duels,Aerial duels won,aerials_won,12 (50%),12 (50%)
+5073474,2026-01-10,Egypt,Ivory Coast,Duels,Successful dribbles,dribbles_succeeded,5 (33%),12 (43%)
+5073474,2026-01-10,Egypt,Ivory Coast,Discipline,Yellow cards,yellow_cards,2,0
+5073474,2026-01-10,Egypt,Ivory Coast,Discipline,Red cards,red_cards,0,0
+5073474,2026-01-10,Egypt,Ivory Coast,Discipline,Fouls committed,fouls,10,15
+5073473,2026-01-10,Algeria,Nigeria,Top stats,Ball possession,BallPossesion,43,57
+5073473,2026-01-10,Algeria,Nigeria,Top stats,Expected goals (xG),expected_goals,0.13,3.36
+5073473,2026-01-10,Algeria,Nigeria,Top stats,Total shots,total_shots,3,13
+5073473,2026-01-10,Algeria,Nigeria,Top stats,Shots on target,ShotsOnTarget,0,5
+5073473,2026-01-10,Algeria,Nigeria,Top stats,Touches in opposition box,touches_opp_box,10,41
+5073473,2026-01-10,Algeria,Nigeria,Top stats,Big chances,big_chance,0,7
+5073473,2026-01-10,Algeria,Nigeria,Top stats,Big chances missed,big_chance_missed_title,0,5
+5073473,2026-01-10,Algeria,Nigeria,Top stats,Accurate passes,accurate_passes,236 (77%),343 (83%)
+5073473,2026-01-10,Algeria,Nigeria,Top stats,Yellow cards,yellow_cards,5,3
+5073473,2026-01-10,Algeria,Nigeria,Top stats,Corners,corners,2,4
+5073473,2026-01-10,Algeria,Nigeria,Shots,Total shots,total_shots,3,13
+5073473,2026-01-10,Algeria,Nigeria,Shots,Shots off target,ShotsOffTarget,2,7
+5073473,2026-01-10,Algeria,Nigeria,Shots,Shots on target,ShotsOnTarget,0,5
+5073473,2026-01-10,Algeria,Nigeria,Shots,Blocked shots,blocked_shots,1,1
+5073473,2026-01-10,Algeria,Nigeria,Shots,Hit woodwork,shots_woodwork,0,1
+5073473,2026-01-10,Algeria,Nigeria,Shots,Shots inside box,shots_inside_box,2,12
+5073473,2026-01-10,Algeria,Nigeria,Shots,Shots outside box,shots_outside_box,1,1
+5073473,2026-01-10,Algeria,Nigeria,Expected goals (xG),Expected goals (xG),expected_goals,0.13,3.36
+5073473,2026-01-10,Algeria,Nigeria,Expected goals (xG),xG open play,expected_goals_open_play,0.07,2.47
+5073473,2026-01-10,Algeria,Nigeria,Expected goals (xG),xG set play,expected_goals_set_play,0.06,0.89
+5073473,2026-01-10,Algeria,Nigeria,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.13,3.36
+5073473,2026-01-10,Algeria,Nigeria,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.00,2.90
+5073473,2026-01-10,Algeria,Nigeria,Passes,Passes,passes,308,413
+5073473,2026-01-10,Algeria,Nigeria,Passes,Accurate passes,accurate_passes,236 (77%),343 (83%)
+5073473,2026-01-10,Algeria,Nigeria,Passes,Own half,own_half_passes,137,160
+5073473,2026-01-10,Algeria,Nigeria,Passes,Opposition half,opposition_half_passes,99,183
+5073473,2026-01-10,Algeria,Nigeria,Passes,Accurate long balls,long_balls_accurate,20 (41%),25 (46%)
+5073473,2026-01-10,Algeria,Nigeria,Passes,Accurate crosses,accurate_crosses,1 (7%),10 (42%)
+5073473,2026-01-10,Algeria,Nigeria,Passes,Throws,player_throws,18,15
+5073473,2026-01-10,Algeria,Nigeria,Passes,Touches in opposition box,touches_opp_box,10,41
+5073473,2026-01-10,Algeria,Nigeria,Passes,Offsides,Offsides,2,2
+5073473,2026-01-10,Algeria,Nigeria,Defence,Tackles,matchstats.headers.tackles,25,17
+5073473,2026-01-10,Algeria,Nigeria,Defence,Interceptions,interceptions,13,6
+5073473,2026-01-10,Algeria,Nigeria,Defence,Blocks,shot_blocks,1,1
+5073473,2026-01-10,Algeria,Nigeria,Defence,Clearances,clearances,31,18
+5073473,2026-01-10,Algeria,Nigeria,Defence,Keeper saves,keeper_saves,3,0
+5073473,2026-01-10,Algeria,Nigeria,Duels,Duels won,duel_won,49,59
+5073473,2026-01-10,Algeria,Nigeria,Duels,Ground duels won,ground_duels_won,42 (47%),48 (53%)
+5073473,2026-01-10,Algeria,Nigeria,Duels,Aerial duels won,aerials_won,7 (39%),11 (61%)
+5073473,2026-01-10,Algeria,Nigeria,Duels,Successful dribbles,dribbles_succeeded,3 (27%),9 (45%)
+5073473,2026-01-10,Algeria,Nigeria,Discipline,Yellow cards,yellow_cards,5,3
+5073473,2026-01-10,Algeria,Nigeria,Discipline,Red cards,red_cards,0,0
+5073473,2026-01-10,Algeria,Nigeria,Discipline,Fouls committed,fouls,23,14
+5073475,2026-01-14,Senegal,Egypt,Top stats,Ball possession,BallPossesion,63,37
+5073475,2026-01-14,Senegal,Egypt,Top stats,Expected goals (xG),expected_goals,0.33,0.12
+5073475,2026-01-14,Senegal,Egypt,Top stats,Total shots,total_shots,12,3
+5073475,2026-01-14,Senegal,Egypt,Top stats,Shots on target,ShotsOnTarget,4,1
+5073475,2026-01-14,Senegal,Egypt,Top stats,Touches in opposition box,touches_opp_box,15,9
+5073475,2026-01-14,Senegal,Egypt,Top stats,Big chances,big_chance,0,0
+5073475,2026-01-14,Senegal,Egypt,Top stats,Big chances missed,big_chance_missed_title,0,0
+5073475,2026-01-14,Senegal,Egypt,Top stats,Accurate passes,accurate_passes,468 (88%),215 (70%)
+5073475,2026-01-14,Senegal,Egypt,Top stats,Yellow cards,yellow_cards,2,1
+5073475,2026-01-14,Senegal,Egypt,Top stats,Corners,corners,6,1
+5073475,2026-01-14,Senegal,Egypt,Shots,Total shots,total_shots,12,3
+5073475,2026-01-14,Senegal,Egypt,Shots,Shots off target,ShotsOffTarget,4,1
+5073475,2026-01-14,Senegal,Egypt,Shots,Shots on target,ShotsOnTarget,4,1
+5073475,2026-01-14,Senegal,Egypt,Shots,Blocked shots,blocked_shots,4,1
+5073475,2026-01-14,Senegal,Egypt,Shots,Hit woodwork,shots_woodwork,0,0
+5073475,2026-01-14,Senegal,Egypt,Shots,Shots inside box,shots_inside_box,3,1
+5073475,2026-01-14,Senegal,Egypt,Shots,Shots outside box,shots_outside_box,9,2
+5073475,2026-01-14,Senegal,Egypt,Expected goals (xG),Expected goals (xG),expected_goals,0.33,0.12
+5073475,2026-01-14,Senegal,Egypt,Expected goals (xG),xG open play,expected_goals_open_play,0.23,0.06
+5073475,2026-01-14,Senegal,Egypt,Expected goals (xG),xG set play,expected_goals_set_play,0.10,0.06
+5073475,2026-01-14,Senegal,Egypt,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.33,0.12
+5073475,2026-01-14,Senegal,Egypt,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.42,0.05
+5073475,2026-01-14,Senegal,Egypt,Passes,Passes,passes,534,305
+5073475,2026-01-14,Senegal,Egypt,Passes,Accurate passes,accurate_passes,468 (88%),215 (70%)
+5073475,2026-01-14,Senegal,Egypt,Passes,Own half,own_half_passes,217,117
+5073475,2026-01-14,Senegal,Egypt,Passes,Opposition half,opposition_half_passes,251,98
+5073475,2026-01-14,Senegal,Egypt,Passes,Accurate long balls,long_balls_accurate,35 (64%),22 (35%)
+5073475,2026-01-14,Senegal,Egypt,Passes,Accurate crosses,accurate_crosses,1 (5%),3 (43%)
+5073475,2026-01-14,Senegal,Egypt,Passes,Throws,player_throws,25,23
+5073475,2026-01-14,Senegal,Egypt,Passes,Touches in opposition box,touches_opp_box,15,9
+5073475,2026-01-14,Senegal,Egypt,Passes,Offsides,Offsides,1,1
+5073475,2026-01-14,Senegal,Egypt,Defence,Tackles,matchstats.headers.tackles,13,24
+5073475,2026-01-14,Senegal,Egypt,Defence,Interceptions,interceptions,5,5
+5073475,2026-01-14,Senegal,Egypt,Defence,Blocks,shot_blocks,1,4
+5073475,2026-01-14,Senegal,Egypt,Defence,Clearances,clearances,15,28
+5073475,2026-01-14,Senegal,Egypt,Defence,Keeper saves,keeper_saves,1,3
+5073475,2026-01-14,Senegal,Egypt,Duels,Duels won,duel_won,44,53
+5073475,2026-01-14,Senegal,Egypt,Duels,Ground duels won,ground_duels_won,29 (43%),38 (57%)
+5073475,2026-01-14,Senegal,Egypt,Duels,Aerial duels won,aerials_won,15 (50%),15 (50%)
+5073475,2026-01-14,Senegal,Egypt,Duels,Successful dribbles,dribbles_succeeded,6 (27%),4 (36%)
+5073475,2026-01-14,Senegal,Egypt,Discipline,Yellow cards,yellow_cards,2,1
+5073475,2026-01-14,Senegal,Egypt,Discipline,Red cards,red_cards,0,0
+5073475,2026-01-14,Senegal,Egypt,Discipline,Fouls committed,fouls,10,11
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Top stats,Ball possession,BallPossesion,58,42
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Top stats,Expected goals (xG),expected_goals,2.02,0.41
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Top stats,Total shots,total_shots,21,8
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Top stats,Shots on target,ShotsOnTarget,4,2
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Top stats,Touches in opposition box,touches_opp_box,33,13
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Top stats,Big chances,big_chance,3,0
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Top stats,Big chances missed,big_chance_missed_title,1,0
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Top stats,Accurate passes,accurate_passes,429 (90%),290 (82%)
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Top stats,Yellow cards,yellow_cards,2,1
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Top stats,Corners,corners,5,2
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Shots,Total shots,total_shots,21,8
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Shots,Shots off target,ShotsOffTarget,12,4
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Shots,Shots on target,ShotsOnTarget,4,2
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Shots,Blocked shots,blocked_shots,5,2
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Shots,Hit woodwork,shots_woodwork,0,1
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Shots,Shots inside box,shots_inside_box,16,2
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Shots,Shots outside box,shots_outside_box,5,6
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Expected goals (xG),Expected goals (xG),expected_goals,2.02,0.41
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Expected goals (xG),xG open play,expected_goals_open_play,1.73,0.32
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Expected goals (xG),xG set play,expected_goals_set_play,0.29,0.09
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,2.02,0.41
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,1.68,0.23
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Passes,Passes,passes,478,355
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Passes,Accurate passes,accurate_passes,429 (90%),290 (82%)
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Passes,Own half,own_half_passes,235,149
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Passes,Opposition half,opposition_half_passes,194,141
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Passes,Accurate long balls,long_balls_accurate,22 (56%),17 (40%)
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Passes,Accurate crosses,accurate_crosses,5 (24%),1 (10%)
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Passes,Throws,player_throws,13,14
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Passes,Touches in opposition box,touches_opp_box,33,13
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Passes,Offsides,Offsides,0,0
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Defence,Tackles,matchstats.headers.tackles,18,11
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Defence,Interceptions,interceptions,4,9
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Defence,Blocks,shot_blocks,2,5
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Defence,Clearances,clearances,30,21
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Defence,Keeper saves,keeper_saves,2,1
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Duels,Duels won,duel_won,65,43
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Duels,Ground duels won,ground_duels_won,46 (56%),36 (44%)
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Duels,Aerial duels won,aerials_won,19 (73%),7 (27%)
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Duels,Successful dribbles,dribbles_succeeded,11 (69%),5 (33%)
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Discipline,Yellow cards,yellow_cards,2,1
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Discipline,Red cards,red_cards,0,0
+5073463,2026-01-06,Ivory Coast,Burkina Faso,Discipline,Fouls committed,fouls,20,17
+5073477,2026-01-17,Egypt,Nigeria,Top stats,Ball possession,BallPossesion,53,47
+5073477,2026-01-17,Egypt,Nigeria,Top stats,Expected goals (xG),expected_goals,0.29,0.20
+5073477,2026-01-17,Egypt,Nigeria,Top stats,Total shots,total_shots,5,4
+5073477,2026-01-17,Egypt,Nigeria,Top stats,Shots on target,ShotsOnTarget,1,4
+5073477,2026-01-17,Egypt,Nigeria,Top stats,Touches in opposition box,touches_opp_box,12,16
+5073477,2026-01-17,Egypt,Nigeria,Top stats,Big chances,big_chance,2,1
+5073477,2026-01-17,Egypt,Nigeria,Top stats,Big chances missed,big_chance_missed_title,2,1
+5073477,2026-01-17,Egypt,Nigeria,Top stats,Accurate passes,accurate_passes,392 (85%),341 (87%)
+5073477,2026-01-17,Egypt,Nigeria,Top stats,Yellow cards,yellow_cards,0,3
+5073477,2026-01-17,Egypt,Nigeria,Top stats,Corners,corners,2,4
+5073477,2026-01-17,Egypt,Nigeria,Shots,Total shots,total_shots,5,4
+5073477,2026-01-17,Egypt,Nigeria,Shots,Shots off target,ShotsOffTarget,2,0
+5073477,2026-01-17,Egypt,Nigeria,Shots,Shots on target,ShotsOnTarget,1,4
+5073477,2026-01-17,Egypt,Nigeria,Shots,Blocked shots,blocked_shots,2,0
+5073477,2026-01-17,Egypt,Nigeria,Shots,Hit woodwork,shots_woodwork,0,0
+5073477,2026-01-17,Egypt,Nigeria,Shots,Shots inside box,shots_inside_box,2,2
+5073477,2026-01-17,Egypt,Nigeria,Shots,Shots outside box,shots_outside_box,3,2
+5073477,2026-01-17,Egypt,Nigeria,Expected goals (xG),Expected goals (xG),expected_goals,0.29,0.20
+5073477,2026-01-17,Egypt,Nigeria,Expected goals (xG),xG open play,expected_goals_open_play,0.24,0.20
+5073477,2026-01-17,Egypt,Nigeria,Expected goals (xG),xG set play,expected_goals_set_play,0.06,0.00
+5073477,2026-01-17,Egypt,Nigeria,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.29,0.20
+5073477,2026-01-17,Egypt,Nigeria,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.19,0.67
+5073477,2026-01-17,Egypt,Nigeria,Passes,Passes,passes,459,393
+5073477,2026-01-17,Egypt,Nigeria,Passes,Accurate passes,accurate_passes,392 (85%),341 (87%)
+5073477,2026-01-17,Egypt,Nigeria,Passes,Own half,own_half_passes,251,188
+5073477,2026-01-17,Egypt,Nigeria,Passes,Opposition half,opposition_half_passes,141,153
+5073477,2026-01-17,Egypt,Nigeria,Passes,Accurate long balls,long_balls_accurate,24 (52%),24 (60%)
+5073477,2026-01-17,Egypt,Nigeria,Passes,Accurate crosses,accurate_crosses,1 (11%),1 (5%)
+5073477,2026-01-17,Egypt,Nigeria,Passes,Throws,player_throws,14,21
+5073477,2026-01-17,Egypt,Nigeria,Passes,Touches in opposition box,touches_opp_box,12,16
+5073477,2026-01-17,Egypt,Nigeria,Passes,Offsides,Offsides,3,4
+5073477,2026-01-17,Egypt,Nigeria,Defence,Tackles,matchstats.headers.tackles,21,13
+5073477,2026-01-17,Egypt,Nigeria,Defence,Interceptions,interceptions,6,10
+5073477,2026-01-17,Egypt,Nigeria,Defence,Blocks,shot_blocks,0,2
+5073477,2026-01-17,Egypt,Nigeria,Defence,Clearances,clearances,25,17
+5073477,2026-01-17,Egypt,Nigeria,Defence,Keeper saves,keeper_saves,4,1
+5073477,2026-01-17,Egypt,Nigeria,Duels,Duels won,duel_won,44,39
+5073477,2026-01-17,Egypt,Nigeria,Duels,Ground duels won,ground_duels_won,40 (53%),36 (47%)
+5073477,2026-01-17,Egypt,Nigeria,Duels,Aerial duels won,aerials_won,4 (57%),3 (43%)
+5073477,2026-01-17,Egypt,Nigeria,Duels,Successful dribbles,dribbles_succeeded,4 (31%),9 (41%)
+5073477,2026-01-17,Egypt,Nigeria,Discipline,Yellow cards,yellow_cards,0,3
+5073477,2026-01-17,Egypt,Nigeria,Discipline,Red cards,red_cards,0,0
+5073477,2026-01-17,Egypt,Nigeria,Discipline,Fouls committed,fouls,15,16
+5073478,2026-01-18,Senegal,Morocco,Top stats,Ball possession,BallPossesion,50,50
+5073478,2026-01-18,Senegal,Morocco,Top stats,Expected goals (xG),expected_goals,1.71,2.18
+5073478,2026-01-18,Senegal,Morocco,Top stats,Total shots,total_shots,14,21
+5073478,2026-01-18,Senegal,Morocco,Top stats,Shots on target,ShotsOnTarget,7,4
+5073478,2026-01-18,Senegal,Morocco,Top stats,Touches in opposition box,touches_opp_box,21,31
+5073478,2026-01-18,Senegal,Morocco,Top stats,Big chances,big_chance,4,3
+5073478,2026-01-18,Senegal,Morocco,Top stats,Big chances missed,big_chance_missed_title,4,3
+5073478,2026-01-18,Senegal,Morocco,Top stats,Accurate passes,accurate_passes,386 (81%),374 (81%)
+5073478,2026-01-18,Senegal,Morocco,Top stats,Yellow cards,yellow_cards,5,2
+5073478,2026-01-18,Senegal,Morocco,Top stats,Corners,corners,8,10
+5073478,2026-01-18,Senegal,Morocco,Shots,Total shots,total_shots,14,21
+5073478,2026-01-18,Senegal,Morocco,Shots,Shots off target,ShotsOffTarget,4,6
+5073478,2026-01-18,Senegal,Morocco,Shots,Shots on target,ShotsOnTarget,7,4
+5073478,2026-01-18,Senegal,Morocco,Shots,Blocked shots,blocked_shots,3,11
+5073478,2026-01-18,Senegal,Morocco,Shots,Hit woodwork,shots_woodwork,0,1
+5073478,2026-01-18,Senegal,Morocco,Shots,Shots inside box,shots_inside_box,11,16
+5073478,2026-01-18,Senegal,Morocco,Shots,Shots outside box,shots_outside_box,3,5
+5073478,2026-01-18,Senegal,Morocco,Expected goals (xG),Expected goals (xG),expected_goals,1.71,2.18
+5073478,2026-01-18,Senegal,Morocco,Expected goals (xG),xG open play,expected_goals_open_play,1.44,0.67
+5073478,2026-01-18,Senegal,Morocco,Expected goals (xG),xG set play,expected_goals_set_play,0.27,0.72
+5073478,2026-01-18,Senegal,Morocco,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.71,1.39
+5073478,2026-01-18,Senegal,Morocco,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,2.17,1.03
+5073478,2026-01-18,Senegal,Morocco,Passes,Passes,passes,478,463
+5073478,2026-01-18,Senegal,Morocco,Passes,Accurate passes,accurate_passes,386 (81%),374 (81%)
+5073478,2026-01-18,Senegal,Morocco,Passes,Own half,own_half_passes,235,202
+5073478,2026-01-18,Senegal,Morocco,Passes,Opposition half,opposition_half_passes,151,172
+5073478,2026-01-18,Senegal,Morocco,Passes,Accurate long balls,long_balls_accurate,31 (45%),26 (41%)
+5073478,2026-01-18,Senegal,Morocco,Passes,Accurate crosses,accurate_crosses,4 (24%),9 (29%)
+5073478,2026-01-18,Senegal,Morocco,Passes,Throws,player_throws,25,25
+5073478,2026-01-18,Senegal,Morocco,Passes,Touches in opposition box,touches_opp_box,21,31
+5073478,2026-01-18,Senegal,Morocco,Passes,Offsides,Offsides,1,1
+5073478,2026-01-18,Senegal,Morocco,Defence,Tackles,matchstats.headers.tackles,23,31
+5073478,2026-01-18,Senegal,Morocco,Defence,Interceptions,interceptions,5,8
+5073478,2026-01-18,Senegal,Morocco,Defence,Blocks,shot_blocks,10,3
+5073478,2026-01-18,Senegal,Morocco,Defence,Clearances,clearances,26,37
+5073478,2026-01-18,Senegal,Morocco,Defence,Keeper saves,keeper_saves,4,6
+5073478,2026-01-18,Senegal,Morocco,Duels,Duels won,duel_won,76,81
+5073478,2026-01-18,Senegal,Morocco,Duels,Ground duels won,ground_duels_won,52 (46%),60 (54%)
+5073478,2026-01-18,Senegal,Morocco,Duels,Aerial duels won,aerials_won,24 (53%),21 (47%)
+5073478,2026-01-18,Senegal,Morocco,Duels,Successful dribbles,dribbles_succeeded,13 (46%),5 (28%)
+5073478,2026-01-18,Senegal,Morocco,Discipline,Yellow cards,yellow_cards,5,2
+5073478,2026-01-18,Senegal,Morocco,Discipline,Red cards,red_cards,0,0
+5073478,2026-01-18,Senegal,Morocco,Discipline,Fouls committed,fouls,25,17
+5073476,2026-01-14,Nigeria,Morocco,Top stats,Ball possession,BallPossesion,51,49
+5073476,2026-01-14,Nigeria,Morocco,Top stats,Expected goals (xG),expected_goals,0.08,0.86
+5073476,2026-01-14,Nigeria,Morocco,Top stats,Total shots,total_shots,2,16
+5073476,2026-01-14,Nigeria,Morocco,Top stats,Shots on target,ShotsOnTarget,1,5
+5073476,2026-01-14,Nigeria,Morocco,Top stats,Touches in opposition box,touches_opp_box,11,20
+5073476,2026-01-14,Nigeria,Morocco,Top stats,Big chances,big_chance,0,1
+5073476,2026-01-14,Nigeria,Morocco,Top stats,Big chances missed,big_chance_missed_title,0,1
+5073476,2026-01-14,Nigeria,Morocco,Top stats,Accurate passes,accurate_passes,462 (83%),439 (83%)
+5073476,2026-01-14,Nigeria,Morocco,Top stats,Yellow cards,yellow_cards,2,0
+5073476,2026-01-14,Nigeria,Morocco,Top stats,Corners,corners,1,5
+5073476,2026-01-14,Nigeria,Morocco,Shots,Total shots,total_shots,2,16
+5073476,2026-01-14,Nigeria,Morocco,Shots,Shots off target,ShotsOffTarget,1,7
+5073476,2026-01-14,Nigeria,Morocco,Shots,Shots on target,ShotsOnTarget,1,5
+5073476,2026-01-14,Nigeria,Morocco,Shots,Blocked shots,blocked_shots,0,4
+5073476,2026-01-14,Nigeria,Morocco,Shots,Hit woodwork,shots_woodwork,0,0
+5073476,2026-01-14,Nigeria,Morocco,Shots,Shots inside box,shots_inside_box,0,8
+5073476,2026-01-14,Nigeria,Morocco,Shots,Shots outside box,shots_outside_box,2,8
+5073476,2026-01-14,Nigeria,Morocco,Expected goals (xG),Expected goals (xG),expected_goals,0.08,0.86
+5073476,2026-01-14,Nigeria,Morocco,Expected goals (xG),xG open play,expected_goals_open_play,0.08,0.71
+5073476,2026-01-14,Nigeria,Morocco,Expected goals (xG),xG set play,expected_goals_set_play,0.00,0.15
+5073476,2026-01-14,Nigeria,Morocco,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,0.08,0.86
+5073476,2026-01-14,Nigeria,Morocco,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.10,0.85
+5073476,2026-01-14,Nigeria,Morocco,Passes,Passes,passes,555,527
+5073476,2026-01-14,Nigeria,Morocco,Passes,Accurate passes,accurate_passes,462 (83%),439 (83%)
+5073476,2026-01-14,Nigeria,Morocco,Passes,Own half,own_half_passes,336,203
+5073476,2026-01-14,Nigeria,Morocco,Passes,Opposition half,opposition_half_passes,126,236
+5073476,2026-01-14,Nigeria,Morocco,Passes,Accurate long balls,long_balls_accurate,33 (50%),42 (54%)
+5073476,2026-01-14,Nigeria,Morocco,Passes,Accurate crosses,accurate_crosses,3 (20%),4 (16%)
+5073476,2026-01-14,Nigeria,Morocco,Passes,Throws,player_throws,23,34
+5073476,2026-01-14,Nigeria,Morocco,Passes,Touches in opposition box,touches_opp_box,11,20
+5073476,2026-01-14,Nigeria,Morocco,Passes,Offsides,Offsides,0,0
+5073476,2026-01-14,Nigeria,Morocco,Defence,Tackles,matchstats.headers.tackles,25,24
+5073476,2026-01-14,Nigeria,Morocco,Defence,Interceptions,interceptions,14,7
+5073476,2026-01-14,Nigeria,Morocco,Defence,Blocks,shot_blocks,4,0
+5073476,2026-01-14,Nigeria,Morocco,Defence,Clearances,clearances,40,23
+5073476,2026-01-14,Nigeria,Morocco,Defence,Keeper saves,keeper_saves,5,1
+5073476,2026-01-14,Nigeria,Morocco,Duels,Duels won,duel_won,65,72
+5073476,2026-01-14,Nigeria,Morocco,Duels,Ground duels won,ground_duels_won,49 (45%),59 (55%)
+5073476,2026-01-14,Nigeria,Morocco,Duels,Aerial duels won,aerials_won,16 (55%),13 (45%)
+5073476,2026-01-14,Nigeria,Morocco,Duels,Successful dribbles,dribbles_succeeded,4 (40%),9 (39%)
+5073476,2026-01-14,Nigeria,Morocco,Discipline,Yellow cards,yellow_cards,2,0
+5073476,2026-01-14,Nigeria,Morocco,Discipline,Red cards,red_cards,0,0
+5073476,2026-01-14,Nigeria,Morocco,Discipline,Fouls committed,fouls,29,22
+5073471,2026-01-09,Mali,Senegal,Top stats,Ball possession,BallPossesion,35,65
+5073471,2026-01-09,Mali,Senegal,Top stats,Expected goals (xG),expected_goals,1.12,1.88
+5073471,2026-01-09,Mali,Senegal,Top stats,Total shots,total_shots,8,19
+5073471,2026-01-09,Mali,Senegal,Top stats,Shots on target,ShotsOnTarget,2,8
+5073471,2026-01-09,Mali,Senegal,Top stats,Touches in opposition box,touches_opp_box,11,22
+5073471,2026-01-09,Mali,Senegal,Top stats,Big chances,big_chance,2,2
+5073471,2026-01-09,Mali,Senegal,Top stats,Big chances missed,big_chance_missed_title,2,1
+5073471,2026-01-09,Mali,Senegal,Top stats,Accurate passes,accurate_passes,197 (73%),437 (87%)
+5073471,2026-01-09,Mali,Senegal,Top stats,Yellow cards,yellow_cards,1,5
+5073471,2026-01-09,Mali,Senegal,Top stats,Corners,corners,5,7
+5073471,2026-01-09,Mali,Senegal,Shots,Total shots,total_shots,8,19
+5073471,2026-01-09,Mali,Senegal,Shots,Shots off target,ShotsOffTarget,3,5
+5073471,2026-01-09,Mali,Senegal,Shots,Shots on target,ShotsOnTarget,2,8
+5073471,2026-01-09,Mali,Senegal,Shots,Blocked shots,blocked_shots,3,6
+5073471,2026-01-09,Mali,Senegal,Shots,Hit woodwork,shots_woodwork,0,1
+5073471,2026-01-09,Mali,Senegal,Shots,Shots inside box,shots_inside_box,5,11
+5073471,2026-01-09,Mali,Senegal,Shots,Shots outside box,shots_outside_box,3,8
+5073471,2026-01-09,Mali,Senegal,Expected goals (xG),Expected goals (xG),expected_goals,1.12,1.88
+5073471,2026-01-09,Mali,Senegal,Expected goals (xG),xG open play,expected_goals_open_play,0.83,1.63
+5073471,2026-01-09,Mali,Senegal,Expected goals (xG),xG set play,expected_goals_set_play,0.29,0.25
+5073471,2026-01-09,Mali,Senegal,Expected goals (xG),xG non-penalty,expected_goals_non_penalty,1.12,1.88
+5073471,2026-01-09,Mali,Senegal,Expected goals (xG),xG on target (xGOT),expected_goals_on_target,0.95,2.28
+5073471,2026-01-09,Mali,Senegal,Passes,Passes,passes,270,500
+5073471,2026-01-09,Mali,Senegal,Passes,Accurate passes,accurate_passes,197 (73%),437 (87%)
+5073471,2026-01-09,Mali,Senegal,Passes,Own half,own_half_passes,99,175
+5073471,2026-01-09,Mali,Senegal,Passes,Opposition half,opposition_half_passes,98,262
+5073471,2026-01-09,Mali,Senegal,Passes,Accurate long balls,long_balls_accurate,14 (28%),24 (63%)
+5073471,2026-01-09,Mali,Senegal,Passes,Accurate crosses,accurate_crosses,1 (8%),3 (18%)
+5073471,2026-01-09,Mali,Senegal,Passes,Throws,player_throws,17,15
+5073471,2026-01-09,Mali,Senegal,Passes,Touches in opposition box,touches_opp_box,11,22
+5073471,2026-01-09,Mali,Senegal,Passes,Offsides,Offsides,3,1
+5073471,2026-01-09,Mali,Senegal,Defence,Tackles,matchstats.headers.tackles,10,14
+5073471,2026-01-09,Mali,Senegal,Defence,Interceptions,interceptions,18,6
+5073471,2026-01-09,Mali,Senegal,Defence,Blocks,shot_blocks,5,3
+5073471,2026-01-09,Mali,Senegal,Defence,Clearances,clearances,25,34
+5073471,2026-01-09,Mali,Senegal,Defence,Keeper saves,keeper_saves,7,2
+5073471,2026-01-09,Mali,Senegal,Duels,Duels won,duel_won,38,44
+5073471,2026-01-09,Mali,Senegal,Duels,Ground duels won,ground_duels_won,26 (51%),25 (49%)
+5073471,2026-01-09,Mali,Senegal,Duels,Aerial duels won,aerials_won,12 (39%),19 (61%)
+5073471,2026-01-09,Mali,Senegal,Duels,Successful dribbles,dribbles_succeeded,4 (40%),3 (30%)
+5073471,2026-01-09,Mali,Senegal,Discipline,Yellow cards,yellow_cards,1,5
+5073471,2026-01-09,Mali,Senegal,Discipline,Red cards,red_cards,1,0
+5073471,2026-01-09,Mali,Senegal,Discipline,Fouls committed,fouls,8,14
+4721985,2025-12-26,Morocco,Mali,Top stats,Ball possession,BallPossesion,57,43
+4721985,2025-12-26,Morocco,Mali,Top stats,Total shots,total_shots,11,11
+4721985,2025-12-26,Morocco,Mali,Top stats,Shots on target,ShotsOnTarget,4,3
+4721985,2025-12-26,Morocco,Mali,Top stats,Touches in opposition box,touches_opp_box,39,20
+4721985,2025-12-26,Morocco,Mali,Top stats,Big chances,big_chance,1,2
+4721985,2025-12-26,Morocco,Mali,Top stats,Big chances missed,big_chance_missed_title,0,1
+4721985,2025-12-26,Morocco,Mali,Top stats,Accurate passes,accurate_passes,525 (90%),390 (88%)
+4721985,2025-12-26,Morocco,Mali,Top stats,Yellow cards,yellow_cards,1,5
+4721985,2025-12-26,Morocco,Mali,Top stats,Corners,corners,5,3
+4721985,2025-12-26,Morocco,Mali,Shots,Total shots,total_shots,11,11
+4721985,2025-12-26,Morocco,Mali,Shots,Shots off target,ShotsOffTarget,4,5
+4721985,2025-12-26,Morocco,Mali,Shots,Shots on target,ShotsOnTarget,4,3
+4721985,2025-12-26,Morocco,Mali,Shots,Blocked shots,blocked_shots,3,3
+4721985,2025-12-26,Morocco,Mali,Shots,Hit woodwork,shots_woodwork,0,0
+4721985,2025-12-26,Morocco,Mali,Shots,Shots inside box,shots_inside_box,9,8
+4721985,2025-12-26,Morocco,Mali,Shots,Shots outside box,shots_outside_box,2,3
+4721985,2025-12-26,Morocco,Mali,Passes,Passes,passes,583,443
+4721985,2025-12-26,Morocco,Mali,Passes,Accurate passes,accurate_passes,525 (90%),390 (88%)
+4721985,2025-12-26,Morocco,Mali,Passes,Own half,own_half_passes,333,219
+4721985,2025-12-26,Morocco,Mali,Passes,Opposition half,opposition_half_passes,192,171
+4721985,2025-12-26,Morocco,Mali,Passes,Accurate long balls,long_balls_accurate,29 (76%),12 (40%)
+4721985,2025-12-26,Morocco,Mali,Passes,Accurate crosses,accurate_crosses,9 (41%),2 (25%)
+4721985,2025-12-26,Morocco,Mali,Passes,Throws,player_throws,24,14
+4721985,2025-12-26,Morocco,Mali,Passes,Touches in opposition box,touches_opp_box,39,20
+4721985,2025-12-26,Morocco,Mali,Passes,Offsides,Offsides,0,2
+4721985,2025-12-26,Morocco,Mali,Defence,Tackles,matchstats.headers.tackles,11,16
+4721985,2025-12-26,Morocco,Mali,Defence,Interceptions,interceptions,6,13
+4721985,2025-12-26,Morocco,Mali,Defence,Blocks,shot_blocks,3,3
+4721985,2025-12-26,Morocco,Mali,Defence,Clearances,clearances,8,24
+4721985,2025-12-26,Morocco,Mali,Defence,Keeper saves,keeper_saves,2,3
+4721985,2025-12-26,Morocco,Mali,Duels,Duels won,duel_won,47,31
+4721985,2025-12-26,Morocco,Mali,Duels,Ground duels won,ground_duels_won,43 (62%),26 (38%)
+4721985,2025-12-26,Morocco,Mali,Duels,Aerial duels won,aerials_won,4 (44%),5 (56%)
+4721985,2025-12-26,Morocco,Mali,Duels,Successful dribbles,dribbles_succeeded,9 (47%),6 (75%)
+4721985,2025-12-26,Morocco,Mali,Discipline,Yellow cards,yellow_cards,1,5
+4721985,2025-12-26,Morocco,Mali,Discipline,Red cards,red_cards,0,0
+4721985,2025-12-26,Morocco,Mali,Discipline,Fouls committed,fouls,4,24

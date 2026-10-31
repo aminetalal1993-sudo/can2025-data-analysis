@@ -1,0 +1,36 @@
+year,host_country,winner,runner_up,num_teams,matches_played,total_goals,goals_per_match,avg_attendance,host_won
+1957,Soudan,Égypte,Éthiopie,3,2,7,3.5,30000,0
+1959,Égypte,Égypte,Soudan,3,3,8,2.67,35000,1
+1962,Éthiopie,Éthiopie,Égypte,4,4,18,4.5,28000,1
+1963,Ghana,Ghana,Soudan,6,8,33,4.13,32000,1
+1965,Tunisie,Ghana,Tunisie,6,8,31,3.88,25000,0
+1968,Éthiopie,RD Congo,Ghana,8,16,52,3.25,24000,0
+1970,Soudan,Soudan,Ghana,8,16,51,3.19,26000,1
+1972,Cameroun,Congo,Mali,8,16,53,3.31,38000,0
+1974,Égypte,RD Congo,Zambie,8,17,54,3.18,42000,0
+1976,Éthiopie,Maroc,Guinée,8,18,54,3.0,30000,0
+1978,Ghana,Ghana,Ouganda,8,16,38,2.38,36000,1
+1980,Nigeria,Nigeria,Algérie,8,16,33,2.06,48000,1
+1982,Libye,Ghana,Libye,8,16,32,2.0,40000,0
+1984,Côte d'Ivoire,Cameroun,Nigeria,8,16,39,2.44,33000,0
+1986,Égypte,Égypte,Cameroun,8,16,31,1.94,52000,1
+1988,Maroc,Cameroun,Nigeria,8,16,23,1.44,46000,0
+1990,Algérie,Algérie,Nigeria,8,16,30,1.88,55000,1
+1992,Sénégal,Côte d'Ivoire,Ghana,12,20,34,1.7,35000,0
+1994,Tunisie,Nigeria,Zambie,12,20,44,2.2,28000,0
+1996,Afrique du Sud,Afrique du Sud,Tunisie,15,29,78,2.69,34000,1
+1998,Burkina Faso,Égypte,Afrique du Sud,16,32,93,2.91,25000,0
+2000,Ghana/Nigeria,Cameroun,Nigeria,16,32,73,2.28,39000,0
+2002,Mali,Cameroun,Sénégal,16,32,48,1.5,31000,0
+2004,Tunisie,Tunisie,Maroc,16,32,88,2.75,29000,1
+2006,Égypte,Égypte,Côte d'Ivoire,16,32,73,2.28,41000,1
+2008,Ghana,Égypte,Cameroun,16,32,99,3.09,33000,0
+2010,Angola,Égypte,Ghana,15,29,71,2.45,27000,0
+2012,Gabon/Guinée Éq.,Zambie,Côte d'Ivoire,16,32,76,2.38,24000,0
+2013,Afrique du Sud,Nigeria,Burkina Faso,16,32,69,2.16,28000,0
+2015,Guinée Équatoriale,Côte d'Ivoire,Ghana,16,32,68,2.13,22000,0
+2017,Gabon,Cameroun,Égypte,16,32,66,2.06,21000,0
+2019,Égypte,Algérie,Sénégal,24,52,102,1.96,26500,0
+2021,Cameroun,Sénégal,Égypte,24,52,100,1.92,24800,0
+2023,Côte d'Ivoire,Côte d'Ivoire,Nigeria,24,52,119,2.29,34200,1
+2025,Maroc,Maroc,Sénégal,24,52,123,2.37,25770,1

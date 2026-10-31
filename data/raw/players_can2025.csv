@@ -1,0 +1,57 @@
+player_id,player_name,team_id,team_name,position,age,club,market_value_m_eur,matches_played,minutes_played,goals,xg,assists,xa,key_passes,progressive_carries,tackles_won,interceptions,duels_won_pct,clean_sheets,rating
+P001,Brahim Díaz,MAR,Maroc,Attaquant,26,Real Madrid,45.0,7,610,6,4.8,3,2.4,21,34,6,4,64.5,4,8.45
+P002,Achraf Hakimi,MAR,Maroc,Défenseur,27,Paris SG,65.0,7,630,2,1.4,4,3.1,19,42,18,12,68.0,4,8.35
+P003,Ayoub El Kaabi,MAR,Maroc,Attaquant,32,Olympiakos,6.0,7,480,4,3.5,1,0.8,8,11,5,3,59.0,4,7.8
+P004,Youssef En-Nesyri,MAR,Maroc,Attaquant,28,Fenerbahçe,22.0,6,310,2,2.1,0,0.4,5,7,3,2,62.0,3,7.25
+P005,Ismael Saibari,MAR,Maroc,Milieu,24,PSV Eindhoven,20.0,7,540,2,1.6,2,1.9,15,26,13,8,65.0,4,7.85
+P006,Bilal El Khannouss,MAR,Maroc,Milieu,21,Leicester City,28.0,7,520,1,0.9,3,2.5,18,24,11,9,61.5,4,7.75
+P007,Sofyan Amrabat,MAR,Maroc,Milieu,29,Fenerbahçe,18.0,7,600,0,0.3,0,0.6,7,14,24,19,71.0,4,7.65
+P008,Nayef Aguerd,MAR,Maroc,Défenseur,29,Real Sociedad,25.0,7,630,1,0.7,0,0.2,4,12,16,21,74.0,4,7.7
+P009,Noussair Mazraoui,MAR,Maroc,Défenseur,28,Manchester United,32.0,7,590,0,0.4,2,1.5,11,22,19,14,67.5,4,7.6
+P010,Yassine Bounou,MAR,Maroc,Gardien,34,Al-Hilal,10.0,7,630,0,0.0,0,0.1,1,0,1,2,80.0,4,7.9
+P011,Eliesse Ben Seghir,MAR,Maroc,Attaquant,20,AS Monaco,25.0,6,340,1,1.1,2,1.6,13,25,6,4,58.0,3,7.55
+P012,Abdessamad Ezzalzouli,MAR,Maroc,Attaquant,24,Real Betis,15.0,6,290,1,0.9,1,1.2,10,27,7,3,56.5,3,7.35
+P013,Azzedine Ounahi,MAR,Maroc,Milieu,25,Panathinaïkos,12.0,6,360,0,0.6,1,1.3,12,21,9,7,60.0,3,7.3
+P014,Chadi Riad,MAR,Maroc,Défenseur,22,Crystal Palace,15.0,5,410,0,0.3,0,0.1,2,8,12,15,70.5,3,7.4
+P015,Soufiane Rahimi,MAR,Maroc,Attaquant,29,Al-Ain,8.5,5,220,1,1.0,1,0.7,6,12,4,2,57.0,2,7.2
+P016,Nicolas Jackson,SEN,Sénégal,Attaquant,24,Chelsea,45.0,7,580,5,4.4,2,1.5,12,26,5,3,58.5,3,8.05
+P017,Sadio Mané,SEN,Sénégal,Attaquant,33,Al-Nassr,15.0,7,600,3,2.7,3,2.3,17,28,7,4,60.0,3,7.95
+P018,Lamine Camara,SEN,Sénégal,Milieu,21,AS Monaco,18.0,7,590,2,1.3,3,2.2,16,24,18,14,66.5,3,7.9
+P019,Pape Matar Sarr,SEN,Sénégal,Milieu,23,Tottenham,40.0,7,570,1,0.9,1,1.4,13,22,17,15,65.0,3,7.65
+P020,Kalidou Koulibaly,SEN,Sénégal,Défenseur,34,Al-Hilal,9.0,7,630,0,0.4,0,0.2,3,9,17,19,73.0,3,7.55
+P021,Habib Diarra,SEN,Sénégal,Milieu,21,RC Strasbourg,20.0,6,430,1,0.8,2,1.5,11,23,12,9,63.0,3,7.5
+P022,Victor Osimhen,NGA,Nigeria,Attaquant,27,Galatasaray,75.0,7,610,5,4.9,1,1.1,10,20,4,3,63.5,3,8.1
+P023,Ademola Lookman,NGA,Nigeria,Attaquant,28,Atalanta,55.0,7,595,4,3.2,3,2.6,19,33,6,5,59.5,3,8.15
+P024,Victor Boniface,NGA,Nigeria,Attaquant,25,Bayer Leverkusen,45.0,6,320,2,1.9,1,0.9,8,15,3,2,57.0,2,7.4
+P025,Wilfred Ndidi,NGA,Nigeria,Milieu,29,Leicester City,16.0,7,600,0,0.4,1,0.7,6,11,25,20,70.0,3,7.55
+P026,Calvin Bassey,NGA,Nigeria,Défenseur,26,Fulham,22.0,7,630,0,0.2,0,0.3,3,14,16,17,71.0,3,7.5
+P027,Stanley Nwabali,NGA,Nigeria,Gardien,29,Chippa United,2.5,7,630,0,0.0,0,0.0,0,0,1,2,76.0,3,7.45
+P028,Mohamed Salah,EGY,Égypte,Attaquant,33,Liverpool,55.0,7,620,4,3.6,3,2.8,20,29,4,3,57.5,2,8.05
+P029,Omar Marmoush,EGY,Égypte,Attaquant,26,Eintracht Francfort,45.0,7,600,4,3.1,2,1.9,15,31,6,4,60.5,2,7.95
+P030,Mostafa Mohamed,EGY,Égypte,Attaquant,28,FC Nantes,10.0,7,510,2,2.2,1,0.7,7,10,4,2,61.0,2,7.35
+P031,Ibrahim Adel,EGY,Égypte,Attaquant,22,Pyramids FC,3.5,6,410,2,1.4,2,1.6,13,24,5,4,62.0,2,7.65
+P032,Mohammed Amoura,ALG,Algérie,Attaquant,25,VfL Wolfsburg,22.0,5,430,4,3.1,2,1.5,13,28,5,3,60.0,2,7.95
+P033,Rayan Aït-Nouri,ALG,Algérie,Défenseur,24,Wolverhampton,35.0,5,450,1,0.6,2,1.7,12,29,14,10,66.0,2,7.75
+P034,Amine Gouiri,ALG,Algérie,Attaquant,25,Stade Rennais,25.0,5,390,2,1.8,1,1.2,11,19,4,3,56.0,2,7.45
+P035,Ismaël Bennacer,ALG,Algérie,Milieu,28,AC Milan,30.0,5,420,0,0.3,2,1.4,12,21,16,13,67.0,2,7.55
+P036,Anis Hadj Moussa,ALG,Algérie,Attaquant,22,Feyenoord,8.0,5,340,2,1.3,2,1.5,12,26,4,3,61.0,2,7.6
+P037,Simon Adingra,CIV,Côte d'Ivoire,Attaquant,23,Brighton,30.0,5,440,2,1.7,2,1.8,14,29,6,4,59.0,1,7.7
+P038,Franck Kessié,CIV,Côte d'Ivoire,Milieu,29,Al-Ahli,18.0,5,450,1,0.9,1,0.8,8,15,15,12,68.5,1,7.5
+P039,Oumar Diakité,CIV,Côte d'Ivoire,Attaquant,22,Stade de Reims,12.0,5,380,3,2.1,1,1.1,10,21,5,4,62.5,1,7.75
+P040,Ousmane Diomande,CIV,Côte d'Ivoire,Défenseur,22,Sporting CP,40.0,5,450,0,0.3,0,0.2,3,13,14,16,72.5,1,7.6
+P041,Kamory Doumbia,MLI,Mali,Milieu,22,Stade Brestois,7.5,5,420,2,1.5,3,2.1,16,25,9,7,63.0,1,7.8
+P042,Yves Bissouma,MLI,Mali,Milieu,29,Tottenham,32.0,5,450,1,0.7,0,0.6,7,19,18,15,69.0,1,7.55
+P043,Yoane Wissa,COD,RD Congo,Attaquant,29,Brentford,28.0,5,435,3,2.4,2,1.4,12,22,6,4,60.5,2,7.75
+P044,Noah Sadiki,COD,RD Congo,Milieu,21,Union SG,6.5,5,410,1,0.6,2,1.3,11,20,16,13,66.0,2,7.65
+P045,Bryan Mbeumo,CMR,Cameroun,Attaquant,26,Brentford,45.0,4,360,3,2.3,1,1.3,12,21,5,3,59.0,1,7.8
+P046,Carlos Baleba,CMR,Cameroun,Milieu,21,Brighton,25.0,4,360,0,0.4,1,0.8,8,22,16,14,71.5,1,7.7
+P047,Dango Ouattara,BFA,Burkina Faso,Attaquant,23,Bournemouth,18.0,4,350,2,1.6,1,1.1,9,20,6,4,60.0,1,7.45
+P048,Edmond Tapsoba,BFA,Burkina Faso,Défenseur,26,Bayer Leverkusen,40.0,4,360,0,0.2,0,0.2,3,12,11,13,71.0,1,7.4
+P049,Teboho Mokoena,RSA,Afrique du Sud,Milieu,28,Mamelodi Sundowns,3.2,4,360,1,0.8,1,1.1,10,15,12,10,66.0,1,7.5
+P050,Relebohile Mofokeng,RSA,Afrique du Sud,Attaquant,20,Orlando Pirates,2.0,4,310,2,1.2,1,1.3,11,23,4,3,61.5,1,7.6
+P051,Ellyes Skhiri,TUN,Tunisie,Milieu,30,Eintracht Francfort,12.0,4,360,1,0.7,0,0.5,6,12,15,14,68.0,2,7.35
+P052,Gelson Dala,ANG,Angola,Attaquant,29,Al-Wakrah,4.0,4,340,2,1.7,1,0.8,8,14,4,2,58.0,0,7.35
+P053,Patson Daka,ZAM,Zambie,Attaquant,27,Leicester City,12.0,3,270,2,1.8,0,0.4,5,9,3,1,56.0,0,7.15
+P054,Rafiki Saïd,COM,Comores,Attaquant,25,ESTAC Troyes,2.5,3,260,1,0.9,1,0.7,7,15,4,2,57.5,0,7.1
+P055,Pierre-Emerick Aubameyang,GAB,Gabon,Attaquant,36,Al-Qadsiah,5.0,4,350,2,2.0,1,0.7,6,10,2,1,55.0,0,7.25
+P056,Geny Catamo,MOZ,Mozambique,Attaquant,24,Sporting CP,12.0,3,270,1,0.9,1,0.9,8,17,5,3,59.5,0,7.25
