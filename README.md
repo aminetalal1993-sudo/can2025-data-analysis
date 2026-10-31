@@ -167,7 +167,7 @@ can2025-data-analysis/
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/VOTRE_NOM_UTILISATEUR/can2025-data-analysis.git
+git clone https://github.com/aminetalal1993-sudo/can2025-data-analysis.git
 cd can2025-data-analysis
 
 # 2. Installer les librairies Python
